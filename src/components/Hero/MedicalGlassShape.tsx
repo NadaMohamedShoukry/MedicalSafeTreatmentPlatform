@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import Lung from "../../assets/lung.png";
 function MedicalGlassShape() {
   return (
     <div className="hidden lg:flex absolute inset-0 items-center justify-end pr-24 pl-24 pointer-events-none overflow-hidden">
@@ -82,7 +83,7 @@ function MedicalGlassShape() {
 
         {/* Medical Image */}
         <motion.img
-          src="./lung.png" // replace with your image path
+          src={Lung} // replace with your image path
           alt="Medical lungs"
           className="absolute inset-0 w-full h-full object-contain
                  scale-110 opacity-90

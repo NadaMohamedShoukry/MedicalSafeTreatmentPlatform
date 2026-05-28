@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import Lung from "../../assets/lung.png";
 function MobileMedicalGlassShape() {
   return (
     <div className="flex lg:hidden justify-center mt-4">
@@ -23,7 +24,7 @@ function MobileMedicalGlassShape() {
 
         {/* Image */}
         <motion.img
-          src="../../../public/lung.png"
+          src={Lung}
           alt="Medical lungs"
           className="absolute inset-0 w-full h-full object-contain scale-110 opacity-90
                  drop-shadow-[0_0_30px_rgba(34,211,238,0.7)]"
