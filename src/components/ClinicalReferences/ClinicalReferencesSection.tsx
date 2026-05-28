@@ -9,6 +9,7 @@ import type {
   PregnancySafetyContent,
   RedFlagsContent,
 } from "../../types/ClinicalReferences";
+import EmptyClinical from "./EmptyClinical";
 function ClinicalReferencesSection() {
   const { fieldId } = useParams();
   const { language } = useTheme();
@@ -32,10 +33,11 @@ function ClinicalReferencesSection() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <h1 className="mt-12 text-2xl sm:text-3xl font-black text-gray-900 dark:text-white">
-          {language === "en" ? "Clinical References" : "المراجع الطبيه"}
+        <h1 className="mt-12 text-2xl sm:text-3xl font-black text-gray-900 dark:text-white ">
+          {language === "en" ? "For your safety" : "من أجل سلامتك"}
         </h1>
       </motion.div>
+      {clinicalReferences?.length === 0 && <EmptyClinical />}
       {redFlags && (
         <motion.div
           className="mb-6 p-6 sm:p-8 rounded-3xl bg-white/50 dark:bg-slate-800/50 backdrop-blur-md border border-white/60 dark:border-slate-700/60 shadow-xl hover:shadow-2xl transition-all duration-300"

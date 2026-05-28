@@ -41,9 +41,9 @@ function DiseasesSection() {
           <div>
             <button
               onClick={() => navigate(`/clinical-references/${field.id}`)}
-              className="text-xl text-gray-900 dark:text-white"
+              className="text-lg text-gray-900 dark:text-white border border-blue-700 dark:border-blue-200 px-2 py-1 rounded-2xl"
             >
-              {language === "en" ? "Clinical References" : "المراجع الطبيه"}
+              {language === "en" ? "For your safety" : "من أجل سلامتك"}
             </button>
           </div>
         </motion.div>

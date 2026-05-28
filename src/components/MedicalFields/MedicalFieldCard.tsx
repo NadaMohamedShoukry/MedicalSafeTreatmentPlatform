@@ -34,10 +34,10 @@ function MedicalFieldCard({ field, index }: MedicalFieldCardProps) {
       <div
         className={`absolute inset-0 bg-linear-to-br from-blue-200 to-cyan-100 opacity-0 group-hover:opacity-10 transition-opacity duration-500`}
       />
-      <div className="flex gap-10">
+      <div className="flex gap-3">
         {/* Icon */}
         <div className="relative mb-4">
-          <img className="w-28 h-25" src={field.images} />
+          <img className="w-42 h-25" src={field.images} />
         </div>
 
         {/* Content */}

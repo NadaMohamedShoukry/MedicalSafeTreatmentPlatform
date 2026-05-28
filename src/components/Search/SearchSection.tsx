@@ -13,6 +13,7 @@ import useSearch from "../../hooks/useSearch";
 import SearchInput from "./SearchInput";
 import EmptySearch from "./EmptySearch";
 import type { Disease } from "../../types/Diseases";
+import SearchInitialState from "./SearchInitialState";
 
 function SearchSection() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -35,8 +36,8 @@ function SearchSection() {
   return (
     <>
       <SearchInput searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
-      {/* Empty State */}
-      {searchData?.length === 0 && <EmptySearch />}
+      {searchQuery === "" && <SearchInitialState />}
+      {searchData?.length === 0 && searchQuery !== "" && <EmptySearch />}
       {/* Search Results */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {searchData.map((disease, index) => (

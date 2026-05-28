@@ -37,8 +37,8 @@ function HeroTextContent() {
 
       <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
         {language === "en"
-          ? "Explore medical fields, understand symptoms, and access safe treatment information to make informed health decisions."
-          : "استكشف المجالات الطبية، افهم الأعراض، واحصل على معلومات العلاج الآمن لاتخاذ قرارات صحية مستنيرة."}
+          ? "TheraPocket provides information across all medical specialties, including safe medication dosages, common treatments, and simplified explanations to help users better understand medical conditions in an easy and accessible way."
+          : "كما يوفر ثيرابوكيت معلومات شاملة في جميع التخصصات الطبية، مع توضيح الجرعات الآمنة للأدوية، وأشهر العلاجات المستخدمة، وشرح مبسط للحالات الطبية لمساعدة المستخدم على فهم حالته بطريقة سهلة وواضحة"}
       </p>
     </>
   );
