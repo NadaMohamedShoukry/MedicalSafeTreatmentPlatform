@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import Logo from "../../assets/new_logo.png";
 function WelcomeLogo() {
   return (
     <motion.div
@@ -12,7 +13,7 @@ function WelcomeLogo() {
         <div className="relative w-22 h-22 sm:w-30 sm:h-30 rounded-3xl bg-linear-to-br from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300 backdrop-blur-md  flex items-center justify-center shadow-2xl">
           <img
             className="w-25 h-20 sm:w-30 sm:h-25 "
-            src="../../../public/new_logo.png"
+            src={Logo}
             alt="logo_image"
           />
           {/* <svg
