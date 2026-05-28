@@ -1,16 +1,17 @@
 export const translations = {
   en: {
-    platformName: "Safe Treatment Platform",
+    platformName: "TheraPocket",
     welcomeTitle:
       "Empowering Public Health Awareness in Alignment with Egypt Vision 2030",
     enterPlatform: "Enter Platform",
-    searchPlaceholder: "Search diseases, symptoms, treatments...",
+    searchPlaceholder: "Search complaints, diseases, symptoms, treatments...",
     medicalFields: "Medical Fields",
     aboutUs: "About Us",
     team: "Team",
+    supervisor: "The doctor supervising the project",
     contact: "Contact",
     copyright:
-      "© 2026 Safe Treatment Platform. Aligned with Egypt Vision 2030.",
+      "© 2026 (TheraPocket) Safe Treatment Platform. Aligned with Egypt Vision 2030.",
     lightMode: "Light Mode",
     darkMode: "Dark Mode",
     language: "Language",
@@ -28,15 +29,17 @@ export const translations = {
     },
   },
   ar: {
-    platformName: "منصة العلاج الآمن",
+    platformName: "ثيرابوكيت",
     welcomeTitle: "تمكين الوعي الصحي العام بما يتماشى مع رؤية مصر 2030",
     enterPlatform: "ادخل المنصة",
     searchPlaceholder: "ابحث عن الأمراض، الأعراض، العلاجات...",
     medicalFields: "المجالات الطبية",
     aboutUs: "من نحن",
     team: "الفريق",
+    supervisor: "الدكتور المشرف على المشروع",
     contact: "اتصل بنا",
-    copyright: "© 2026 منصة العلاج الآمن. بما يتماشى مع رؤية مصر 2030.",
+    copyright:
+      "© 2026 (ثيرابوكيت) منصة العلاج الآمن. بما يتماشى مع رؤية مصر 2030.",
     lightMode: "الوضع النهاري",
     darkMode: "الوضع الليلي",
     language: "اللغة",

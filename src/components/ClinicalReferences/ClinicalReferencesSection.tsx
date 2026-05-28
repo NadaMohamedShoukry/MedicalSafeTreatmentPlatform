@@ -90,13 +90,13 @@ function ClinicalReferencesSection() {
                   <div className="space-y-2 text-sm">
                     <p>
                       <span className="font-semibold">
-                        {language === "ar" ? "الجرعة:" : "Dose:"}{" "}
-                      </span>{" "}
-                      {item.dose}{" "}
+                        {language === "ar" ? "الجرعة:" : "Dose:"}
+                      </span>
+                      {item.dose}
                     </p>
                     <p>
                       <span className="font-semibold">
-                        {language === "ar" ? "التكرار:" : "Frequency:"}{" "}
+                        {language === "ar" ? "التكرار:" : "Frequency:"}
                       </span>
                       {item.frequency}
                     </p>
@@ -134,8 +134,7 @@ function ClinicalReferencesSection() {
                   (item: any) => (
                     <tr key={item.drug} className="border-b">
                       <td className="p-4 font-medium text-center">
-                        {" "}
-                        {item.drug}{" "}
+                        {item.drug}
                       </td>
                       <td className="p-4 text-center"> {item.dose} </td>
                       <td className="p-4 text-center"> {item.frequency} </td>

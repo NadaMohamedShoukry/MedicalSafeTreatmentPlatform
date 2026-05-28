@@ -1,4 +1,4 @@
-import { Heart, Mail } from "lucide-react";
+import { Contact, Heart } from "lucide-react";
 import { useTheme } from "../../context/ThemeContext";
 import { translations } from "../../data/translations";
 import { motion } from "motion/react";
@@ -31,8 +31,7 @@ function Footer() {
             </p>
           </motion.div>
 
-          {/* Team */}
-          <motion.div
+          {/* <motion.div
             className="space-y-4"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -40,15 +39,15 @@ function Footer() {
             transition={{ delay: 0.1 }}
           >
             <h4 className="text-lg font-bold text-gray-900 dark:text-white">
-              {t.team}
+              {t.supervisor}
             </h4>
             <ul className="space-y-2 text-sm text-gray-600 dark:text-gray-300">
-              <li>{language === "en" ? "Medical Team" : "الفريق الطبي"}</li>
-              <li>{language === "en" ? "Development Team" : "فريق التطوير"}</li>
-              <li>{language === "en" ? "Research Team" : "فريق البحث"}</li>
-              <li>{language === "en" ? "Design Team" : "فريق التصميم"}</li>
-            </ul>
-          </motion.div>
+              <li>{language === "en" ? "Dr/Radwa" : "د / رضوى"}</li> */}
+          {/* <li>{language === "en" ? "Development Team" : "فريق التطوير"}</li> */}
+          {/* <li>{language === "en" ? "Research Team" : "فريق البحث"}</li> */}
+          {/* <li>{language === "en" ? "Design Team" : "فريق التصميم"}</li> */}
+          {/* </ul> */}
+          {/* </motion.div> */}
 
           {/* Contact */}
           <motion.div
@@ -61,15 +60,19 @@ function Footer() {
             <h4 className="text-lg font-bold text-gray-900 dark:text-white">
               {t.contact}
             </h4>
+            <div className="flex items-center gap-3 text-gray-600 dark:text-gray-300">
+              <p>
+                {language === "en" ? "Development Team :" : "فريق التطوير :"}
+              </p>
+              <p>{language === "en" ? "Nada Shoukry" : "ندى شكري"}</p>
+            </div>
             <div className="flex gap-4">
               {[
                 {
-                  icon: Mail,
-                  href: "mailto:info@safetreatment.eg",
-                  label: "Email",
+                  icon: Contact,
+                  href: "https://www.linkedin.com/in/nada-shoukry-420309223/",
+                  label: "LinkedIn",
                 },
-                { icon: Mail, href: "#", label: "GitHub" },
-                { icon: Mail, href: "#", label: "LinkedIn" },
               ].map((social, i) => (
                 <a
                   key={i}

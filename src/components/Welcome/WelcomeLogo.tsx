@@ -8,11 +8,11 @@ function WelcomeLogo() {
       transition={{ delay: 0.2, type: "spring", stiffness: 200 }}
     >
       <div className="relative">
-        <div className="absolute inset-0 bg-linear-to-r from-blue-200 to-cyan-100 rounded-3xl blur-xl opacity-50 animate-pulse" />
-        <div className="relative w-22 h-22 sm:w-30 sm:h-30 rounded-3xl bg-linear-to-br bg-white/20 backdrop-blur-md border border-white/30 flex items-center justify-center shadow-2xl">
+        <div className="absolute inset-0 bg-linear-to-r from-blue-500 to-cyan-400 rounded-3xl blur-xl opacity-50 animate-pulse" />
+        <div className="relative w-22 h-22 sm:w-30 sm:h-30 rounded-3xl bg-linear-to-br from-blue-600 to-cyan-500 dark:from-blue-400 dark:to-cyan-300 backdrop-blur-md  flex items-center justify-center shadow-2xl">
           <img
-            className="w-20 h-20 sm:w-30 sm:h-30"
-            src="../../public/logoImage.png"
+            className="w-25 h-20 sm:w-30 sm:h-25 "
+            src="../../../public/new_logo.png"
             alt="logo_image"
           />
           {/* <svg
