@@ -1,0 +1,1253 @@
+[
+  {
+    "disease_name": {
+      "en": "Cough",
+      "ar": "كحة"
+    },
+    "complaint": {
+      "en": ["Dry cough for 2-3 days with mild sore throat."],
+      "ar": ["كحة ناشفة من 2 إلى 3 أيام مع التهاب بسيط في الحلق"]
+    },
+    "symptoms": {
+      "en": ["Dry cough", "Mild sore throat", "Worse at night", "No sputum"],
+      "ar": ["كحة جافه", "التهاب بسيط في الحلق", "أسوء ليلاً", "بدون بلغم"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Warm fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Honey",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Tussistop",
+          "generic": "",
+          "dosage": "5 mL three times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "شرب سوائل دافية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "عسل",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "توسستوب",
+          "generic": "",
+          "dosage": "تركيز 5 مل ثلاثة مرات يومياً",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if child under 2 years"],
+      "ar": ["تجنب اذا كان الطفل أقل من سنتين"]
+    },
+    "red_flags": {
+      "en": ["Shortness of breath", "Blood in sputum", "Fever > 39°C"],
+      "ar": ["الطفل أقل من سنتين", "وجود دم في البلغم", "حرارة أعلى من 39 درجة"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Cough",
+      "ar": "كحة"
+    },
+    "complaint": {
+      "en": ["45-year-old smoker with productive cough"],
+      "ar": ["رجل 45 سنة مدخن وعنده كحة ببلغم"]
+    },
+    "symptoms": {
+      "en": [
+        "Productive cough",
+        "Yellow sputum",
+        "Mild wheezing",
+        "Chest discomfort"
+      ],
+      "ar": ["كحة ببلغم", "بلغم أصفر", "صفير بسيط بالنفس", "عدم راحة بالصدر"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Stop smoking",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Steam inhalation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Mucosol",
+          "generic": "",
+          "dosage": "5 mL three times daily after meals",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "وقف التدخين",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "استنشاق بخار",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "ميوكوسول",
+          "generic": "",
+          "dosage": "تركيز 5 مل ثلاثة مرات يومياً بعد الأكل",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if you have gastric ulcer"],
+      "ar": ["تجنب اذا كان عندك قرحة بالمعدة"]
+    },
+    "red_flags": {
+      "en": ["Bloody sputum", "High fever", "Difficulty breathing"],
+      "ar": ["وجود دم في البلغم", "حرارة عاليه", "صعوبة بالتنفس"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Cough",
+      "ar": "كحة"
+    },
+    "complaint": {
+      "en": ["18-year-old male with cough after dust exposure"],
+      "ar": "شاب 18 سنة عنده كحة بعد التعرض للتراب"
+    },
+    "symptoms": {
+      "en": [
+        "Dry cough",
+        "Wheezing",
+        "Chest tightness",
+        "Mild shortness of breath"
+      ],
+      "ar": ["كحة جافه", "صفير بالنفس", "ضيق بالصدر", "ضيق تنفس بسيط"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Tussistop",
+          "generic": "",
+          "dosage": "5 mL three times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "توسستوب",
+          "generic": "",
+          "dosage": "تركيز 5 مل ثلاثة مرات يومياً",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid dust and smoke", "Rest"],
+      "ar": ["ابعد عن التراب والدخان", "راحة"]
+    },
+    "red_flags": {
+      "en": ["Severe wheezing", "Blue lips", "Severe breathing difficulty"],
+      "ar": ["صفير شديد", "ازرقاق الشفاه", "صعوبة شديدة بالتنفس"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Cough",
+      "ar": "كحة"
+    },
+    "complaint": {
+      "en": "6-year-old child with night cough",
+      "ar": "طفل 6 سنين عنده كحة بالليل"
+    },
+    "symptoms": {
+      "en": [
+        "Night cough",
+        "Mild runny nose",
+        "No fever",
+        "Mild throat Irritation"
+      ],
+      "ar": ["كحة ليلية", "رشح بسيط", "بدون حرارة", "تهيج بسيط بالحلق"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Warm fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Honey if the kid is 1 year old",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سوائل دافية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "عسل لو الطفل أكبر من سنة",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid honey for kids under 1 year old"],
+      "ar": ["تجنب العسل للاطفال اقل من سنه"]
+    },
+    "red_flags": {
+      "en": ["Breathing difficulty", "Persistent cough", "Fever"],
+      "ar": ["صعوبة بالتنفس", "الكحة مستمرة", "حرارة"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Common Cold",
+      "ar": "نزلات البرد"
+    },
+    "complaint": {
+      "en": "22-year-old male with sneezing and runny nose",
+      "ar": "شاب 22 سنة عنده عطس ورشح"
+    },
+    "symptoms": {
+      "en": ["Runny nose", "Sneezing", "Mild sore throat", "Mild fever"],
+      "ar": ["رشح", "عطس", "التهاب بسيط بالحلق", "حرارة بسيطة"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Rest",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Warm fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Panadol Cold & Flu",
+          "generic": "",
+          "dosage": "1 tablet every 8 hours",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "راحة",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "شرب سوائل دافية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "بنادول كولد آند فلو",
+          "generic": "",
+          "dosage": "قرص كل 8 ساعات",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if you have severe liver disease"],
+      "ar": ["تجنب اذا كان لديك مرض شديد بالكبد"]
+    },
+    "red_flags": {
+      "en": ["Fever > 39°C", "Symptoms persist for more than 7 days"],
+      "ar": ["حرارة أعلي من 39", "الأعراض مستمرة أكثر من 7 أيام"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Common Cold",
+      "ar": "نزلات البرد"
+    },
+    "complaint": {
+      "en": "28-year-old female with cold and blocked nose",
+      "ar": "بنت 28 سنة عندها برد وانسداد بالأنف"
+    },
+    "symptoms": {
+      "en": ["Nasal congestion", "Sneezing", "Mild headache", "Fatigue"],
+      "ar": ["رشح", "عطس", "صداع بسيط", "إرهاق"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Steam inhalation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Saline nasal spray",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Congestal",
+          "generic": "",
+          "dosage": "1 tablet every 8 hours after meals",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "استنشاق بخار",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "بخاخ محلول ملحي",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "كونجستال",
+          "generic": "",
+          "dosage": "قرص كل 8 ساعات بعد الأكل",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if you have hypertension"],
+      "ar": ["تجنب اذا كان لديك ضغط مرتفع"]
+    },
+    "red_flags": {
+      "en": ["Severe sinus pain", "Shortness of breath"],
+      "ar": ["ألم شديد بالجيوب الأنفية", "ضيق تنفس"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Common Cold",
+      "ar": "نزلات البرد"
+    },
+    "complaint": {
+      "en": "12-year-old child with mild cold symptoms",
+      "ar": "طفل 12 سنة عنده أعراض برد بسيطة"
+    },
+    "symptoms": {
+      "en": ["Runny nose", "Mild cough", "Sneezing", "No high fever"],
+      "ar": ["رشح", "كحة بسيطة", "عطس", "بدون حرارة عالية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Rest",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Saline spray",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "شرب سوائل",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "راحة",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "بخاخ محلول ملحي",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid OTC cold medications without supervision"],
+      "ar": ["تجنب أدوية البرد بدون إشراف"]
+    },
+    "red_flags": {
+      "en": ["High fever", "Ear pain", "Poor eating or drinking"],
+      "ar": ["حرارة عالية", "ألم بالأذن", "ضعف الأكل أو الشرب"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Sore Throat",
+      "ar": "التهاب الحلق"
+    },
+    "complaint": {
+      "en": "19-year-old student with mild sore throat for 2 days",
+      "ar": "طالب 19 سنة عنده التهاب بسيط بالحلق من يومين"
+    },
+    "symptoms": {
+      "en": ["Pain while swallowing", "No pus"],
+      "ar": ["ألم أثناء البلع", "بدون صديد"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Warm drinks",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Salt water gargle",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Larypro",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Strepsils",
+          "generic": "",
+          "dosage": "1 lozenge every 2-3 hours, maximum 12 tablets per day",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "مشروبات دافية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "غرغرة بماء وملح",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "لاريبرو",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "ستربسلز",
+          "generic": "",
+          "dosage": "قرص استحلاب كل2-3 ساعات, الحد الأقصى 12 قرص في اليوم",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid for children under 6 years"],
+      "ar": ["تجنب الاستخدام للأطفال تحت 6 سنوات"]
+    },
+    "red_flags": {
+      "en": ["White patches", "Difficulty swallowing", "Fever > 39°C"],
+      "ar": ["وجود بقع بيضاء بالحلق", "صعوبة البلع", "حرارة أعلى من 39"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Sore Throat",
+      "ar": "التهاب الحلق"
+    },
+    "complaint": {
+      "en": "30-year-old teacher with sore throat after long voice use",
+      "ar": "مدرسة 30 سنة عندها التهاب بالحلق بعد استخدام الصوت لفترة طويلة"
+    },
+    "symptoms": {
+      "en": ["Throat irritation", "Hoarseness", "Mild dry cough", "No fever"],
+      "ar": ["تهيج الحلق", "بحة بالصوت", "كحة ناشفة بسيطة", "بدون حرارة"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Voice rest",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Warm fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Larypro",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Strepsils",
+          "generic": "",
+          "dosage": "1 lozenge every 2-3 hours, maximum 12 tablets per day",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "راحة للصوت",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "سوائل دافية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "لاريبرو",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "ستربسلز",
+          "generic": "",
+          "dosage": "قرص استحلاب كل2-3 ساعات, الحد الأقصى 12 قرص في اليوم",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if persistent smoking"],
+      "ar": ["تجنبمع التدخين المستمر"]
+    },
+    "red_flags": {
+      "en": ["Symptoms persist for more than 2 weeks", "Breathing difficulty"],
+      "ar": ["الأعراض مستمرة أكثر من اسبوعين", "صعوبة بالتنفس"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Allergic Rhinitis",
+      "ar": "حساسية الأنف"
+    },
+    "complaint": {
+      "en": "25-year-old female with sneezing after dust exposure",
+      "ar": "بنت 25 سنة عندها عطس بعد التعرض للتراب"
+    },
+    "symptoms": {
+      "en": ["Sneezing", "Itchy nose", "Watery eyes", "Nasal congestion"],
+      "ar": ["عطس", "حكة بالأنف", "دموع بالعين", "انسداد بالأنف"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Avoid allergens",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Antihistamines",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Otrivin",
+          "generic": "",
+          "dosage": "1 spray every 8-10 hours",
+          "duration": "Max: 5 days"
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "تجنب مسببات الحساسية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "مضادات الحساسية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "أوتريفين",
+          "generic": "",
+          "dosage": "بخة كل 8-10 ساعات",
+          "duration": "الحد الأقصى: 5 أيام"
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if you have hypertension"],
+      "ar": ["تجنب اذا كان لديك ضغط مرتفع"]
+    },
+    "red_flags": {
+      "en": ["Severe sinus pain", "Persistent symptoms"],
+      "ar": ["ألم شديد بالجيوب الأنفية", "استمرار الأعراض"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Allergic Rhinitis",
+      "ar": "حساسية الأنف"
+    },
+    "complaint": {
+      "en": "17-year-old student with seasonal allergy symptoms",
+      "ar": "طالب 17 سنة عنده أعراض حساسية موسمية"
+    },
+    "symptoms": {
+      "en": ["Sneezing", "Runny nose", "Itchy eyes", "Symptoms during spring"],
+      "ar": ["عطس", "رشح", "حكة بالعين", "الأعراض تظهر في الربيع"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Stay away from pollen",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Antihistamines",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ابعد عن حبوب اللقاح",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "مضادات الحساسية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Breathing difficulty", "Severe wheezing"],
+      "ar": ["صعوبة بالتنفس", "صفير شديد بالنفس"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Allergic Rhinitis",
+      "ar": "حساسية الأنف"
+    },
+    "complaint": {
+      "en": "35-year-old male with blocked nose and itching",
+      "ar": "رجل 35 سنة عنده انسداد بالأنف وحكة"
+    },
+    "symptoms": {
+      "en": ["Sneezing", "Nasal blockage", "Itchy throat", "Mild headache"],
+      "ar": ["عطس", "انسداد بالأنف", "حكة الحلق", "صداع بسيط"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Saline wash",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Otrivin",
+          "generic": "",
+          "dosage": "1 spray every 8 hours",
+          "duration": "Max: 5 days"
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "غسيل بمحلول ملحي",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "أوتريفين",
+          "generic": "",
+          "dosage": "بخة كل 8 ساعات",
+          "duration": "الحد الأقصى: 5 أيام"
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Fever", "Facial swelling"],
+      "ar": ["حرارة", "تورم بالوجه"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Sinusitis",
+      "ar": "التهاب الجيوب الأنفية"
+    },
+    "complaint": {
+      "en": "35-year-old male with facial pain and thick nasal discharge",
+      "ar": "رجل 35 سنة عنده ألم بالوجه وإفرازات الأنف سميكة"
+    },
+    "symptoms": {
+      "en": ["Facial pressure", "Nasal congestion", "Headache", "Thick mucus"],
+      "ar": ["ضغط أو ألم بالوجه", "انسداد بالأنف", "صداع", "مخاط سميك"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Saline wash",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Steam inhalation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Congestal",
+          "generic": "",
+          "dosage": "1 tablet every 8 hours",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "تغسل بمحلول ملحي",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "استنشاق بخار",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "كونجستال",
+          "generic": "",
+          "dosage": "قرص كل 8 ساعات",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid if you have hypertension"],
+      "ar": ["تجنب اذا كان لديك ضغط مرتفع"]
+    },
+    "red_flags": {
+      "en": ["Symptoms persist for more than 10 days", "Eye swelling"],
+      "ar": ["الأعراض مستمرة أكثر من 10 أيام", "تورم بالعين"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Sinusitis",
+      "ar": "التهاب الجيوب الأنفية"
+    },
+    "complaint": {
+      "en": "22-year-old female with sinus pain after flu",
+      "ar": "بنت 22 سنة عندها آلام الجيوب الأنفية بعد الإنفلونزا"
+    },
+    "symptoms": {
+      "en": ["Facial pain", "Fever", "Fatigue", "Thick nasal mucus"],
+      "ar": ["ألم بالوجه", "حرارة", "إرهاق", "مخاط أنفي سميك"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Steam inhalation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Rest",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "شرب سوائل",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "استنشاق بخار",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "راحة",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Severe headache", "Vision changes"],
+      "ar": ["صداع شديد", "تغيّر بالنظر"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Sinusitis",
+      "ar": "التهاب الجيوب الأنفية"
+    },
+    "complaint": {
+      "en": "50-year-old diabetic patient with sinus congestion",
+      "ar": "مريض سكر 50 سنة عنده احتقان بالجيوب الأنفية"
+    },
+    "symptoms": {
+      "en": ["Nasal blockage", "Facial pressure", "Thick mucus"],
+      "ar": ["انسداد بالأنف", "ضغط بالوجه", "مخاط سميك"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Saline wash", "Increase fluids"],
+      "ar": ["تغسل بمحلول ملحي", "زوّد شرب السوائل"]
+    },
+    "red_flags": {
+      "en": ["Persistent fever", "Severe pain"],
+      "ar": ["حرارة مستمرة", "ألم شديد"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Nasal Congestion",
+      "ar": "انسداد الأنف"
+    },
+    "complaint": {
+      "en": "24-year-old female with blocked nose for 3 days",
+      "ar": "بنت 24 سنه عندها انسداد بالأنف من 3 أيام"
+    },
+    "symptoms": {
+      "en": [
+        "Blocked nose",
+        "Mild headache",
+        "Difficulty breathing through nose"
+      ],
+      "ar": ["انسداد بالأنف", "صداع بسيط", "صعوبة التنفس من الأنف"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Steam inhalation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Otrivin",
+          "generic": "",
+          "dosage": "1 spray every 8-10 hours",
+          "duration": "Max: 5 days"
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "استنشاق بخار",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "أوتريفين",
+          "generic": "",
+          "dosage": "بخة كل 8-10 ساعات",
+          "duration": "الحد الأقصى: 5 أيام"
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Fever", "Severe facial pain"],
+      "ar": ["حرارة", "ألم شديد بالوجه"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Nasal Congestion",
+      "ar": "انسداد الأنف"
+    },
+    "complaint": {
+      "en": "7-year-old child with nasal congestion",
+      "ar": "طفل 7 سنين عنده انسداد بالأنف"
+    },
+    "symptoms": {
+      "en": ["Blocked nose", "Difficulty sleeping", "Mild runny nose"],
+      "ar": ["انسداد بالأنف", "صعوبة بالنوم", "رشح بسيط"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Saline drops",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Humidified air",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "نقط محلول ملحي",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "هواء رطب",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Fever", "Ear pain", "Poor feeding"],
+      "ar": ["حرارة", "ألم بالأذن", "ضعف بالأكل أو الرضاعة"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Nasal Congestion",
+      "ar": "انسداد الأنف"
+    },
+    "complaint": {
+      "en": "40-year-old male with congestion after allergy exposure",
+      "ar": "رجل 40 سنه عنده احتقان بعد التعرض لمسبب حساسية"
+    },
+    "symptoms": {
+      "en": ["Nasal blockage", "Sneezing", "Watery eyes"],
+      "ar": ["انسداد بالأنف", "عطس", "دموع بالعين"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Saline wash",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Antihistamines",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "تغسل بمحلول ملحي",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "مضادات الحساسية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Avoid allergens"],
+      "ar": ["تجنب مسببات الحساسية"]
+    },
+    "red_flags": {
+      "en": ["Breathing difficulty", "Facial swelling"],
+      "ar": ["صعوبة بالتنفس", "تورم بالوجه"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Mild Asthma Attack",
+      "ar": "نوبة ربو بسيطة"
+    },
+    "complaint": {
+      "en": "18-year-old male with wheezing after dust exposure",
+      "ar": "شاب 18 سنة عنده صفير بالنفس بعد التعرض للتراب"
+    },
+    "symptoms": {
+      "en": ["Wheezing", "Chest tightness", "Mild shortness of breath"],
+      "ar": ["صفير بالنفس", "ضيق بالصدر", "ضيق تنفس بسيط"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Sit upright", "Avoid dust and smoke"],
+      "ar": ["اجلس بشكل مستقيم", "ابعد عن التراب والدخان"]
+    },
+    "red_flags": {
+      "en": ["Blue lips", "Severe wheezing"],
+      "ar": ["ازرقاق الشفاه", "صفير شديد بالنفس"]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Mild Asthma Attack",
+      "ar": "نوبة ربو بسيطة"
+    },
+    "complaint": {
+      "en": "12-year-old child with mild asthma symptoms after exercise",
+      "ar": "طفل 12 سنة عنده أعراض ربو بسيطة بعد المجهود"
+    },
+    "symptoms": {
+      "en": ["Mild Wheezing", "Dry cough", "Chest tightness"],
+      "ar": ["صفير بسيط بالنفس", "كحة جافه", "ضيق بالصدر"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Rest", "Avoid overexertion"],
+      "ar": ["راحة", "تجنب المجهود الزائد"]
+    },
+    "red_flags": {
+      "en": ["Symptoms worsen", "Severe shortness of breath"],
+      "ar": ["الأعراض زادت", "ضيق تنفس شديد"]
+    },
+    "contraindications": null
+  }
+]

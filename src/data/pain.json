@@ -1,0 +1,711 @@
+[
+  {
+    "disease_name": {
+      "en": "Dental Pain",
+      "ar": "ألم الأسنان"
+    },
+    "complaint": {
+      "en": "Adult with severe toothache, likely after dental caries.",
+      "ar": "شخص بالغ يشتكي من ألم شديد في الأسنان، غالباً بعد تسوس."
+    },
+    "symptoms": {
+      "en": ["Localized tooth pain", "Worse at night", "No fever"],
+      "ar": ["ألم متركز في موضع السن", "يزداد سوءًا في المساء", "بدون حُمّى"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Brufen (Ibuprofen)",
+          "generic": "Ibuprofen",
+          "dosage": "400 mg every 8 hours after food.",
+          "duration": ""
+        },
+        {
+          "medicine": "Catafast (Diclofenac potassium)",
+          "generic": "Diclofenac potassium",
+          "dosage": "50 mg sachet as needed (single dose only when required).",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "بروفين (إيبوبروفين)",
+          "generic": "إيبوبروفين",
+          "dosage": "تركيز 400 مجم كل 8 ساعات بعد الأكل.",
+          "duration": ""
+        },
+        {
+          "medicine": "كتافاست (ديكلوفيناك بوتاسيوم)",
+          "generic": "ديكلوفيناك بوتاسيوم",
+          "dosage": "كيس 50 مج عند اللزوم فقط (جرعة واحدة عند الحاجة).",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Dental visit required; analgesia is temporary.",
+        "Avoid very hot or very cold foods."
+      ],
+      "ar": [
+        "زيارة طبيب الأسنان ضرورية، فالمسكن حل مؤقت.",
+        "تجنب الأطعمة شديدة السخونة أو البرودة."
+      ]
+    },
+    "contraindications": {
+      "en": ["Gastric ulcer", "Kidney disease", "NSAID allergy"],
+      "ar": [
+        "تقرحات المعدة",
+        "أمراض الكلى",
+        "حساسية تجاه مضادات الالتهاب غير الستيرويدية"
+      ]
+    },
+    "red_flags": {
+      "en": ["Facial swelling", "Fever", "Difficulty swallowing"],
+      "ar": ["تورم في الوجه", "حمّى", "صعوبة في البلع"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Back Pain",
+      "ar": "ألم الظهر"
+    },
+    "complaint": {
+      "en": "Back pain after lifting a heavy object.",
+      "ar": "ألم في الظهر بعد حمل شيء ثقيل."
+    },
+    "symptoms": {
+      "en": ["Localized pain", "Pain worsens with movement"],
+      "ar": ["ألم موضعي", "الألم يزداد سوءًا عند الحركة"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Relaxon Capsules",
+          "generic": "Muscle relaxant",
+          "dosage": "2-3 capsules per day",
+          "duration": ""
+        },
+        {
+          "medicine": "Dimra (alternative option)",
+          "generic": "Muscle relaxant combination",
+          "dosage": "2-3 capsules per day",
+          "duration": ""
+        },
+        {
+          "medicine": "Voltaren Gel",
+          "generic": "Topical NSAID (Diclofenac)",
+          "dosage": "2-4 g topically 3-4 times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ريلاكسون كبسولات",
+          "generic": "باسط عضلات",
+          "dosage": "من 2 إلى 3 كبسولات يوميًا",
+          "duration": ""
+        },
+        {
+          "medicine": "ديمرا (بديل)",
+          "generic": "باسط عضلات",
+          "dosage": "من 2 إلى 3 كبسولات يوميًا",
+          "duration": ""
+        },
+        {
+          "medicine": "فولتارين جل",
+          "generic": "مسكن موضعي (ديكلوفيناك)",
+          "dosage": "دهان موضعي 2-4 جم، 3-4 مرات يوميًا",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Use heat therapy such as warm compress or warm shower",
+        "Maintain light mobility and avoid prolonged bed rest"
+      ],
+      "ar": [
+        "استخدام العلاج بالحرارة مثل الكمادات الدافئة أو الدش الدافئ",
+        "الحفاظ على حركة خفيفة وتجنب الراحة الكاملة لفترات طويلة"
+      ]
+    },
+    "contraindications": {
+      "en": ["NSAID allergy", "Chronic kidney disease (CKD)"],
+      "ar": [
+        "حساسية تجاه مضادات الالتهاب غير الستيرويدية",
+        "أمراض الكلى المزمنة"
+      ]
+    },
+    "red_flags": {
+      "en": ["Leg weakness", "Loss of bladder or bowel control"],
+      "ar": ["ضعف في الساق", "فقدان التحكم في المثانة أو الأمعاء"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Tension Headache",
+      "ar": "صداع التوتر"
+    },
+    "complaint": {
+      "en": "Patient complaining of a stress-related headache.",
+      "ar": "مريض يشتكي من صداع نتيجة التوتر."
+    },
+    "symptoms": {
+      "en": ["Bilateral pressure-like pain", "No vomiting"],
+      "ar": ["شعور بضغط في جانبي الرأس", "بدون قيء"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Panadol (Paracetamol)",
+          "generic": "Paracetamol",
+          "dosage": "500-1000 mg every 6 hours",
+          "duration": ""
+        },
+        {
+          "medicine": "Brufen (Ibuprofen)",
+          "generic": "Ibuprofen",
+          "dosage": "Use if pain is more severe (as needed)",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "بنادول (باراسيتامول)",
+          "generic": "باراسيتامول",
+          "dosage": "تركيز 500-1000 مجم كل 6 ساعات",
+          "duration": ""
+        },
+        {
+          "medicine": "بروفين (إيبوبروفين)",
+          "generic": "إيبوبروفين",
+          "dosage": "يستخدم عند الحاجة إذا كان الألم أشد",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": ["Sleep and hydration", "Reduce screen time"],
+      "ar": ["النوم الجيد وشرب السوائل", "تقليل استخدام الشاشات"]
+    },
+    "contraindications": {
+      "en": ["Liver disease — paracetamol should be used with caution"],
+      "ar": ["أمراض الكبد — يجب استخدام الباراسيتامول بحذر"]
+    },
+    "red_flags": {
+      "en": [
+        "Sudden worst-ever headache",
+        "Neurological symptoms (weakness, vision change, confusion)"
+      ],
+      "ar": [
+        "صداع مفاجئ وشديد جدًا",
+        "أعراض عصبية مثل ضعف أو تغير في الرؤية أو ارتباك"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Menstrual Pain (Dysmenorrhea)",
+      "ar": "ألم الدورة الشهرية"
+    },
+    "complaint": {
+      "en": "Young female with pain during her period.",
+      "ar": "فتاة تشتكي من ألم أثناء الدورة الشهرية."
+    },
+    "symptoms": {
+      "en": ["Lower abdominal cramping", "Cyclical pain timed with menses"],
+      "ar": ["تقلصات في أسفل البطن", "ألم متزامن مع الدورة الشهرية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Brufen (Ibuprofen)",
+          "generic": "Ibuprofen",
+          "dosage": "400 mg every 8 hours",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "بروفين (إيبوبروفين)",
+          "generic": "إيبوبروفين",
+          "dosage": "قرص 400 مجم كل 8 ساعات",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Start NSAID early — on the first day of the period",
+        "Apply a warm heat pad to lower abdomen"
+      ],
+      "ar": [
+        "ابدئي المسكن مبكرًا في اليوم الأول من الدورة",
+        "استخدام قِربة مياه ساخنة على أسفل البطن"
+      ]
+    },
+    "contraindications": {
+      "en": ["Gastritis", "NSAID-sensitive asthma"],
+      "ar": ["التهاب المعدة", "الربو الحساس لمضادات الالتهاب غير الستيرويدية"]
+    },
+    "red_flags": {
+      "en": ["Severe pelvic pain unrelated to the cycle", "Heavy bleeding"],
+      "ar": ["ألم شديد في الحوض غير مرتبط بالدورة", "نزيف غزير"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Adult Viral Fever",
+      "ar": "حمى فيروسية للبالغين"
+    },
+    "complaint": {
+      "en": "Adult with fever, sore throat, and body aches - common cold.",
+      "ar": "مريض بالغ يعاني من حرارة وألم في الحلق وآلام في الجسم - نزلة برد شائعة."
+    },
+    "symptoms": {
+      "en": ["Fever 38-39 °C", "Body aches", "Fatigue", "Mild sore throat"],
+      "ar": [
+        "حرارة بين ٣٨ و٣٩ درجة",
+        "آلام في الجسم",
+        "إرهاق",
+        "التهاب حلق بسيط"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Panadol Advance (Paracetamol)",
+          "generic": "Paracetamol",
+          "dosage": "500-1000 mg every 6-8 hours",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "بنادول أدفانس (باراسيتامول)",
+          "generic": "باراسيتامول",
+          "dosage": "تركيز 500-1000 مجم كل 6-8 ساعات",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Rest and plenty of fluids",
+        "Treat the discomfort, not the number - focus on how the patient feels"
+      ],
+      "ar": [
+        "الراحة وشرب السوائل",
+        "عالج الأعراض وليس رقم الحرارة فقط - ركز على إحساس المريض"
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Liver disease",
+        "Risk of overdose when combining multiple cold/flu preparations"
+      ],
+      "ar": [
+        "أمراض الكبد",
+        "خطر الجرعة الزائدة عند استخدام أكثر من دواء برد معًا"
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Fever lasting more than 3 days",
+        "Breathing difficulty",
+        "Chest pain"
+      ],
+      "ar": ["استمرار الحمى أكثر من 3 أيام", "صعوبة في التنفس", "ألم في الصدر"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Flu-like Illness",
+      "ar": "أعراض شبيهة بالإنفلونزا"
+    },
+    "complaint": {
+      "en": "Patient with high fever, cough, and body pain.",
+      "ar": "مريض يشتكي من ارتفاع الحرارة وكحة وألم في الجسم."
+    },
+    "symptoms": {
+      "en": ["Fever above 38.5 °C", "Cough", "Muscle pain", "Fatigue"],
+      "ar": ["حرارة أعلى من 38.5 درجة", "كحة", "ألم في العضلات", "إرهاق"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Cetal Cold & Flu",
+          "generic": "Paracetamol + Decongestant combination",
+          "dosage": "One tablet every 8 hours",
+          "duration": ""
+        },
+        {
+          "medicine": "Panadol Cold & Flu",
+          "generic": "Paracetamol + Decongestant combination",
+          "dosage": "One tablet every 8 hours",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيتال كولد آند فلو",
+          "generic": "باراسيتامول + مزيل احتقان",
+          "dosage": "قرص واحد كل 8 ساعات",
+          "duration": ""
+        },
+        {
+          "medicine": "بنادول كولد آند فلو",
+          "generic": "باراسيتامول + مزيل احتقان",
+          "dosage": "قرص واحد كل 8 ساعات",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Warm fluids",
+        "Rest",
+        "Avoid antibiotics — viral illness, antibiotics won't help"
+      ],
+      "ar": [
+        "سوائل دافئة",
+        "الراحة",
+        "تجنب المضادات الحيوية بدون داعٍ لأن العدوى فيروسية"
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Dyspnea (shortness of breath)",
+        "Persistent high fever",
+        "Dehydration"
+      ],
+      "ar": ["ضيق في التنفس", "استمرار الحمى المرتفعة", "جفاف"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Fever in a Child",
+      "ar": "حُمَّى الأطفال"
+    },
+    "complaint": {
+      "en": "Child aged 3-6 years with fever and irritability.",
+      "ar": "طفل عمره من 3 إلى 6 سنوات يعاني من حرارة وتهيج."
+    },
+    "symptoms": {
+      "en": ["Fever 38-39 °C", "Irritability", "Reduced appetite"],
+      "ar": ["حرارة بين 38 و39 درجة", "عصبية وتهيج", "قلة الشهية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Cetal Syrup (Paracetamol)",
+          "generic": "Paracetamol",
+          "dosage": "5 ml every 4-6 hours",
+          "duration": "Maximum 4 doses per day"
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيتال شراب (باراسيتامول)",
+          "generic": "باراسيتامول",
+          "dosage": "تركيز 5 مل كل 4-6 ساعات",
+          "duration": "بحد أقصى 4 جرعات يومياً"
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Light cotton clothing",
+        "Encourage fluids",
+        "Never give aspirin to a child — risk of Reye's syndrome"
+      ],
+      "ar": [
+        "ملابس قطنية خفيفة",
+        "الإكثار من السوائل",
+        "ممنوع إعطاء الأسبرين للأطفال بسبب خطر متلازمة راي"
+      ]
+    },
+    "red_flags": {
+      "en": ["Seizures", "Severe lethargy", "Rash with fever", "Dehydration"],
+      "ar": ["تشنجات", "خمول شديد", "طفح جلدي مع حرارة", "جفاف"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Post-vaccination Fever",
+      "ar": "حُمَّى ما بعد التطعيم"
+    },
+    "complaint": {
+      "en": "Fever appearing within 24-48 hours after a vaccine.",
+      "ar": "ارتفاع الحرارة خلال 24 إلى 48 ساعة بعد التطعيم."
+    },
+    "symptoms": {
+      "en": [
+        "Low-grade fever",
+        "Mild irritability",
+        "Local injection-site pain"
+      ],
+      "ar": ["حرارة بسيطة", "تهيج بسيط", "ألم مكان الحقن"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Brufen Syrup (Ibuprofen)",
+          "generic": "Ibuprofen",
+          "dosage": "5-10 mg/kg every 6 hours (max 4 doses/day)",
+          "duration": ""
+        },
+        {
+          "medicine": "Adol Syrup (Paracetamol)",
+          "generic": "Paracetamol",
+          "dosage": "10-15 mg/kg every 6 hours (dose adjusted by weight)",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "شراب بروفين (إيبوبروفين)",
+          "generic": "إيبوبروفين",
+          "dosage": "تركيز 10-15 مجم/كجم كل 6 ساعات (بحد أقصى 4 جرعات يومياً)",
+          "duration": ""
+        },
+        {
+          "medicine": "شراب أدول (باراسيتامول)",
+          "generic": "باراسيتامول",
+          "dosage": "تركيز 10-15 مل كل 6 ساعات حسب الوزن",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Encourage fluids",
+        "Do not use antibiotics",
+        "A mild fever after vaccination is normal"
+      ],
+      "ar": [
+        "الإكثار من السوائل",
+        "عدم استخدام المضادات الحيوية",
+        "الحرارة البسيطة بعد التطعيم أمر طبيعي"
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Fever lasting more than 48 hours",
+        "Severe swelling at injection site",
+        "Persistent crying in infants"
+      ],
+      "ar": [
+        "استمرار الحرارة أكثر من 48 ساعة",
+        "تورم شديد مكان الحقن",
+        "بكاء مستمر عند الرضع"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Minor First-Degree Burn",
+      "ar": "حرق بسيط من الدرجة الأولى"
+    },
+    "complaint": {
+      "en": "Adult who briefly touched a hot surface.",
+      "ar": "شخص بالغ لمس سطحًا ساخنًا."
+    },
+    "symptoms": {
+      "en": ["Red skin", "Mild pain", "No blisters"],
+      "ar": ["احمرار الجلد", "ألم بسيط", "بدون فقاعات"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Panthenol cream (or any moisturizing cream)",
+          "generic": "Topical emollient",
+          "dosage": "Apply 2-3 times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كريم بانثينول (أو أي كريم مرطب)",
+          "generic": "مرطب موضعي",
+          "dosage": "يُوضع 2-3 مرات يومياً",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Cool the area under running water for 20 minutes",
+        "Do not apply ice directly to the burn"
+      ],
+      "ar": [
+        "ضع المنطقة تحت ماء جارٍ بارد لمدة 20 دقيقة",
+        "لا تضع الثلج مباشرة على الحرق"
+      ]
+    },
+    "contraindications": {
+      "en": ["Do not break the skin or pop any blisters"],
+      "ar": ["لا تكسر الجلد ولا تحاول فقع الفقاعات"]
+    },
+    "red_flags": {
+      "en": ["Large surface area burn", "Severe pain"],
+      "ar": ["حرق على مساحة كبيرة", "ألم شديد"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Sunburn",
+      "ar": "حروق الشمس"
+    },
+    "complaint": {
+      "en": "Skin burn after prolonged sun exposure.",
+      "ar": "حرق في الجلد بعد التعرض للشمس لفترة طويلة."
+    },
+    "symptoms": {
+      "en": ["Redness", "Warm skin", "Tenderness"],
+      "ar": ["احمرار", "سخونة الجلد", "ألم عند اللمس"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Aloe vera gel / Panthenol / Bepanthen",
+          "generic": "Soothing and moisturizing topical agents",
+          "dosage": "Apply 3-4 times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "جل ألوفيرا / بانثينول / بيبانثين",
+          "generic": "مهدئات ومرطبات موضعية",
+          "dosage": "يُوضع 3-4 مرات يومياً",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Drink fluids — sunburn can cause dehydration",
+        "Avoid further sun exposure until healed"
+      ],
+      "ar": [
+        "شرب السوائل لأن حروق الشمس تسبب الجفاف",
+        "تجنب التعرض للشمس حتى يلتئم الجلد"
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Blisters", "Fever", "Dizziness"],
+      "ar": ["فقاعات", "حمى", "دوخة"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Hot-Water Burn (Child)",
+      "ar": "حرق الماء الساخن للأطفال"
+    },
+    "complaint": {
+      "en": "A child has been splashed with hot water.",
+      "ar": "طفل تعرض لسكب ماء ساخن."
+    },
+    "symptoms": {
+      "en": ["Red skin", "Crying", "Pain"],
+      "ar": ["احمرار الجلد", "بكاء", "ألم"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Panthenol cream / Aloe vera gel",
+          "generic": "Soothing and moisturizing topical agents",
+          "dosage": "Apply a thin layer 2-3 times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كريم بانثينول / جل ألوفيرا",
+          "generic": "مرطبات ومهدئات موضعية",
+          "dosage": "توضع طبقة خفيفة 2-3 مرات يومياً",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Cool the area immediately under running water",
+        "Remove any tight clothing around the burn"
+      ],
+      "ar": ["برِّد المكان فورًا بماء جارٍ", "انزع الملابس الضيقة حول الحرق"]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Blisters", "Deep burn", "Burn involving the face"],
+      "ar": ["فقاعات", "حرق عميق", "حرق في الوجه"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Kitchen Oil Burn",
+      "ar": "حرق زيت المطبخ"
+    },
+    "complaint": {
+      "en": "Adult burned by hot cooking oil.",
+      "ar": "شخص بالغ تعرض لحرق بزيت طهي ساخن."
+    },
+    "symptoms": {
+      "en": ["Severe pain", "Redness", "Possible blistering"],
+      "ar": ["ألم شديد", "احمرار", "احتمال ظهور فقاعات"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "MEBO ointment",
+          "generic": "Moisturizing burn ointment",
+          "dosage": "Apply 2-3 times daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "مرهم ميبو",
+          "generic": "مرهم مرطب للحروق",
+          "dosage": "يُستخدم 2-3 مرات يومياً",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Cool the area with running water first",
+        "Do not apply toothpaste, butter, or home remedies"
+      ],
+      "ar": [
+        "برِّد المكان أولاً بماء جارٍ",
+        "لا تضع معجون أسنان أو زبدة أو وصفات منزلية"
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [
+        "Burn on hands or face",
+        "Blackened skin",
+        "Signs of infection (pus, spreading redness)"
+      ],
+      "ar": [
+        "حرق في اليد أو الوجه",
+        "اسوداد الجلد",
+        "علامات عدوى مثل صديد أو انتشار الاحمرار"
+      ]
+    }
+  }
+]

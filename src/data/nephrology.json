@@ -1,0 +1,933 @@
+[
+  {
+    "disease_name": {
+      "en": "Acute Pyelonephritis (Kidney Infection)",
+      "ar": "التهاب حوض الكلى الحاد"
+    },
+    "complaint": {
+      "en": "I have high fever and severe pain in my side and back.",
+      "ar": "عندي سخونية عالية ووجع شديد في جنبي وظهري."
+    },
+    "symptoms": {
+      "en": [
+        "Flank pain (loin pain)",
+        "Fever and rigors",
+        "Nausea and vomiting",
+        "Tenderness over the renal angle"
+      ],
+      "ar": [
+        "ألم في الخاصرة أو أسفل الظهر",
+        "حرارة مرتفعة ورعشة",
+        "غثيان وقيء",
+        "ألم عند لمس أو النقر على منطقة الكلى بالظهر"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Ciprocin®",
+          "generic": "Ciprofloxacin",
+          "dosage": "500 mg twice daily.",
+          "duration": "For 7 days."
+        },
+        {
+          "medicine": "Panadol® / Cetal®",
+          "generic": "Paracetamol",
+          "dosage": "1 g every 8 hours (maximum 4 g daily).",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيبروسين®",
+          "generic": "سيبروفلوكساسين",
+          "dosage": "تركيز 500 مجم مرتين يومياً.",
+          "duration": "لمدة 7 أيام."
+        },
+        {
+          "medicine": "بانادول® / سيتال®",
+          "generic": "باراسيتامول",
+          "dosage": "1 جم كل 8 ساعات (بحد أقصى 4 جم يومياً).",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+
+  {
+    "disease_name": {
+      "en": "Renal Colic (Kidney Stones)",
+      "ar": "المغص الكلوي (حصوات الكلى)"
+    },
+    "complaint": {
+      "en": "Intense pain coming in waves from my side to my groin.",
+      "ar": "وجع شديد بيجي ويروح من جنبي وممتد للحوض."
+    },
+    "symptoms": {
+      "en": ["Sudden severe pain", "Blood in urine", "Nausea"],
+      "ar": ["ألم مفاجئ وشديد", "دم في البول", "غثيان"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Voltaren®",
+          "generic": "Diclofenac Sodium",
+          "dosage": "75 mg IM injection.",
+          "duration": ""
+        },
+        {
+          "medicine": "Tamsulin®",
+          "generic": "Tamsulosin",
+          "dosage": "One capsule daily after dinner.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "فولتارين®",
+          "generic": "ديكلوفيناك صوديوم",
+          "dosage": "حقنة عضل 75 مجم.",
+          "duration": ""
+        },
+        {
+          "medicine": "تامسولين®",
+          "generic": "تامسولوسين",
+          "dosage": "كبسولة واحدة يومياً بعد العشاء.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Cystitis (Urinary Tract Infection - UTI)",
+      "ar": "التهاب المثانة (عدوى مجرى البول)"
+    },
+    "complaint": {
+      "en": "It burns when I pass urine and I feel I have to go again immediately.",
+      "ar": "حرقان مع البول وإحساس إني عاوز أدخل الحمام تاني."
+    },
+    "symptoms": {
+      "en": ["Dysuria", "Frequency and urgency", "Suprapubic pain"],
+      "ar": ["حرقان بالبول", "كثرة التبول والإلحاح البولي", "ألم أسفل البطن"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Macrofuran®",
+          "generic": "Nitrofurantoin",
+          "dosage": "100 mg twice daily.",
+          "duration": "For 3 days."
+        },
+        {
+          "medicine": "Monuril®",
+          "generic": "Fosfomycin",
+          "dosage": "3 g sachet single dose.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ماكروفيران®",
+          "generic": "نيتروفورانتوين",
+          "dosage": "تركيز 100 مجم مرتين يومياً.",
+          "duration": "لمدة 3 أيام."
+        },
+        {
+          "medicine": "مونوريل®",
+          "generic": "فوسفومايسين",
+          "dosage": "كيس 3 جم جرعة واحدة.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Benign Prostatic Hyperplasia (BPH)",
+      "ar": "تضخم البروستاتا الحميد"
+    },
+    "complaint": {
+      "en": "I find it hard to start peeing and I have to go many times at night.",
+      "ar": "بصعوبة ببدأ التبول وبدخل الحمام كتير بالليل."
+    },
+    "symptoms": {
+      "en": ["Poor urine flow", "Nocturia", "Dribbling after urination"],
+      "ar": ["ضعف اندفاع البول", "كثرة التبول الليلي", "تنقيط بعد التبول"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Tamsulin®",
+          "generic": "Tamsulosin",
+          "dosage": "One capsule daily after dinner.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "تامسولين®",
+          "generic": "تامسولوسين",
+          "dosage": "كبسولة واحدة يومياً بعد العشاء.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Mild Uncomplicated Cystitis",
+      "ar": "التهاب المثانة البسيط غير المصحوب بمضاعفات"
+    },
+    "complaint": {
+      "en": "Female with dysuria and frequency.",
+      "ar": "فتاة تعاني من حرقة أثناء التبول وكثرة التبول."
+    },
+    "symptoms": {
+      "en": [
+        "Burning during urination",
+        "Frequency for 2 days",
+        "No fever",
+        "No flank pain"
+      ],
+      "ar": [
+        "حرقان أثناء التبول",
+        "كثرة التبول لمدة يومين",
+        "لا يوجد حرارة",
+        "لا يوجد ألم بالخاصرة"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Cystone Tablets",
+          "generic": "Herbal mixture",
+          "dosage": "2 tablets twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Cranberry Extract Capsules",
+          "generic": "Cranberry proanthocyanidins",
+          "dosage": "1 capsule twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Epimag Sachets",
+          "generic": "Magnesium Citrate",
+          "dosage": "1 sachet 3 times daily.",
+          "duration": "For 3 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيستون أقراص",
+          "generic": "خليط عشبي",
+          "dosage": "قرصين مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "كرانبيري كبسولات",
+          "generic": "كرانبيري بروأنثوسيانيدينز",
+          "dosage": "كبسولة واحدة مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "إيبيماج فوار",
+          "generic": "ماغنسيوم سيترات",
+          "dosage": "كيس واحد 3 مرات يومياً.",
+          "duration": "لمدة 3 أيام."
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+
+    "advice": {
+      "en": [
+        "Drink 2-3 liters of water daily.",
+        "Drink barley water as a natural diuretic.",
+        "Avoid spicy food."
+      ],
+      "ar": [
+        "اشرب 2-3 لتر ماء يومياً.",
+        "اشرب ماء الشعير كمدر بول طبيعي.",
+        "تجنب الأطعمة الحارة."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Epimag Sachets may reduce absorption of tetracycline, doxycycline, ciprofloxacin, and levofloxacin. Take antibiotics 2 hours before or 4 hours after Epimag.",
+        "Epimag Sachets may reduce absorption of alendronate. Separate doses by at least 2 hours.",
+        "Cranberry Capsules may increase bleeding risk with warfarin.",
+        "Cystone Tablets: No major interactions."
+      ],
+      "ar": [
+        "إيبيماج فوار قد يقلل امتصاص التتراسيكلين، الدوكسيسيكلين، السيبروفلوكساسين، والليفوفلوكساسين. تؤخذ المضادات الحيوية قبل إيبيماج بساعتين أو بعده بـ4 ساعات.",
+        "إيبيماج فوار قد يقلل امتصاص الأليندرونات، لذلك يجب الفصل بين الجرعات بساعتين على الأقل.",
+        "كبسولات الكرانبيري قد تزيد خطر النزيف مع الوارفارين.",
+        "أقراص سيستون: لا توجد تداخلات دوائية مهمة."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Fever",
+        "Flank pain",
+        "Blood in urine",
+        "No improvement within 48 hours"
+      ],
+      "ar": [
+        "ارتفاع الحرارة",
+        "ألم بالخاصرة",
+        "وجود دم في البول",
+        "عدم التحسن خلال 48 ساعة"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Mild Urethral Irritation from Dehydration",
+      "ar": "جفاف والتهابات خفيفة في التبول"
+    },
+    "complaint": {
+      "en": "Male with mild burning and infrequent urination.",
+      "ar": "شخص يعاني من حرقان خفيف وتبول نادر."
+    },
+    "symptoms": {
+      "en": [
+        "Mild burning at the end of urination",
+        "Urinating once daily only",
+        "Dark urine",
+        "No fever",
+        "No discharge"
+      ],
+      "ar": [
+        "حرقان خفيف في نهاية التبول",
+        "التبول مرة واحدة يومياً فقط",
+        "بول داكن",
+        "لا يوجد حرارة",
+        "لا توجد إفرازات"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Cystone Tablets",
+          "generic": "Herbal mixture",
+          "dosage": "2 tablets twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Epimag Sachets",
+          "generic": "Magnesium Citrate",
+          "dosage": "1 sachet 3 times daily.",
+          "duration": "For 2 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيستون أقراص",
+          "generic": "خليط عشبي",
+          "dosage": "قرصين مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "إيبيماج فوار",
+          "generic": "ماغنسيوم سيترات",
+          "dosage": "كيس فوار 3 مرات يومياً.",
+          "duration": "لمدة يومين."
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": ["Drink 2.5 to 3 liters of water daily."],
+      "ar": ["اشرب 2.5 إلى 3 لتر ماء يومياً."]
+    },
+    "contraindications": {
+      "en": [
+        "Epimag Sachets may reduce absorption of tetracycline, doxycycline, ciprofloxacin, and levofloxacin. Take antibiotics 2 hours before or 4 hours after Epimag.",
+        "Epimag Sachets may reduce absorption of alendronate. Separate doses by at least 2 hours.",
+        "Cystone Tablets: No major interactions."
+      ],
+      "ar": [
+        "إيبيماج فوار قد يقلل امتصاص التتراسيكلين، الدوكسيسيكلين، السيبروفلوكساسين، والليفوفلوكساسين. تؤخذ المضادات الحيوية قبل إيبيماج بساعتين أو بعده بـ4 ساعات.",
+        "إيبيماج فوار قد يقلل امتصاص الأليندرونات، لذلك يجب الفصل بين الجرعات بساعتين على الأقل.",
+        "أقراص سيستون: لا توجد تداخلات دوائية مهمة."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Onset of fever",
+        "Blood in urine",
+        "Discharge",
+        "No improvement within 72 hours"
+      ],
+      "ar": [
+        "ظهور حرارة",
+        "وجود دم في البول",
+        "وجود إفرازات",
+        "عدم التحسن خلال 72 ساعة"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Recurrent Mild Cystitis",
+      "ar": "التهاب المثانة البسيط المتكرر"
+    },
+    "complaint": {
+      "en": "Female with history of recurrent cystitis.",
+      "ar": "فتاة لها تاريخ مع التهاب المثانة المتكرر."
+    },
+    "symptoms": {
+      "en": [
+        "No current symptoms",
+        "History of 2 episodes in the last 6 months"
+      ],
+      "ar": ["لا توجد أعراض حالياً", "حدوث المشكلة مرتين خلال آخر 6 أشهر"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Cranberry Extract Capsules",
+          "generic": "Cranberry proanthocyanidins",
+          "dosage": "1 capsule once daily.",
+          "duration": "For 1 month."
+        },
+        {
+          "medicine": "Cystone Tablets",
+          "generic": "Herbal mixture",
+          "dosage": "2 tablets once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كرانبيري كبسولات",
+          "generic": "كرانبيري بروأنثوسيانيدينز",
+          "dosage": "كبسولة واحدة يومياً.",
+          "duration": "لمدة شهر."
+        },
+        {
+          "medicine": "سيستون أقراص",
+          "generic": "خليط عشبي",
+          "dosage": "قرصين مرة يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Drink 2 liters of water daily.",
+        "Drink barley water.",
+        "Maintain good sexual hygiene."
+      ],
+      "ar": [
+        "اشرب 2 لتر ماء يومياً.",
+        "اشرب ماء الشعير.",
+        "الحفاظ على النظافة الجنسية."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Cranberry Capsules may increase bleeding risk with warfarin.",
+        "Cystone Tablets: No major interactions."
+      ],
+      "ar": [
+        "كبسولات الكرانبيري قد تزيد خطر النزيف مع الوارفارين.",
+        "أقراص سيستون: لا توجد تداخلات دوائية مهمة."
+      ]
+    },
+    "red_flags": {
+      "en": ["Onset of dysuria", "Fever", "Flank pain"],
+      "ar": ["ظهور حرقان أثناء التبول", "ارتفاع الحرارة", "ألم بالخاصرة"]
+    }
+  },
+
+  {
+    "disease_name": {
+      "en": "Renal Colic - Mild to Moderate",
+      "ar": "المغص الكلوي - بسيط إلى متوسط"
+    },
+    "complaint": {
+      "en": "Male with flank pain.",
+      "ar": "شخص يعاني من ألم في المنطقة الجانبية من الظهر والبطن."
+    },
+    "symptoms": {
+      "en": [
+        "Intermittent flank pain radiating to groin",
+        "Nausea",
+        "No fever",
+        "No anuria"
+      ],
+      "ar": [
+        "ألم متقطع في المنطقة الجانبية من الظهر ممتد للبطن والحوض",
+        "غثيان",
+        "لا يوجد حرارة",
+        "لا يوجد انقطاع في التبول"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Visceralgine Tablets",
+          "generic": "Tiemonium Methylsulfate",
+          "dosage": "1 tablet 3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Brufen 400 mg Tablets",
+          "generic": "Ibuprofen",
+          "dosage": "1 tablet every 8 hours after food.",
+          "duration": ""
+        },
+        {
+          "medicine": "Rowatinex Capsules",
+          "generic": "Essential oils",
+          "dosage": "1 capsule twice daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "فيسيرالجين أقراص",
+          "generic": "تيمونيوم ميثيل سلفات",
+          "dosage": "قرص واحد 3 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "بروفين 400 مجم أقراص",
+          "generic": "إيبوبروفين",
+          "dosage": "قرص واحد كل 8 ساعات بعد الأكل.",
+          "duration": ""
+        },
+        {
+          "medicine": "رواتينكس كبسولات",
+          "generic": "زيوت عطرية",
+          "dosage": "كبسولة واحدة مرتين يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Drink 2 to 3 liters of water daily.",
+        "Drink barley water.",
+        "Use warm compresses on the back."
+      ],
+      "ar": [
+        "اشرب 2 إلى 3 لتر ماء يومياً.",
+        "اشرب ماء الشعير.",
+        "استخدم كمادات دافئة على الظهر."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Brufen: Avoid in stomach ulcer, bleeding, kidney failure, and late pregnancy (3rd trimester).",
+        "Brufen: Increased bleeding risk with Warfarin and Aspirin.",
+        "Brufen: Increased kidney risk with diuretics and ACE inhibitors.",
+        "Brufen: Increased stomach ulcer risk with steroids and SSRIs.",
+        "Visceralgine: Avoid in closed-angle glaucoma, prostate problems, or urinary retention.",
+        "Visceralgine: Avoid with drugs causing urinary retention or strong anticholinergic effects.",
+        "Visceralgine: Use in pregnancy only if needed.",
+        "Rowatinex: Avoid in complete blockage of ureter or bladder and severe kidney failure.",
+        "Rowatinex: Use cautiously with liver medications."
+      ],
+      "ar": [
+        "بروفين: يُمنع مع قرحة المعدة، النزيف، الفشل الكلوي، والحمل المتأخر (الثلث الأخير).",
+        "بروفين: يزيد خطر النزيف مع الوارفارين والأسبرين.",
+        "بروفين: يزيد خطر مشاكل الكلى مع مدرات البول ومثبطات ACE.",
+        "بروفين: يزيد خطر قرحة المعدة مع الكورتيزون وأدوية SSRIs.",
+        "فيسيرالجين: يُمنع في الجلوكوما ضيقة الزاوية، مشاكل البروستاتا أو احتباس البول.",
+        "فيسيرالجين: يُتجنب مع الأدوية التي تسبب احتباس البول أو لها تأثيرات مضادة للكولين.",
+        "فيسيرالجين: يستخدم أثناء الحمل فقط عند الضرورة.",
+        "رواتينكس: يُمنع في الانسداد الكامل بالحالب أو المثانة والفشل الكلوي الشديد.",
+        "رواتينكس: يستخدم بحذر مع أدوية الكبد."
+      ]
+    },
+    "red_flags": {
+      "en": ["Fever", "Unable to urinate", "Persistent vomiting"],
+      "ar": ["ارتفاع الحرارة", "عدم القدرة على التبول", "قيء مستمر"]
+    }
+  },
+
+  {
+    "disease_name": {
+      "en": "Small Kidney Stone Passage",
+      "ar": "نزول حصوة كلى صغيرة"
+    },
+    "complaint": {
+      "en": "Male with mild hematuria.",
+      "ar": "شخص يعاني من دم خفيف في البول."
+    },
+    "symptoms": {
+      "en": ["Pink urine", "Mild intermittent flank pain", "No fever"],
+      "ar": ["بول وردي", "ألم خفيف متقطع بالخاصرة", "لا يوجد حرارة"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Spasmofen Ampoules",
+          "generic": "Ketoprofen + Hyoscine Butylbromide",
+          "dosage": "1 ampoule twice when needed.",
+          "duration": ""
+        },
+        {
+          "medicine": "Rowatinex Capsules",
+          "generic": "Essential oils",
+          "dosage": "1 capsule twice daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سبازموفين أمبول",
+          "generic": "كيتوبروفين + هيوسين بيوتيل بروميد",
+          "dosage": "أمبول واحد مرتين عند الحاجة.",
+          "duration": ""
+        },
+        {
+          "medicine": "رواتينكس كبسولات",
+          "generic": "زيوت عطرية",
+          "dosage": "كبسولة واحدة مرتين يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Strain urine.",
+        "Drink barley water.",
+        "Drink 3 liters of water daily."
+      ],
+      "ar": ["قم بتصفية البول.", "اشرب ماء الشعير.", "اشرب 3 لترات ماء يومياً."]
+    },
+    "contraindications": {
+      "en": [
+        "Spasmofen: Avoid in stomach ulcer, GI bleeding, inflammatory bowel disease, severe kidney problems, and late pregnancy.",
+        "Spasmofen: Avoid with NSAIDs, aspirin, warfarin, and steroids.",
+        "Rowatinex: Avoid in complete blockage of ureter or bladder and severe kidney failure.",
+        "Rowatinex: Use cautiously with liver medications."
+      ],
+      "ar": [
+        "سبازموفين: يُمنع مع قرحة المعدة، نزيف الجهاز الهضمي، أمراض الأمعاء الالتهابية، مشاكل الكلى الشديدة، والحمل المتأخر.",
+        "سبازموفين: يُتجنب مع مضادات الالتهاب غير الستيرويدية، الأسبرين، الوارفارين، والكورتيزون.",
+        "رواتينكس: يُمنع في الانسداد الكامل للحالب أو المثانة والفشل الكلوي الشديد.",
+        "رواتينكس: يستخدم بحذر مع أدوية الكبد."
+      ]
+    },
+    "red_flags": {
+      "en": ["Severe pain", "Anuria", "Fever"],
+      "ar": ["ألم شديد", "انقطاع البول", "ارتفاع الحرارة"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Mild Benign Prostatic Hyperplasia",
+      "ar": "تضخم البروستاتا الحميد البسيط"
+    },
+    "complaint": {
+      "en": "Elderly male with nocturia (68 years).",
+      "ar": "رجل مسن يعاني من التبول الليلي (68 سنه)."
+    },
+    "symptoms": {
+      "en": [
+        "Nocturia 3-4 times per night",
+        "Weak urine stream",
+        "No urinary retention"
+      ],
+      "ar": ["التبول الليلي 3-4 مرات", "ضعف تيار البول", "لا يوجد احتباس بول"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Spasmofree Tablets",
+          "generic": "Mebeverine HCl",
+          "dosage": "1 tablet 3 times daily before meals.",
+          "duration": ""
+        },
+        {
+          "medicine": "ProstaCare Capsules",
+          "generic": "Saw Palmetto extract + Pumpkin Seed oil + Zinc",
+          "dosage": "1 capsule twice daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سبازموفري أقراص",
+          "generic": "ميبيفرين هيدروكلورايد",
+          "dosage": "قرص واحد 3 مرات يومياً قبل الأكل.",
+          "duration": ""
+        },
+        {
+          "medicine": "بروستاكير كبسولات",
+          "generic": "مستخلص الساو بالميتو + زيت بذور القرع + الزنك",
+          "dosage": "كبسولة واحدة مرتين يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": ["Limit fluids 2 hours before bedtime.", "Reduce caffeine intake."],
+      "ar": ["قلل شرب السوائل قبل النوم بساعتين.", "قلل تناول الكافيين."]
+    },
+    "contraindications": {
+      "en": [
+        "Spasmofree: Avoid in intestinal obstruction and severe liver disease.",
+        "Spasmofree: Use caution with other antispasmodics to avoid additive effects.",
+        "ProstaCare: Avoid in bleeding disorders and clotting problems.",
+        "ProstaCare: May interact with blood thinners such as warfarin and aspirin and increase bleeding risk."
+      ],
+      "ar": [
+        "سبازموفري: يُمنع في حالات انسداد الأمعاء وأمراض الكبد الشديدة.",
+        "سبازموفري: يستخدم بحذر مع مضادات التقلصات الأخرى لتجنب زيادة التأثير.",
+        "بروستاكير: يُتجنب في اضطرابات النزيف ومشاكل التجلط.",
+        "بروستاكير: قد يتفاعل مع مميعات الدم مثل الوارفارين والأسبرين ويزيد خطر النزيف."
+      ]
+    },
+    "red_flags": {
+      "en": ["Acute urinary retention", "Blood in urine"],
+      "ar": ["احتباس بول حاد", "وجود دم في البول"]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Post Catheter Bladder Spasm",
+      "ar": "تقلصات المثانة بعد إزالة القسطرة"
+    },
+    "complaint": {
+      "en": "Male with suprapubic discomfort.",
+      "ar": "رجل يعاني من انزعاج في منطقة أسفل البطن فوق العانة."
+    },
+    "symptoms": {
+      "en": [
+        "Suprapubic spasm",
+        "Urinary urgency",
+        "2 days after catheter removal",
+        "No fever"
+      ],
+      "ar": [
+        "تقلصات فوق العانة",
+        "إلحاح في التبول",
+        "بعد يومين من إزالة القسطرة",
+        "لا توجد حرارة"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Spasmofree Tablets",
+          "generic": "Mebeverine HCl",
+          "dosage": "1 tablet 3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Paramol 1g Tablets",
+          "generic": "Paracetamol",
+          "dosage": "1 tablet every 8 hours when needed for 2 days.",
+          "duration": "2 days"
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سبازموفري أقراص",
+          "generic": "ميبيفرين هيدروكلورايد",
+          "dosage": "قرص واحد 3 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "بارامول 1 جم أقراص",
+          "generic": "باراسيتامول",
+          "dosage": "قرص واحد كل 8 ساعات عند الحاجة لمدة يومين.",
+          "duration": "يومين"
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Drink barley water.",
+        "Drink 2 liters of water daily.",
+        "Avoid spicy food."
+      ],
+      "ar": [
+        "اشرب ماء الشعير.",
+        "اشرب 2 لتر من الماء يومياً.",
+        "تجنب الأطعمة الحارة."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Paramol (Paracetamol): Avoid in severe liver disease and avoid combining with other paracetamol-containing products.",
+        "Paramol: Avoid alcohol with high doses.",
+        "Spasmofree (Mebeverine HCl): Avoid in intestinal obstruction and severe liver disease.",
+        "Spasmofree: Use caution with other antispasmodics due to additive effects."
+      ],
+      "ar": [
+        "بارامول (باراسيتامول): يُمنع في حالات أمراض الكبد الشديدة ويُتجنب مع أي أدوية تحتوي على باراسيتامول لتفادي الجرعة الزائدة.",
+        "بارامول: يُتجنب تناول الكحول مع الجرعات العالية.",
+        "سبازموفري (ميبيفرين هيدروكلورايد): يُمنع في انسداد الأمعاء وأمراض الكبد الشديدة.",
+        "سبازموفري: يُستخدم بحذر مع مضادات التقلصات الأخرى لتجنب زيادة التأثير."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Mild Non-Specific Urethritis",
+      "ar": "التهاب الإحليل البسيط غير النوعي"
+    },
+    "complaint": {
+      "en": "Male with mild dysuria.",
+      "ar": "رجل يعاني من حرقان خفيف أثناء التبول."
+    },
+    "symptoms": {
+      "en": [
+        "Mild burning during urination for 2 days",
+        "No discharge",
+        "No fever"
+      ],
+      "ar": [
+        "حرقان خفيف أثناء التبول لمدة يومين",
+        "لا توجد إفرازات",
+        "لا توجد حرارة"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Epimag Sachets",
+          "generic": "Magnesium Citrate",
+          "dosage": "1 sachet 3 times daily for 2 days.",
+          "duration": "2 days"
+        },
+        {
+          "medicine": "Cystone Tablets",
+          "generic": "Herbal mixture",
+          "dosage": "2 tablets twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Cranberry Extract Capsules",
+          "generic": "Cranberry proanthocyanidins",
+          "dosage": "1 capsule twice daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "إبيماج فوار",
+          "generic": "مغنيسيوم سترات",
+          "dosage": "كيس واحد 3 مرات يومياً لمدة يومين.",
+          "duration": "يومين"
+        },
+        {
+          "medicine": "سيستون أقراص",
+          "generic": "خليط عشبي",
+          "dosage": "قرصان مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "كبسولات الكرانبيري",
+          "generic": "بروأنثوسيانيدين التوت البري",
+          "dosage": "كبسولة واحدة مرتين يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Increase fluid intake.",
+        "Drink barley water.",
+        "Avoid spicy food."
+      ],
+      "ar": ["زيادة شرب السوائل.", "اشرب ماء الشعير.", "تجنب الأطعمة الحارة."]
+    },
+    "contraindications": {
+      "en": [
+        "Epimag: May reduce absorption of antibiotics such as tetracycline, doxycycline, ciprofloxacin, and levofloxacin.",
+        "Epimag: Separate from antibiotics by at least 2 hours before or 4 hours after.",
+        "Epimag: May reduce absorption of bisphosphonates such as alendronate.",
+        "Cranberry: May increase bleeding risk with warfarin.",
+        "Cystone: No major interactions reported."
+      ],
+      "ar": [
+        "إبيماج: قد يقلل امتصاص بعض المضادات الحيوية مثل التتراسيكلين والدوكسيسيكلين والسيبروفلوكساسين والليفوفلوكساسين.",
+        "إبيماج: يجب الفصل عن المضادات الحيوية بساعتين قبل أو 4 ساعات بعد.",
+        "إبيماج: قد يقلل امتصاص أدوية العظام مثل الألندرونات.",
+        "الكرانبيري: قد يزيد خطر النزيف مع الوارفارين.",
+        "سيستون: لا توجد تداخلات دوائية مهمة."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Discharge",
+        "Blood in urine",
+        "Fever",
+        "Symptoms lasting more than 3 days"
+      ],
+      "ar": [
+        "وجود إفرازات",
+        "وجود دم في البول",
+        "ارتفاع الحرارة",
+        "استمرار الأعراض أكثر من 3 أيام"
+      ]
+    }
+  }
+]

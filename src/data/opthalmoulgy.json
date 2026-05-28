@@ -1,0 +1,892 @@
+[
+  {
+    "disease_name": {
+      "en": "Dry Eye",
+      "ar": "جفاف العين"
+    },
+    "complaint": {
+      "en": "A patient complains of burning, gritty sensation, and mild blurred vision after prolonged screen use or exposure to direct Air.",
+      "ar": "مريض يشكو من حرقان وإحساس بجسم غريب في العين مع زغللة بسيطة بعد استخدام الشاشات لفترات طويلة أو التعرض المباشر للهواء."
+    },
+    "symptoms": {
+      "en": [
+        "Burning sensation",
+        "Gritty or foreign body sensation",
+        "Mild redness",
+        "Blurred vision that improves after blinking",
+        "Eye fatigue",
+        "Excessive tearing"
+      ],
+      "ar": [
+        "حرقان بالعين",
+        "إحساس بوجود جسم غريب أو رمل في العين",
+        "احمرار بسيط",
+        "زغللة تتحسن بعد الرمش",
+        "إجهاد العين",
+        "زيادة الدموع"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Lubricant Eye Drops (Refresh Tears / Systane Ultra / Blink Tears / Poly Fresh Advanced / Poly Fresh / Hyfresh / Tears Guard)",
+          "generic": "Artificial tears (lubricant eye drops)",
+          "dosage": "Instill 1-2 drops in each affected eye as needed (usually 3-4 times daily).",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "قطرات مرطبة للعين (ريفريش تيرز / سيستان ألترا / بلينك تيرز / بولي فريش أدفانسد / بولي فريش / هاي فريش / تيرز جارد)",
+          "generic": "دموع صناعية (قطرات مرطبة للعين)",
+          "dosage": "يتم وضع 1-2 نقطة في كل عين مصابة عند اللزوم (عادة 3-4 مرات يومياً).",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Follow the 20-20-20 rule.",
+        "Blink frequently.",
+        "Avoid direct airflow from fans and air conditioners.",
+        "Drink enough water daily.",
+        "Limit prolonged screen use.",
+        "Remove contact lenses before using most eye drops unless stated otherwise on the label.",
+        "Preservative-free eye drops are preferred if used more than 4-6 times daily.",
+        "Consult an ophthalmologist if you have glaucoma or recent eye surgery before use.",
+        "Do not use the product if the seal is broken."
+      ],
+      "ar": [
+        "اتبعي قاعدة 20-20-20.",
+        "الرمش بشكل متكرر للحفاظ على ترطيب العين.",
+        "تجنبي التعرض المباشر لهواء المراوح أو التكييف.",
+        "اشربي كمية كافية من الماء يومياً.",
+        "قللي من الجلوس لفترات طويلة أمام الشاشات.",
+        "يجب إزالة العدسات اللاصقة قبل استخدام معظم قطرات العين إلا إذا ذكر غير ذلك على العبوة.",
+        "يفضل استخدام القطرات الخالية من المواد الحافظة عند الحاجة لاستخدام متكرر (أكثر من 4-6 مرات يومياً).",
+        "يجب استشارة طبيب العيون إذا كنت تعاني من الجلوكوما أو أجريت جراحة حديثة قبل الاستخدام.",
+        "لا تستخدم المنتج إذا كان ختم العبوة مفتوحاً أو مكسوراً."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Severe eye pain",
+        "Sudden decrease or loss of vision",
+        "Thick yellow or green discharge",
+        "Eye trauma",
+        "Chemical exposure",
+        "Symptoms persisting"
+      ],
+      "ar": [
+        "ألم شديد في العين",
+        "انخفاض مفاجئ أو فقدان في الرؤية",
+        "إفرازات سميكة صفراء أو خضراء",
+        "إصابة في العين",
+        "تعرض العين لمواد كيميائية",
+        "استمرار الأعراض رغم العلاج"
+      ]
+    },
+    "contraindications": {
+      "en": ["Known hypersensitivity to any ingredient in the product."],
+      "ar": ["حساسية معروفة تجاه أي من مكونات المنتج."]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Allergic Conjunctivitis",
+      "ar": "حساسية العين"
+    },
+    "complaint": {
+      "en": "A patient complains of itchy, red, watery eyes, especially during spring or after exposure to dust, pollen, or pet dander.",
+      "ar": "مريض يشتكي من حكة شديدة واحمرار وزيادة في الدموع خاصة في فصل الربيع أو بعد التعرض للأتربة أو حبوب اللقاح أو وبر الحيوانات."
+    },
+    "symptoms": {
+      "en": [
+        "Itching",
+        "Redness",
+        "Watery eyes",
+        "Puffy eyelids",
+        "Burning sensation",
+        "Symptoms usually affect both eyes"
+      ],
+      "ar": [
+        "حكة شديدة",
+        "احمرار العين",
+        "زيادة الدموع",
+        "انتفاخ بسيط بالجفون",
+        "إحساس بحرقة",
+        "غالباً تصيب الأعراض العينين"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Conjyclear Forte",
+          "generic": "",
+          "dosage": "1 drop in each affected eye once daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Trillerg Eye Drops",
+          "generic": "",
+          "dosage": "1 drop in each affected eye 3-4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Optest 3",
+          "generic": "",
+          "dosage": "1 drop in each affected eye 3-4 times daily according to leaflet instructions.",
+          "duration": ""
+        },
+        {
+          "medicine": "Twit Tear Allergy",
+          "generic": "",
+          "dosage": "1 drop in each affected eye 2-4 times daily or according to package instructions.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كونجيكلير فورت",
+          "generic": "",
+          "dosage": "نقطة واحدة في كل عين مصابة مرة واحدة يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "تريليرج قطرة",
+          "generic": "",
+          "dosage": "نقطة واحدة في كل عين مصابة 3-4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "أوبتست 3",
+          "generic": "",
+          "dosage": "نقطة واحدة في كل عين مصابة 3-4 مرات يومياً حسب النشرة الداخلية.",
+          "duration": ""
+        },
+        {
+          "medicine": "تويت تير أليرجي",
+          "generic": "",
+          "dosage": "نقطة واحدة في كل عين مصابة 2-4 مرات يومياً أو حسب تعليمات العبوة.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Avoid rubbing the eyes.",
+        "Reduce exposure to dust and pollen.",
+        "Keep windows closed during high pollen seasons.",
+        "Use cold compresses to relieve itching.",
+        "Wash hands after touching pets.",
+        "Remove contact lenses before use and reinsert according to product instructions.",
+        "If symptoms occur in one eye only, seek medical evaluation.",
+        "Patients with glaucoma should consult their ophthalmologist before using multiple eye medications."
+      ],
+      "ar": [
+        "تجنب فرك العين.",
+        "قلل التعرض للأتربة وحبوب اللقاح.",
+        "أغلق النوافذ في أوقات انتشار حبوب اللقاح.",
+        "يمكن استخدام كمادات باردة لتخفيف الحكة.",
+        "اغسل يديك بعد التعامل مع الحيوانات الأليفة.",
+        "انزع العدسات اللاصقة قبل الاستخدام وأعد ارتداءها وفق تعليمات المنتج.",
+        "إذا كانت الأعراض في عين واحدة فقط يجب طلب تقييم طبي.",
+        "مرضى الجلوكوما يفضل استشارة طبيب العيون قبل استخدام أكثر من قطرة للعين."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Severe eye pain",
+        "Sensitivity to light (photophobia)",
+        "Sudden decrease in vision",
+        "Thick yellow or green discharge",
+        "Symptoms affecting one eye only with significant redness",
+        "No improvement after several days of treatment"
+      ],
+      "ar": [
+        "ألم شديد في العين",
+        "حساسية شديدة للضوء",
+        "ضعف مفاجئ في النظر",
+        "إفرازات صفراء أو خضراء كثيفة",
+        "احمرار شديد في عين واحدة فقط",
+        "عدم التحسن خلال عدة أيام من العلاج"
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Known hypersensitivity to Ketotifen or any component of the product."
+      ],
+      "ar": ["حساسية معروفة تجاه الكيتوتيفين أو أي مكون من مكونات القطرة."]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Eye Strain",
+      "ar": "إجهاد العين الرقمي"
+    },
+    "complaint": {
+      "en": "A patient says: “My eyes feel tired and heavy after using the computer or mobile for long hours.”",
+      "ar": "مريض يقول: «عيني مجهدة وحاسس بتعب وثقل فيها بعد استخدام الكمبيوتر أو الموبايل لفترات طويلة.»"
+    },
+    "symptoms": {
+      "en": [
+        "Eye fatigue",
+        "Mild burning",
+        "Dryness",
+        "Blurred vision",
+        "Headache",
+        "Difficulty focusing"
+      ],
+      "ar": [
+        "إجهاد وتعب في العين",
+        "حرقة بسيطة",
+        "جفاف العين",
+        "زغللة مؤقتة",
+        "صداع",
+        "صعوبة في التركيز البصري"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Systane Ultra / Refresh Tears / Hyfresh",
+          "generic": "Lubricating eye drops",
+          "dosage": "1-2 drops in each eye as needed, usually 3–4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Panadol / Cetal",
+          "generic": "Paracetamol",
+          "dosage": "500-1000 mg every 6-8 hours when needed for headache.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيستان ألترا / ريفريش تيرز / هاي فريش",
+          "generic": "قطرات مرطبة للعين",
+          "dosage": "نقطة إلى نقطتين في كل عين عند الحاجة، عادة 3-4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "بانادول / سيتال",
+          "generic": "باراسيتامول",
+          "dosage": "تركيز 500-1000 مجم كل 6-8 ساعات عند الحاجة للصداع ",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {
+      "en": "Symptoms appear after prolonged screen use and improve with rest.",
+      "ar": "تظهر الأعراض بعد استخدام الشاشات لفترات طويلة وتتحسن مع الراحة."
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Follow the 20-20-20 rule.",
+        "Blink frequently.",
+        "Adjust screen brightness.",
+        "Maintain proper viewing distance from screens.",
+        "Take regular breaks.",
+        "Get adequate sleep."
+      ],
+      "ar": [
+        "اتبع قاعدة 20-20-20.",
+        "أكثر من الرمش.",
+        "اضبط إضاءة الشاشة.",
+        "حافظ على مسافة مناسبة من الشاشة.",
+        "خذ فترات راحة منتظمة.",
+        "احصل على نوم كافٍ."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Sudden vision changes",
+        "Severe eye pain",
+        "Persistent headache not relieved by rest",
+        "Double vision",
+        "Symptoms persisting despite rest and lubricants"
+      ],
+      "ar": [
+        "تغير مفاجئ في الرؤية",
+        "ألم شديد في العين",
+        "صداع مستمر لا يتحسن بالراحة",
+        "رؤية مزدوجة",
+        "استمرار الأعراض رغم الراحة واستخدام القطرات المرطبة"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Stye (Hordeolum)",
+      "ar": "الشعيرة / دُمّل الجفن"
+    },
+    "complaint": {
+      "en": "A patient says: “I have a painful small lump on my eyelid.”",
+      "ar": "مريض يقول: «عندي حبة مؤلمة في جفن العين وبتكبر شوية.»"
+    },
+    "symptoms": {
+      "en": [
+        "Painful swelling on eyelid",
+        "Redness",
+        "Localized lump",
+        "Tearing",
+        "Feeling of irritation"
+      ],
+      "ar": [
+        "تورم مؤلم في الجفن",
+        "احمرار",
+        "كتلة صغيرة واضحة",
+        "زيادة الدموع",
+        "إحساس بعدم الراحة في العين"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Warm Compress",
+          "generic": "",
+          "dosage": "Apply warm compress for 10-15 minutes, 3-4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Terramycin Eye Ointment",
+          "generic": "Oxytetracycline + Polymyxin B",
+          "dosage": "Apply a small amount inside the lower eyelid 2–3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Fucithalmic Gel",
+          "generic": "Fusidic acid",
+          "dosage": "1 drop/gel twice daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كمادات دافئة",
+          "generic": "",
+          "dosage": "تُستخدم لمدة 10-15 دقيقة، 3-4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "تيراميسين مرهم للعين",
+          "generic": "أوكسي تتراسيكلين + بوليميكسين ب",
+          "dosage": "يوضع مقدار صغير داخل الجفن السفلي 2-3 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "فيوسيثالميك جل",
+          "generic": "حمض الفيوسيديك",
+          "dosage": "مرة صباحاً ومرة مساءً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {
+      "en": "A tender, red bump at the edge of the eyelid.",
+      "ar": "حبة مؤلمة وحمراء على طرف الجفن."
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Do not squeeze the stye.",
+        "Keep eyelids clean.",
+        "Wash hands before touching the eyes.",
+        "Avoid eye makeup during infection.",
+        "Use warm compresses regularly.",
+        "Do not attempt to pop the lesion."
+      ],
+      "ar": [
+        "ممنوع عصر الحبة.",
+        "الحفاظ على نظافة الجفن باستمرار.",
+        "غسل اليدين قبل لمس العين.",
+        "تجنب استخدام المكياج أثناء العدوى.",
+        "الاستمرار على الكمادات الدافئة بانتظام.",
+        "لا تحاول فتح أو عصر الحبة بنفسك"
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Swelling spreading to the whole eyelid",
+        "Fever",
+        "Vision changes",
+        "No improvement after 5-7 days",
+        "Severe pain or deep infection",
+        "If recurrent, may indicate chronic blepharitis."
+      ],
+      "ar": [
+        "انتشار الورم إلى الجفن بالكامل",
+        "ارتفاع درجة الحرارة",
+        "تغير في الرؤية",
+        "عدم التحسن خلال 5-7 أيام",
+        "ألم شديد أو انتشار العدوى بعمق",
+        "تكرار الحاله قد يشير إلي التهاب جفون مزمن"
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Stye (Hordeolum)",
+      "ar": "الشعيرة / دُمّل الجفن"
+    },
+    "complaint": {
+      "en": "A patient says: “I have a painful small lump on my eyelid.”",
+      "ar": "مريض يقول: «عندي حبة مؤلمة في جفن العين وبتكبر شوية.»"
+    },
+    "symptoms": {
+      "en": [
+        "Painful swelling on eyelid",
+        "Redness",
+        "Localized lump",
+        "Tearing",
+        "Feeling of irritation"
+      ],
+      "ar": [
+        "تورم مؤلم في الجفن",
+        "احمرار",
+        "كتلة صغيرة واضحة",
+        "زيادة الدموع",
+        "إحساس بعدم الراحة في العين"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Warm Compress",
+          "generic": "",
+          "dosage": "Apply warm compress for 10-15 minutes, 3-4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Terramycin Eye Ointment",
+          "generic": "Oxytetracycline + Polymyxin B",
+          "dosage": "Apply a small amount inside the lower eyelid 2–3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Fucithalmic Gel",
+          "generic": "Fusidic acid",
+          "dosage": "1 drop/gel twice daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كمادات دافئة",
+          "generic": "",
+          "dosage": "تُستخدم لمدة 10-15 دقيقة، 3-4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "تيراميسين مرهم للعين",
+          "generic": "أوكسي تتراسيكلين + بوليميكسين ب",
+          "dosage": "يوضع مقدار صغير داخل الجفن السفلي 2-3 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "فيوسيثالميك جل",
+          "generic": "حمض الفيوسيديك",
+          "dosage": "مرة صباحاً ومرة مساءً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {
+      "en": "A tender, red bump at the edge of the eyelid.",
+      "ar": "حبة مؤلمة وحمراء على طرف الجفن."
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Do not squeeze the stye.",
+        "Keep eyelids clean.",
+        "Wash hands before touching the eyes.",
+        "Avoid eye makeup during infection.",
+        "Use warm compresses regularly.",
+        "Do not attempt to pop the lesion."
+      ],
+      "ar": [
+        "ممنوع عصر الحبة.",
+        "الحفاظ على نظافة الجفن باستمرار.",
+        "غسل اليدين قبل لمس العين.",
+        "تجنب استخدام المكياج أثناء العدوى.",
+        "الاستمرار على الكمادات الدافئة بانتظام.",
+        "لا تحاول فتح أو عصر الحبة بنفسك"
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Swelling spreading to the whole eyelid",
+        "Fever",
+        "Vision changes",
+        "No improvement after 5-7 days",
+        "Severe pain or deep infection",
+        "If recurrent, may indicate chronic blepharitis."
+      ],
+      "ar": [
+        "انتشار الورم إلى الجفن بالكامل",
+        "ارتفاع درجة الحرارة",
+        "تغير في الرؤية",
+        "عدم التحسن خلال 5-7 أيام",
+        "ألم شديد أو انتشار العدوى بعمق",
+        "تكرار الحاله قد يشير إلي التهاب جفون مزمن"
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Blepharitis",
+      "ar": "التهاب الجفون المزمن"
+    },
+    "complaint": {
+      "en": "A patient says: “My eyelids are itchy, red, and I wake up with crusts on my eyelashes.”",
+      "ar": "مريض يقول: «جفوني بتهرش وبقت حمرا وبصحى الصبح لاقي قشور على الرموش.»"
+    },
+    "symptoms": {
+      "en": [
+        "Red eyelids",
+        "Itching or burning",
+        "Crusts on eyelashes especially in the morning",
+        "Foreign body sensation",
+        "Dry eyes",
+        "Mild swelling"
+      ],
+      "ar": [
+        "احمرار الجفون",
+        "حكة أو حرقة",
+        "قشور على الرموش خاصة صباحاً",
+        "إحساس بجسم غريب",
+        "جفاف العين",
+        "تورم بسيط"
+      ]
+    },
+    "key_clue": {
+      "en": "Crusts and irritation at the eyelid margins, worse in the morning.",
+      "ar": "وجود قشور والتهاب على حواف الجفن وتكون أسوأ في الصباح."
+    },
+    "severity": "safe",
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Warm Compress",
+          "generic": "",
+          "dosage": "Apply warm compresses for 5-10 minutes twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Sterile Eyelid Wipes / Diluted Johnson Baby Shampoo",
+          "generic": "Eyelid hygiene",
+          "dosage": "Clean eyelid margins gently twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Systane Ultra / Blink / Poly Fresh Advanced / Poly Fresh Extra / Hyfresh / Tears Guard",
+          "generic": "Lubricating eye drops",
+          "dosage": "1-2 drops as needed (usually 3-4 times daily).",
+          "duration": ""
+        },
+        {
+          "medicine": "Fucithalmic Gel",
+          "generic": "Fusidic acid",
+          "dosage": "Apply once daily at night before sleep.",
+          "duration": ""
+        },
+        {
+          "medicine": "Terramycin Eye Ointment",
+          "generic": "Oxytetracycline + Polymyxin B",
+          "dosage": "Apply as directed inside the lower eyelid.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كمادات دافئة",
+          "generic": "",
+          "dosage": "تُستخدم لمدة 5-10 دقائق مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "مناديل معقمة للجفون / شامبو جونسون للأطفال المخفف",
+          "generic": "نظافة الجفون",
+          "dosage": "تنظيف حواف الجفون بلطف مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "سيستان ألترا / بلينك / بولي فريش أدفانسد / بولي فريش إكسترا / هاي فريش / تيرز جارد",
+          "generic": "قطرات مرطبة للعين",
+          "dosage": "نقطة إلى نقطتين عند الحاجة (عادة 3-4 مرات يومياً).",
+          "duration": ""
+        },
+        {
+          "medicine": "فيوسيثالميك جل",
+          "generic": "حمض الفيوسيديك",
+          "dosage": "يوضع مرة يومياً ليلاً قبل النوم.",
+          "duration": ""
+        },
+        {
+          "medicine": "تيراميسين مرهم للعين",
+          "generic": "أوكسي تتراسيكلين + بوليميكسين ب",
+          "dosage": "يُستخدم حسب الإرشادات داخل الجفن السفلي.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Maintain strict daily eyelid hygiene.",
+        "Avoid eye makeup during flare-ups.",
+        "Replace old eye cosmetics regularly.",
+        "Avoid rubbing the eyes.",
+        "Manage underlying skin conditions such as dandruff or seborrheic dermatitis."
+      ],
+      "ar": [
+        "الحفاظ على نظافة الجفون يومياً.",
+        "تجنب استخدام المكياج أثناء الالتهاب.",
+        "تغيير أدوات المكياج القديمة بانتظام.",
+        "تجنب فرك العين.",
+        "علاج مشاكل الجلد المصاحبة مثل القشرة أو التهاب الجلد الدهني."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Severe pain",
+        "Vision changes",
+        "Swelling spreading to surrounding face",
+        "No improvement after 2 weeks",
+        "Recurrent styes"
+      ],
+      "ar": [
+        "ألم شديد",
+        "تغير في الرؤية",
+        "انتشار الورم إلى الوجه المحيط",
+        "عدم التحسن خلال أسبوعين",
+        "تكرار ظهور الشعيرة بشكل مستمر"
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Mild Red Eye",
+      "ar": "احمرار العين البسيط"
+    },
+    "complaint": {
+      "en": "My eye is slightly red with mild irritation, but I have no severe pain or vision problems.",
+      "ar": "عيني محمرة شوية وفيها تهيج بسيط لكن مفيش ألم شديد ولا مشكلة في النظر."
+    },
+    "symptoms": {
+      "en": [
+        "Mild redness",
+        "Mild burning or irritation",
+        "Watery eyes",
+        "Foreign body sensation",
+        "Mild dryness"
+      ],
+      "ar": [
+        "احمرار بسيط",
+        "حرقة أو تهيج بسيط",
+        "زيادة بسيطة في الدموع",
+        "إحساس بجسم غريب",
+        "جفاف بسيط"
+      ]
+    },
+    "key_clue": {
+      "en": "Redness is mild and not associated with severe pain, photophobia, or vision changes.",
+      "ar": "الاحمرار بسيط وغير مصحوب بألم شديد أو حساسية للضوء أو تغير في الرؤية."
+    },
+    "severity": "safe",
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Systane Ultra / Refresh Tears / Poly Fresh Advanced / Poly Fresh / Hyfresh",
+          "generic": "Lubricating eye drops",
+          "dosage": "1-2 drops in each affected eye as needed, usually 3-4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Conjyclear Forte / Trillerg",
+          "generic": "Anti-allergy eye drops",
+          "dosage": "1 drop once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيستان ألترا / ريفريش تيرز / بولي فريش أدفانسد / بولي فريش / هاي فريش",
+          "generic": "قطرات مرطبة للعين",
+          "dosage": "نقطة إلى نقطتين في كل عين مصابة عند الحاجة، عادة 3-4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "كونجيكلير فورت / تريليرج",
+          "generic": "قطرات مضادة للحساسية",
+          "dosage": "نقطة واحدة مرة يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Avoid rubbing the eye.",
+        "Reduce screen time if symptoms worsen with device use.",
+        "Avoid dust, smoke, and irritants.",
+        "Temporarily stop using contact lenses.",
+        "Use cold compresses if irritation is present.",
+        "Do not use redness-relief drops for prolonged periods unless advised by a physician.",
+        "Contact lens users with red eye should be assessed carefully."
+      ],
+      "ar": [
+        "تجنب فرك العين.",
+        "قلل استخدام الشاشات إذا زادت الأعراض مع الأجهزة.",
+        "تجنب الأتربة والدخان والمهيجات.",
+        "أوقف استخدام العدسات اللاصقة مؤقتاً.",
+        "يمكن استخدام كمادات باردة لتخفيف التهيج.",
+        "لا تستخدم قطرات إزالة الاحمرار لفترات طويلة دون استشارة الطبيب.",
+        "مستخدمي العدسات الاصقه يحتاجون حذراً خاصاً عند حدوث احمرار."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Severe eye pain",
+        "Photophobia",
+        "Blurred or decreased vision",
+        "Thick yellow or green discharge",
+        "History of trauma or chemical exposure",
+        "Redness persisting for more than 3-5 days without improvement"
+      ],
+      "ar": [
+        "ألم شديد في العين",
+        "حساسية شديدة للضوء",
+        "زغللة أو ضعف في النظر",
+        "إفرازات كثيفة صفراء أو خضراء",
+        "وجود إصابة أو تعرض لمواد كيميائية",
+        "استمرار الاحمرار أكثر من 3-5 أيام دون تحسن"
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Watery Eyes (Epiphora)",
+      "ar": "زيادة الدموع"
+    },
+    "complaint": {
+      "en": "My eyes keep watering all the time.",
+      "ar": "عيني بتدمع طول الوقت."
+    },
+    "symptoms": {
+      "en": [
+        "Excessive tearing",
+        "Mild irritation",
+        "Burning sensation",
+        "Mild redness",
+        "Blurred vision due to tearing",
+        "Foreign body sensation"
+      ],
+      "ar": [
+        "زيادة الدموع",
+        "تهيج بسيط",
+        "إحساس بحرقة",
+        "احمرار بسيط",
+        "زغللة مؤقتة بسبب الدموع",
+        "إحساس بجسم غريب"
+      ]
+    },
+    "key_clue": {
+      "en": "Watery eyes are often caused by dry eye or allergy rather than excess tear production.",
+      "ar": "زيادة الدموع قد تكون ناتجة عن جفاف العين أو الحساسية وليس زيادة إفراز الدموع نفسها."
+    },
+    "severity": "safe",
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Systane Ultra / Refresh Tears / Hyfresh",
+          "generic": "Lubricating eye drops",
+          "dosage": "1-2 drops in each affected eye as needed, usually 3-4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Conjyclear Forte / Zaditen Eye Drops",
+          "generic": "Anti-allergy eye drops",
+          "dosage": "1 drop in each affected eye once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيستان ألترا / ريفريش تيرز / هاي فريش",
+          "generic": "قطرات مرطبة للعين",
+          "dosage": "نقطة إلى نقطتين في كل عين مصابة عند الحاجة، عادة 3-4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "كونجيكلير فورت / زاديتن قطرة",
+          "generic": "قطرات مضادة للحساسية",
+          "dosage": "نقطة واحدة في كل عين مصابة مرة يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Avoid wind, smoke, and dust.",
+        "Wear sunglasses outdoors.",
+        "Do not rub the eyes.",
+        "Temporarily stop using contact lenses.",
+        "Follow the 20-20-20 rule if symptoms are related to screen use."
+      ],
+      "ar": [
+        "تجنب الهواء والأتربة والدخان.",
+        "ارتدِ نظارة شمسية عند الخروج.",
+        "تجنب فرك العين.",
+        "أوقف استخدام العدسات اللاصقة مؤقتاً.",
+        "اتبع قاعدة 20-20-20 إذا كانت الأعراض مرتبطة باستخدام الشاشات."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Severe pain",
+        "Photophobia",
+        "Vision changes",
+        "Thick discharge",
+        "Persistent tearing in one eye only",
+        "No improvement after several days",
+        "Unilateral tearing (one eye only) deserves closer evaluation.",
+        "Persistent tearing may indicate blocked tear ducts or eyelid problems."
+      ],
+      "ar": [
+        "ألم شديد",
+        "حساسية شديدة للضوء",
+        "تغير في الرؤية",
+        "إفرازات كثيفة",
+        "استمرار الدموع في عين واحدة فقط",
+        "عدم التحسن بعد عدة أيام",
+        "زيادة الدموع في عين واحدة فقط تستدعي تقييماً طبياً أدق.",
+        "استمرار زيادة الدموع قد يدل على انسداد القنوات الدمعية أو وجود مشكلة بالجفون."
+      ]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  }
+]

@@ -1,0 +1,1520 @@
+[
+  {
+    "disease_name": {
+      "en": "Allergic Dermatitis & Insect Bites",
+      "ar": "التهاب الجلد التحسسية و لدغات الحشرات"
+    },
+    "complaint": {
+      "en": [
+        "The area is extremely itchy and painful.",
+        "I have skin allergy with severe itching."
+      ],
+      "ar": [".المكان بيأكلني جداً وواجعني", ".عندي حساسية في جلدي مع هرش شديد"]
+    },
+    "symptoms": {
+      "en": [
+        "Severe Itching - Pruritus",
+        "Localized Pain or Tingling",
+        "Erythema & Mild Edema"
+      ],
+      "ar": [
+        "حكة شديدة - هرش",
+        "ألم موضعي أو وخز في مكان الإصابة",
+        "احمرار وتورم بسيط مكان الإصابة"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Calamyl Lotion®",
+          "generic": "Topical cream for itching and allergy treatment",
+          "dosage": "Apply a thin layer to the affected area only 3 to 4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Allergyl Cream® ",
+          "generic": "Topical cream for itching and allergy treatment",
+          "dosage": "Apply a thin layer to the affected area only 3 to 4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Histacort Cream®",
+          "generic": "Topical cream for itching and allergy treatment",
+          "dosage": "Apply a thin layer to the affected area only 3 to 4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Lidocaine Spray®",
+          "generic": "Anti-itch and anti-allergy ointment",
+          "dosage": "Apply a thin layer to the affected area only 3 to 4 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Lignocaine Gel®",
+          "generic": "Anti-itch and anti-allergy ointment",
+          "dosage": "Apply a thin layer to the affected area only 3 to 4 times daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كالاميل لوشن",
+          "generic": "دهان موضعي لعلاج الحكة والحساسية",
+          "dosage": "توضع طبقة رقيقة على مكان الإصابة فقط من 3 إلى 4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "أليرجيل كريم",
+          "generic": "دهان موضعي لعلاج الحكة والحساسية",
+          "dosage": "توضع طبقة رقيقة على مكان الإصابة فقط من 3 إلى 4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "هيستاكورت كريم",
+          "generic": "دهان موضعي لعلاج الحكة والحساسية",
+          "dosage": "توضع طبقة رقيقة على مكان الإصابة فقط من 3 إلى 4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "ليدوكايين سبراي",
+          "generic": "دهان موضعي مضاد للحكة والحساسية",
+          "dosage": "توضع طبقة رقيقة على مكان الإصابة فقط من 3 إلى 4 مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "ليجنوكايين جل",
+          "generic": "دهان موضعي مضاد للحكة والحساسية",
+          "dosage": "توضع طبقة رقيقة على مكان الإصابة فقط من 3 إلى 4 مرات يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Shake the Calamyl lotion bottle well before use.",
+        "Wash hands thoroughly before and after application.",
+        "Do not apply the ointment to open wounds, ulcers, or severe burns.",
+        "Keep the spray completely away from the eyes and nose."
+      ],
+      "ar": [
+        ".رُج زجاجة الكالاميل لوشن جيداً قبل الاستخدام",
+        ".غسل اليدين جيداً قبل وبعد الاستخدام",
+        ".ممنوع وضع الدهان على جروح مفتوحة، تقرحات، أو حروق شديدة",
+        ".ابعد البخاخ تماماً عن منطقة العين والأنف"
+      ]
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Burn Injuries & Management",
+      "ar": "الإصابات بالحروق - إدارة الألم ومنع العدوى"
+    },
+    "complaint": {
+      "en": [
+        "I got burns on my hand and leg, and the area hurts and burns a lot. I need something to relieve the pain and help it heal quickly."
+      ],
+      "ar": [
+        "اتحرقت حرق في إيدي و رجلي ومكانه بيحرقني جداً وعايز حاجه تهدي الوجع وتخليه يلم بسرعة"
+      ]
+    },
+    "symptoms": {
+      "en": ["Acute Pain", "Blisters", "Erythema & Edema"],
+      "ar": [
+        "ألم حاد ومستمر - حرقان",
+        "ظهور فقاعات هوائية - في حروق الدرجة الثانيه",
+        "احمرار وتورم مكان الإصابة"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "MEBO® Ointment",
+          "generic": "To moisturize the burn and promote tissue regeneration.",
+          "dosage": "Apply a thin layer to the affected area only 2 to 3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Flamazine® Cream",
+          "generic": "To prevent infection.",
+          "dosage": "Apply a thin layer to the affected area only 2 to 3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Mupirocin - Mupirax",
+          "generic": "Topical antibiotic.",
+          "dosage": "Apply a thin layer to the affected area only 2 to 3 times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Lignocaine Gel",
+          "generic": "For pain relief.",
+          "dosage": "Apply a thin layer to the affected area only 2 to 3 times daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "مرهم ميبو®",
+          "generic": "لترطيب الحروق وتحفيز تجدد الأنسجة.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة فقط 2 إلى 3 مرات يوميًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "كريم فلامازين®",
+          "generic": "للوقاية من العدوى.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة فقط 2 إلى 3 مرات يوميًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "ميوبيروسين - ميوبيراكس",
+          "generic": "مضاد حيوي موضعي.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة فقط 2 إلى 3 مرات يوميًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "جل ليدوكايين",
+          "generic": "لتسكين الألم.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة فقط 2 إلى 3 مرات يوميًا.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Cool the burn under lukewarm running water for 10 to 20 minutes immediately.",
+        "Drink plenty of fluids and maintain protein-rich meals.",
+        "Warn the patient against rupturing the blisters."
+      ],
+      "ar": [
+        ".تبريد الحرق تحت ماء جار فاتر لمدة 10 الي 20 دقيق فوراً",
+        ".شب سوائل بكثرة والاهتمام بوجبات غنية بالبروتين",
+        ".تحذير المريض من فتح فقاعات الماء"
+      ]
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Acne Vulgaris - Pregnancy-Safe Routine",
+      "ar": "حب الشباب - عناية آمنة أثناء فترة الحمل"
+    },
+    "complaint": {
+      "en": [
+        "I am pregnant and I had acne on my face. I need a pregnancy-safe treatment."
+      ],
+      "ar": ["أنا حامل وطلع لي حبوب في وشي ومحتاجة علاج آمن"]
+    },
+    "symptoms": {
+      "en": [
+        "Blackheads and whiteheads",
+        "Mild inflammatory pimples",
+        "Oily skin"
+      ],
+      "ar": ["رؤوس سوداء وبيضاء", "بثور ملتهبة خفيفة", "بشرة دهنية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Skinoren Cream",
+          "generic": "Topical acne cream.",
+          "dosage": "Apply a thin layer to the affected area twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Azaderm Cream",
+          "generic": "Topical acne cream.",
+          "dosage": "Apply a thin layer to the affected area twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Benzac AC Gel 2.5% or 5%",
+          "generic": "Topical acne gel.",
+          "dosage": "Apply a thin layer to the affected area only once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سكينورين كريم",
+          "generic": "كريم موضعي لعلاج حب الشباب.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "أزاديرم كريم",
+          "generic": "كريم موضعي لعلاج حب الشباب.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "بنزاك إيه سي جل 2.5% أو 5%",
+          "generic": "جل موضعي لعلاج حب الشباب.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة مرة واحدة يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Wash your face with a cleanser twice daily.",
+        "Use Starville Facial Wash or Synobar Cleanser or Effaclar Gel"
+      ],
+      "ar": [
+        ".اغسل وجهك بغسول مناسب مرتين يومياً",
+        ".استخدم ستارفيل غسول للوجه أو سينوبار كلينزر أو إيفاكلار جل"
+      ]
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": "Vitamin A derivatives (Acretin or Differin) are strictly contraindicated during pregnancy.",
+      "ar": "ممنوع تماماً مشتقات فيتامين أ (أكرتين أو ديفيرين) طوال فترة الحمل."
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Candidiasis",
+      "ar": "عدوى الكانديدا / الفطريات - قلاع الفم والعدوى المهبلية"
+    },
+    "complaint": {
+      "en": [
+        "I have white patches on my tongue.",
+        "I have severe itching and thick white discharge like cottage cheese."
+      ],
+      "ar": [
+        "عندي بقع بيضاء في لساني",
+        "عندي حكة شديدة وإفرازات بيضاء زي الجبنة"
+      ]
+    },
+    "symptoms": {
+      "en": [
+        "Blackheads and whiteheads",
+        "Mild inflammatory pimples",
+        "Oily skin"
+      ],
+      "ar": ["بقع بيضاء تشبه الجبن القريش", "حكة وتهيج ثنايا الجلد"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Skinoren Cream",
+          "generic": "Topical acne cream.",
+          "dosage": "Apply a thin layer to the affected area twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Azaderm Cream",
+          "generic": "Topical acne cream.",
+          "dosage": "Apply a thin layer to the affected area twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Benzac AC Gel 2.5% or 5%",
+          "generic": "Topical acne gel.",
+          "dosage": "Apply a thin layer to the affected area only once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سكينورين كريم",
+          "generic": "كريم موضعي لعلاج حب الشباب.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "أزاديرم كريم",
+          "generic": "كريم موضعي لعلاج حب الشباب.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة مرتين يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "بنزاك إيه سي جل 2.5% أو 5%",
+          "generic": "جل موضعي لعلاج حب الشباب.",
+          "dosage": "يُوضع طبقة رقيقة على المنطقة المصابة مرة واحدة يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {},
+    "red_flags": {
+      "en": [
+        "Fever with a spreading skin rash.",
+        "Severe difficulty swallowing or shortness of breath."
+      ],
+      "ar": [
+        "حمى مع انتشار الطفح الجلدي.",
+        "صعوبة شديده في البلع أو ضيق في التنفس."
+      ]
+    },
+    "contraindications": null
+  },
+  {
+    "disease_name": {
+      "en": "Dandruff / Seborrheic Dermatitis",
+      "ar": "قشرة الرأس / التهاب الجلد الدهني"
+    },
+    "symptoms": {
+      "en": [
+        "White or yellowish flakes on the scalp or hair",
+        "Itching of the scalp",
+        "Scalp redness or irritation"
+      ],
+      "ar": [
+        "قشور بيضاء أو صفراء على فروة الرأس أو الشعر",
+        "حكة في فروة الرأس",
+        "احمرار أو تهيج في فروة الرأس"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Ketoconazole Shampoo (Nizoral®)",
+          "generic": "Ketoconazole",
+          "dosage": "Apply to wet hair, massage into scalp, leave 3-5 minutes then rinse. Use 2-3 times weekly initially, then once weekly for maintenance.",
+          "duration": ""
+        },
+        {
+          "medicine": "Selenium Sulfide Shampoo (Selsun Blue®)",
+          "generic": "Selenium sulfide",
+          "dosage": "Apply to wet hair, massage into scalp, leave 3-5 minutes then rinse. Use 2-3 times weekly initially, then once weekly for maintenance.",
+          "duration": ""
+        },
+        {
+          "medicine": "Zinc Pyrithione Shampoo (Head & Shoulders® Clinical Strength)",
+          "generic": "Zinc pyrithione",
+          "dosage": "Apply to wet hair, massage into scalp, leave 3-5 minutes then rinse. Use 2-3 times weekly initially, then once weekly for maintenance.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "شامبو كيتوكونازول (نيروزال)",
+          "generic": "كيتوكونازول",
+          "dosage": "يوضع على شعر مبلل، يُدلك في فروة الرأس، يُترك 3-5 دقائق ثم يُشطف. يُستخدم 2-3 مرات أسبوعياً ثم مرة أسبوعياً للمحافظة.",
+          "duration": ""
+        },
+        {
+          "medicine": "شامبو سيلينيوم سلفايد (سيلسن بلو)",
+          "generic": "سيلينيوم سلفايد",
+          "dosage": "يوضع على شعر مبلل، يُدلك في فروة الرأس، يُترك 3-5 دقائق ثم يُشطف. يُستخدم 2-3 مرات أسبوعياً ثم مرة أسبوعياً للمحافظة.",
+          "duration": ""
+        },
+        {
+          "medicine": "شامبو زنك بيريثيون (هيد آند شولدرز Clinical Strength)",
+          "generic": "زنك بيريثيون",
+          "dosage": "يوضع على شعر مبلل، يُدلك في فروة الرأس، يُترك 3-5 دقائق ثم يُشطف. يُستخدم 2-3 مرات أسبوعياً ثم مرة أسبوعياً للمحافظة.",
+          "duration": ""
+        }
+      ]
+    },
+    "advice": {
+      "en": [
+        "Be consistent — improvement usually takes 2-4 weeks",
+        "Avoid harsh styling products and very hot water on the scalp",
+        "Alternating between two active shampoos may help prevent tolerance"
+      ],
+      "ar": [
+        "الانتظام في الاستخدام مهم — التحسن يحتاج عادة 2-4 أسابيع",
+        "تجنب منتجات التصفيف القاسية والماء شديد الحرارة على فروة الرأس",
+        "التبديل بين شامبوهين بمكونات فعالة مختلفة قد يمنع الاعتياد"
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Known hypersensitivity to ketoconazole, selenium sulfide, or zinc pyrithione",
+        "Open wounds or active broken skin on scalp",
+        "Pregnancy/breastfeeding: consult physician before ketoconazole use"
+      ],
+      "ar": [
+        "حساسية معروفة للكيتوكونازول أو سيلينيوم سلفايد أو زنك بيريثيون",
+        "وجود جروح مفتوحة أو تشققات نشطة في فروة الرأس",
+        "الحمل والرضاعة: يجب استشارة الطبيب قبل استخدام شامبو الكيتوكونازول"
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Spread of redness or scaling to face, eyebrows, or beyond scalp",
+        "Hair loss, severe inflammation, or pus from scalp",
+        "No improvement after 4 weeks of consistent use"
+      ],
+      "ar": [
+        "انتشار الاحمرار أو القشور إلى الوجه أو الحاجبين أو خارج فروة الرأس",
+        "تساقط الشعر أو التهاب شديد أو خروج صديد من فروة الرأس",
+        "عدم التحسن بعد 4 أسابيع من الاستخدام المنتظم"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Urticaria (Hives)",
+      "ar": "الأرتيكاريا (الشرى)"
+    },
+    "complaint": {
+      "en": "Raised itchy skin rash with redness and swelling.",
+      "ar": "طفح جلدي مرتفع مع حكة واحمرار وتورم."
+    },
+    "symptoms": {
+      "en": [
+        "Raised red itchy wheals",
+        "Burning or stinging sensation",
+        "Skin swelling (angioedema)"
+      ],
+      "ar": [
+        "تورمات جلدية حمراء مرتفعة تسبب الحكة",
+        "إحساس بالحرقان أو الوخز",
+        "تورم تحت الجلد (وذمة وعائية)"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Claritine®",
+          "generic": "Loratadine",
+          "dosage": "10 mg once daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Zyrtec®",
+          "generic": "Cetirizine",
+          "dosage": "10 mg once daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Telfast®",
+          "generic": "Fexofenadine",
+          "dosage": "120-180 mg once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كلاريتين",
+          "generic": "لوراتادين",
+          "dosage": "تركيز 10 مجم مرة يوميًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "زيرتك",
+          "generic": "سيتريزين",
+          "dosage": "تركيز 10 مجم مرة يوميًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "تلفاست",
+          "generic": "فيكسوفينادين",
+          "dosage": "تركيز 120-180 مجم مرة يوميًا.",
+          "duration": ""
+        }
+      ]
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Avoid triggers such as foods, medications, heat, and stress.",
+        "Use cool compresses to reduce itching.",
+        "Wear loose breathable clothing.",
+        "If one antihistamine is not enough, the dose may sometimes be increased after discussing it with a pharmacist or physician."
+      ],
+      "ar": [
+        "تجنب مسببات الحساسية مثل الأطعمة والأدوية والحرارة والتوتر.",
+        "استخدم كمادات باردة لتخفيف الحكة.",
+        "ارتدِ ملابس واسعة ومريحة.",
+        "إذا لم يكن مضاد الهيستامين كافيًا، يمكن أحيانًا زيادة الجرعة بعد استشارة الصيدلي أو الطبيب."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Swelling of face, lips, tongue, or throat",
+        "Difficulty breathing or wheezing",
+        "Dizziness or fainting",
+        "Symptoms lasting more than 6 weeks"
+      ],
+      "ar": [
+        "تورم الوجه أو الشفاه أو اللسان أو الحلق",
+        "صعوبة في التنفس أو صفير",
+        "دوخة أو إغماء",
+        "استمرار الأعراض لأكثر من 6 أسابيع"
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Known allergy to antihistamines",
+        "Use cetirizine cautiously in severe renal impairment",
+        "Cetirizine may cause mild drowsiness - avoid driving until response is known."
+      ],
+      "ar": [
+        "حساسية معروفة لمضادات الهيستامين",
+        "يستخدم السيتريزين بحذر في حالات الفشل الكلوي الشديد",
+        "قد يسبب السيتريزين نعاسًا خفيفًا - تجنب القيادة حت تعرف استجابتك له."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Hair Loss (Alopecia)",
+      "ar": "تساقط الشعر (الثعلبة)"
+    },
+    "complaint": {
+      "en": "Gradual or sudden hair loss from the scalp.",
+      "ar": "تساقط تدريجي أو مفاجئ للشعر من فروة الرأس."
+    },
+    "symptoms": {
+      "en": [
+        "Gradual thinning on top of the head",
+        "Circular or patchy bald spots",
+        "Sudden loosening of hair"
+      ],
+      "ar": [
+        "ترقق تدريجي في شعر الرأس",
+        "بقع صلع دائرية أو غير منتظمة",
+        "تساقط مفاجئ للشعر"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Minoxidil Solution/Spray",
+          "generic": "Minoxidil 5% or 2%",
+          "dosage": "Spray or apply 1 mL to the affected scalp area twice daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Priorin N® Capsules",
+          "generic": "Nutritional support",
+          "dosage": "1 capsule 1-3 times daily according to product instructions.",
+          "duration": ""
+        },
+        {
+          "medicine": "Pantogar® Capsules",
+          "generic": "Vitamins",
+          "dosage": "1 capsule 1-3 times daily according to product instructions.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "محلول/بخاخ مينوكسيديل",
+          "generic": "مينوكسيديل 5% أو 2%",
+          "dosage": "يُرش أو يُوضع 1 مل على المنطقة المصابة من فروة الرأس مرتين يوميًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "كبسولات بريورين إن",
+          "generic": "مكمل غذائي لتقوية الشعر",
+          "dosage": "كبسولة 1-3 مرات يوميًا حسب تعليمات المنتج.",
+          "duration": ""
+        },
+        {
+          "medicine": "كبسولات بانتوجار",
+          "generic": "فيتامينات",
+          "dosage": "كبسولة 1-3 مرات يوميًا حسب تعليمات المنتج.",
+          "duration": ""
+        }
+      ]
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Be patient — visible results take 3-6 months of consistent daily use.",
+        "Stopping minoxidil reverses the gains within a few months; long-term use is required.",
+        "Handle hair gently — avoid tight hairstyles, harsh brushing, and very hot styling tools."
+      ],
+      "ar": [
+        "تحلَّ بالصبر — تظهر النتائج المرئية بعد 3-6 أشهر من الاستخدام اليومي المنتظم.",
+        "إيقاف المينوكسيديل يُلغي النتائج خلال أشهر قليلة؛ يحتاج إلى استخدام مستمر طويل المدى.",
+        "تعامل مع الشعر بلطف — تجنب التسريحات المشدودة، التمشيط القاسي، وأدوات التصفيف شديدة الحرارة."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Sudden patchy hair loss with smooth, well-defined bald spots (alopecia areata)",
+        "Scalp pain, redness, scaling, or pus along with hair loss",
+        "Hair loss accompanied by fatigue, weight changes, or menstrual irregularities"
+      ],
+      "ar": [
+        "تساقط مفاجئ على شكل بقع ملساء واضحة الحواف (الثعلبة البقعية)",
+        "ألم أو احمرار أو قشور أو صديد في فروة الرأس مع التساقط",
+        "تساقط الشعر المصحوب بإرهاق أو تغيرات في الوزن أو اضطرابات الدورة الشهرية"
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Pregnancy and breastfeeding (avoid topical minoxidil)",
+        "Active scalp conditions: psoriasis, severe dermatitis, or open wounds",
+        "Known hypersensitivity to minoxidil or any supplement component"
+      ],
+      "ar": [
+        "الحمل والرضاعة (يُتجنب المينوكسيديل الموضعي)",
+        "وجود أمراض نشطة في فروة الرأس: الصدفية، التهابات شديدة، أو جروح مفتوحة",
+        "الحساسية المعروفة للمينوكسيديل أو أي من مكونات المكملات"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Xerosis (Dry Skin)",
+      "ar": "جفاف الجلد (كزازة الجلد)"
+    },
+    "complaint": {
+      "en": "Dry rough skin with itching and scaling.",
+      "ar": "جفاف وخشونة الجلد مع حكة وتقشر."
+    },
+    "symptoms": {
+      "en": [
+        "Skin tightness and roughness",
+        "Scaling, flaking, or fine cracks",
+        "Itching (Pruritus)"
+      ],
+      "ar": [
+        "شعور بضيق الجلد وخشونته",
+        "تقشر الجلد أو وجود تشققات دقيقة",
+        "حكة جلدية"
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Eucerin UreaRepair PLUS®",
+          "generic": "",
+          "dosage": "Apply liberally to the skin at least twice daily, preferably immediately after bathing when the skin is still damp.",
+          "duration": ""
+        },
+        {
+          "medicine": "Bioderma Atoderm Cream",
+          "generic": "",
+          "dosage": "Apply liberally to the skin at least twice daily, preferably immediately after bathing when the skin is still damp.",
+          "duration": ""
+        },
+        {
+          "medicine": "Vaseline Intensive Care",
+          "generic": "",
+          "dosage": "Apply liberally to the skin at least twice daily, preferably immediately after bathing when the skin is still damp.",
+          "duration": ""
+        },
+        {
+          "medicine": "QV Cream",
+          "generic": "",
+          "dosage": "Apply liberally to the skin at least twice daily, preferably immediately after bathing when the skin is still damp.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "يوسيرين يوريا ريبير",
+          "generic": "",
+          "dosage": "يُدهن بسخاء على الجلد مرتين يوميًا على الأقل، ويفضل فورًا بعد الاستحمام بينما لا يزال الجلد رطبًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "بيوديرما أتوديرم",
+          "generic": "",
+          "dosage": "يُدهن بسخاء على الجلد مرتين يوميًا على الأقل، ويفضل فورًا بعد الاستحمام بينما لا يزال الجلد رطبًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "فازلين للعناية المكثفة",
+          "generic": "",
+          "dosage": "يُدهن بسخاء على الجلد مرتين يوميًا على الأقل، ويفضل فورًا بعد الاستحمام بينما لا يزال الجلد رطبًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "كيو في كريم",
+          "generic": "",
+          "dosage": "يُدهن بسخاء على الجلد مرتين يوميًا على الأقل، ويفضل فورًا بعد الاستحمام بينما لا يزال الجلد رطبًا.",
+          "duration": ""
+        }
+      ]
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Limit bathing time to 5-10 minutes using lukewarm water, not hot.",
+        "Use mild, fragrance-free cleansers.",
+        "Drink plenty of water and maintain a healthy environment (use a humidifier if the air is dry)."
+      ],
+      "ar": [
+        "قلل مدة الاستحمام إلى 5-10 دقائق باستخدام ماء فاتر وليس ساخنًا.",
+        "استخدم منظفات لطيفة وخالية من العطور.",
+        "اشرب كميات كافية من الماء وحافظ على رطوبة البيئة المحيطة."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Presence of deep, painful, or bleeding cracks (fissures)",
+        "Signs of infection (pus, warmth, or spreading redness)",
+        "Persistent dryness that doesn't improve despite regular moisturizing"
+      ],
+      "ar": [
+        "وجود تشققات عميقة أو مؤلمة أو تنزف دمًا",
+        "ظهور علامات عدوى (صديد، حرارة، أو احمرار منتشر)",
+        "جفاف مستمر لا يتحسن رغم الترطيب المنتظم"
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Known hypersensitivity to any of the ingredients in the moisturizer",
+        "Stop use if irritation or redness increases after application"
+      ],
+      "ar": [
+        "الحساسية المعروفة لأي من مكونات المرطب",
+        "توقف عن الاستخدام إذا زاد التهيج أو الاحمرار بعد الدهان"
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Herpes Zoster (Shingles)",
+      "ar": "الحزام الناري"
+    },
+    "complaint": {
+      "en": "Painful skin rash, typically in a band or strip pattern on one side of the body.",
+      "ar": "طفح جلدي مؤلم، عادة على شكل حزام أو شريط في جانب واحد من الجسم."
+    },
+    "symptoms": {
+      "en": [
+        "Painful skin rash, typically in a band or strip pattern on one side of the body.",
+        "Blisters that break open and crust over.",
+        "Tingling, burning, or numbness in the affected area."
+      ],
+      "ar": [
+        "طفح جلدي مؤلم، عادة على شكل حزام أو شريط في جانب واحد من الجسم.",
+        "بثور تنفتح وتتكون فوقها قشور.",
+        "وخز، حرقان، أو تنميل في المنطقة المصابة."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Zovirax®",
+          "generic": "Acyclovir",
+          "dosage": "Antivirals are most effective when started within 72 hours of rash onset — refer to a physician promptly.",
+          "duration": ""
+        },
+        {
+          "medicine": "Valtrex®",
+          "generic": "Valacyclovir",
+          "dosage": "Antivirals are most effective when started within 72 hours of rash onset — refer to a physician promptly.",
+          "duration": ""
+        },
+        {
+          "medicine": "Panadol Extra®",
+          "generic": "Paracetamol",
+          "dosage": "500-1000 mg every 6 hours as needed for pain.",
+          "duration": ""
+        },
+        {
+          "medicine": "Calamine lotion",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "زوڤيراكس",
+          "generic": "أسيكلوفير",
+          "dosage": "مضادات الفيروسات تكون أكثر فاعلية عند بدء العلاج خلال 72 ساعة من ظهور الطفح — يُحال المريض إلى الطبيب سريعًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "فالتريكس",
+          "generic": "فالاسيكلوفير",
+          "dosage": "مضادات الفيروسات تكون أكثر فاعلية عند بدء العلاج خلال 72 ساعة من ظهور الطفح - يُحال المريض إلى الطبيب سريعًا.",
+          "duration": ""
+        },
+        {
+          "medicine": "بنادول إكسترا",
+          "generic": "باراسيتامول",
+          "dosage": " تركيز 500-1000 ملجم كل 6 ساعات عند الحاجة لتسكين الألم  ",
+          "duration": ""
+        },
+        {
+          "medicine": "كالامين لوسيون",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "severity": "serious",
+    "advice": {
+      "en": [
+        "Keep the rash clean, dry, and covered with a loose dressing to reduce viral shedding.",
+        "Avoid contact with pregnant women, newborns, and immunocompromised people until lesions crust over.",
+        "Cool compresses or calamine lotion can help soothe itching without drying excessively."
+      ],
+      "ar": [
+        "حافظ على المنطقة المصابة نظيفة وجافة ومغطاة بضمادة فضفاضة لتقليل انتشار الفيروس.",
+        "تجنب الاحتكاك بالنساء الحوامل والمواليد ومرضى نقص المناعة حتى تتكون قشور على البثور.",
+        "الكمادات الباردة أو كالامين لوسيون تساعد في تهدئة الحكة دون تجفيف الجلد بشكل مفرط."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Rash involving the eye, forehead, or tip of the nose (ophthalmic zoster - risk of blindness).",
+        "Rash on the face, ear, or with facial weakness (Ramsay Hunt - needs urgent care).",
+        "Immunocompromised patient, fever, severe pain, or rash crossing the midline of the body."
+      ],
+      "ar": [
+        "طفح يصيب العين أو الجبهة أو طرف الأنف (الحزام الناري العيني - خطر فقدان البصر).",
+        "طفح في الوجه أو الأذن أو مصحوب بضعف في عضلات الوجه (متلازمة رامزي هانت - تحتاج رعاية عاجلة).",
+        "مريض يعاني من ضعف المناعة، أو حرارة، أو ألم شديد، أو طفح يتجاوز منتصف الجسم."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Pharmacist self-treatment is NOT appropriate - antivirals require a physician's prescription.",
+        "Known hypersensitivity to acyclovir/valacyclovir.",
+        "Renal impairment requires dose adjustment - physician supervision essential."
+      ],
+      "ar": [
+        "العلاج الذاتي بدون استشارة الطبيب غير مناسب - مضادات الفيروسات تتطلب وصفة طبية.",
+        "الحساسية المعروفة للأسيكلوفير/الفالاسيكلوفير.",
+        "حالات القصور الكلوي تستلزم تعديل الجرعة - الإشراف الطبي ضروري."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Scabies",
+      "ar": "الجرب"
+    },
+    "complaint": {
+      "en": "Intense itching, especially at night.",
+      "ar": "حكة شديدة تزداد ليلًا."
+    },
+    "symptoms": {
+      "en": [
+        "Intense itching, especially at night.",
+        "Thin, wavy burrow tracks on the skin (often in finger webs, wrists, elbows).",
+        "Small red bumps or rash."
+      ],
+      "ar": [
+        "حكة شديدة تزداد ليلًا.",
+        "مسارات رفيعة ومتعرجة تحت الجلد (غالبًا بين الأصابع، المعصم، والمرفق).",
+        "بثور حمراء صغيرة أو طفح جلدي."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Scabene® Cream",
+          "generic": "Permethrin Cream 5%",
+          "dosage": "Apply from the neck down to the entire body (including soles of feet). Leave on for 8–14 hours, then wash off. Repeat after 7 days.",
+          "duration": ""
+        },
+        {
+          "medicine": "Jacutin® Gel",
+          "generic": "Permethrin Cream 5%",
+          "dosage": "Apply from the neck down to the entire body (including soles of feet). Leave on for 8–14 hours, then wash off. Repeat after 7 days.",
+          "duration": ""
+        },
+        {
+          "medicine": "Benzyl Benzoate Lotion",
+          "generic": "",
+          "dosage": "Alternative treatment.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سكابين كريم",
+          "generic": "بيرمثرين كريم %5",
+          "dosage": "يُدهن من الرقبة وحتى أسفل الجسم بالكامل (شاملًا باطن القدمين). يُترك لمدة 8-14 ساعة ثم يُغسل. يُكرر بعد 7 أيام.",
+          "duration": ""
+        },
+        {
+          "medicine": "جاكوتين جل",
+          "generic": "بيرمثرين كريم %5",
+          "dosage": "يُدهن من الرقبة وحتى أسفل الجسم بالكامل (شاملًا باطن القدمين). يُترك لمدة 8-14 ساعة ثم يُغسل. يُكرر بعد 7 أيام.",
+          "duration": ""
+        },
+        {
+          "medicine": "بنزيل بنزوات لوسيون",
+          "generic": "",
+          "dosage": "بديل للعلاج.",
+          "duration": ""
+        }
+      ]
+    },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Treat ALL household members and close contacts at the same time, even if asymptomatic.",
+        "Wash all clothes, towels, and bedding from the past 3 days in hot water and dry on high heat (or seal in a bag for 72 hours).",
+        "Itching may persist for 2-4 weeks after successful treatment — this is normal and does not mean treatment failed."
+      ],
+      "ar": [
+        "عالج جميع أفراد المنزل والمخالطين في نفس الوقت، حتى من لا يشكون من أعراض.",
+        "اغسل جميع الملابس والمناشف والفُرش المستخدمة في آخر 3 أيام بماء ساخن وجففها على حرارة عالية (أو ضعها في كيس محكم لمدة 72 ساعة).",
+        "قد تستمر الحكة 2-4 أسابيع بعد نجاح العلاج — هذا طبيعي ولا يعني فشل العلاج."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Thick, crusted skin with widespread scaling (crusted/Norwegian scabies — highly contagious).",
+        "Pus, spreading redness, fever, or signs of secondary bacterial infection.",
+        "No improvement after two complete treatment cycles, or rapid recurrence."
+      ],
+      "ar": [
+        "جلد سميك وقشري مع تقشر منتشر (الجرب القشري/النرويجي — شديد العدوى).",
+        "صديد، احمرار منتشر، حمى، أو علامات عدوى بكتيرية ثانوية.",
+        "عدم التحسن بعد دورتين علاج كاملتين، أو تكرار سريع للمرض."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Infants under 2 months: avoid permethrin without medical supervision.",
+        "Pregnancy and breastfeeding: avoid benzyl benzoate; permethrin may be used under physician guidance.",
+        "Known hypersensitivity to permethrin, benzyl benzoate, or chrysanthemum related plants."
+      ],
+      "ar": [
+        "الأطفال دون شهرين: يُتجنب البيرمثرين دون إشراف طبي.",
+        "الحمل والرضاعة: يُتجنب بنزيل بنزوات؛ يمكن استخدام البيرمثرين تحت إشراف الطبيب.",
+        "الحساسية المعروفة للبيرمثرين أو بنزيل بنزوات أو نباتات الأقحوان."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Brittle Nails (Onychoschizia)",
+      "ar": "ﺿﻌﻒ أو ﻫﺸﺎﺷﺔ الأﻇﺎﻓﺮ"
+    },
+    "complaint": {
+      "en": "Splitting, peeling, or cracking of the nail tips.",
+      "ar": "ﺗﻘﺸﺮ أو اﻧﻘﺴﺎم أو ﺗﺸﻘﻖ أﻃﺮاف الأﻇﺎﻓﺮ."
+    },
+    "symptoms": {
+      "en": [
+        "Splitting, peeling, or cracking of the nail tips.",
+        "Ridges on the surface of the nail.",
+        "Soft or brittle texture that breaks easily."
+      ],
+      "ar": [
+        "ﺗﻘﺸﺮ أو اﻧﻘﺴﺎم أو ﺗﺸﻘﻖ أﻃﺮاف الأﻇﺎﻓﺮ.",
+        "وﺟﻮد ﺧﻄﻮط أو ﻧﺘﻮءات ﻋﻠﻰ ﺳﻄﺢ اﻟﻈﻔﺮ.",
+        "ﻣﻠﻤﺲ ﺿﻌﻴﻒ وﻫﺶ ﻳﻨﻜﺴﺮ ﺑﺴﻬﻮﻟﺔ."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Pantogar® Capsules, Biotin Forte®, Perfectil®.",
+          "generic": "",
+          "dosage": "Supplements: typically 1 capsule daily for at least 3 months. Topical polishes: apply per product instructions, usually 1–2 layers weekly.",
+          "duration": ""
+        },
+        {
+          "medicine": "Sally Hansen",
+          "generic": "",
+          "dosage": "Topical: Nail-hardening polishes (e.g., Sally Hansen).",
+          "duration": ""
+        },
+        {
+          "medicine": "Natural oils",
+          "generic": "",
+          "dosage": "Natural oils (almond or olive oil) for moisturizing the nail bed.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ﻛﺒﺴﻮﻻت ﺑﺎﻧﺘﻮﺟﺎر، ﺑﻴﻮﺗﻴﻦ ﻓﻮرت، ﺑﻴﺮﻓﻜﺘﻴﻞ.",
+          "generic": "",
+          "dosage": "اﻟﻤﻜﻤلات: ﻋﺎدة ً ﻛﺒﺴﻮﻟﺔ واﺣﺪة ﻳﻮﻣﻴﺎ ً ﻟﻤﺪة 3 أﺷﻬﺮ ﻋﻠﻰ الأﻗﻞ. ﻃلاء الأﻇﺎﻓﺮ: ﻳُﺴﺘﺨﺪم ﺣﺴﺐ ﺗﻌﻠﻴﻤﺎت اﻟﻤﻨﺘﺞ، ﻋﺎدة ً ﻃﺒﻘﺔ أو ﻃﺒﻘﺘﺎن أﺳﺒﻮﻋﻴﺎ ً.",
+          "duration": ""
+        },
+        {
+          "medicine": "Sally Hansen",
+          "generic": "",
+          "dosage": "طلاء ﻣﻘﻮي ﻟلأﻇﺎﻓﺮ.",
+          "duration": ""
+        },
+        {
+          "medicine": "زﻳﻮت ﻃﺒﻴﻌﻴﺔ",
+          "generic": "",
+          "dosage": "زﻳﺖ اﻟﻠﻮز أو زﻳﺖ اﻟﺰﻳﺘﻮن ﻟﺘﺮﻃﻴﺐ ﺳﺮﻳﺮ اﻟﻈﻔﺮ.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Wear gloves for wet work, dishwashing, and when using household chemicals.",
+        "Keep nails trimmed short and filed in one direction to reduce splitting.",
+        "Moisturize hands and cuticles daily; massage cuticle oil at night."
+      ],
+      "ar": [
+        "ارﺗﺪِ اﻟﻘﻔﺎزات ﻋﻨﺪ اﻟﻐﺴﻴﻞ أو اﻟﺘﻌﺎﻣﻞ ﻣﻊ اﻟﻤﻮاد اﻟﻜﻴﻤﻴﺎﺋﻴﺔ اﻟﻤﻨﺰﻟﻴﺔ.",
+        "ﻗﺺ الأﻇﺎﻓﺮ ﻗﺼﻴﺮة وﺑﺮدﻫﺎ ﻓﻲ اﺗﺠﺎه واﺣﺪ ﻟﺘﻘﻠﻴﻞ اﻟﺘﺸﻘﻖ.",
+        "رﻃﺐ اﻟﻴﺪﻳﻦ واﻟﺠﻠﺪ اﻟﻤﺤﻴﻂ ﺑﺎﻟﻈﻔﺮ ﻳﻮﻣﻴﺎ ً ؛ ودﻟﻚ زﻳﺖ اﻟﻌﻨﺎﻳﺔ ﺑﺎلأﻇﺎﻓﺮ ﻟﻴلا ً ."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Discoloration (yellow/green/black), pitting, or thickening of the nails.",
+        "Separation of the nail from the nail bed or pain around the nail.",
+        "Brittle nails accompanied by fatigue, hair loss, or cold intolerance (possible thyroid/iron deficiency)."
+      ],
+      "ar": [
+        "ﺗﻐﻴﺮ ﻟﻮن اﻟﻈﻔﺮ (أﺻﻔﺮ/أﺧﻀﺮ/أﺳﻮد)، ﺗﻨﻘﻴﺮ، أو زﻳﺎدة ﺳُﻤﻜﻪ.",
+        "اﻧﻔﺼﺎل اﻟﻈﻔﺮ ﻋﻦ ﺳﺮﻳﺮ اﻟﻈﻔﺮ أو أﻟﻢ ﺣﻮل اﻟﻈﻔﺮ.",
+        "ﻫﺸﺎﺷﺔ الأﻇﺎﻓﺮ ﻣﻊ إرﻫﺎق أو ﺗﺴﺎﻗﻂ ﺷﻌﺮ أو ﺣﺴﺎﺳﻴﺔ ﻟﻠﺒﺮد."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Known hypersensitivity to biotin or any supplement ingredient.",
+        "Note: high-dose biotin can interfere with thyroid and cardiac lab tests — inform your doctor before blood work.",
+        "Caution in pregnancy/breastfeeding — consult physician before high-dose vitamin supplements."
+      ],
+      "ar": [
+        "اﻟﺤﺴﺎﺳﻴﺔ اﻟﻤﻌﺮوﻓﺔ ﻟﻠﺒﻴﻮﺗﻴﻦ أو أي ﻣﻦ ﻣﻜﻮﻧﺎت اﻟﻤﻜﻤﻞ اﻟﻐﺬاﺋﻲ.",
+        "ﻣﻼﺣﻈﺔ: ﺟﺮﻋﺎت اﻟﺒﻴﻮﺗﻴﻦ اﻟﻌﺎﻟﻴﺔ ﻗﺪ ﺗﺆﺛﺮ ﻋﻠﻰ ﻧﺘﺎﺋﺞ ﺗﺤﺎﻟﻴﻞ اﻟﻐﺪة اﻟﺪرﻗﻴﺔ واﻟﻘﻠﺐ.",
+        "اﻟﺤﺬر أﺛﻨﺎء اﻟﺤﻤﻞ واﻟﺮﺿﺎﻋﺔ."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Acne Vulgaris",
+      "ar": "ﺣﺐ اﻟﺸﺒﺎب"
+    },
+    "complaint": {
+      "en": "Whiteheads, blackheads, papules, pustules.",
+      "ar": "رؤوس ﺑﻴﻀﺎء وﺳﻮداء، ﺣﺒﻮب ﺣﻤﺮاء، ﺑﺜﻮر ﻣﻠﻴﺌﺔ ﺑﺎﻟﺼﺪﻳﺪ."
+    },
+    "symptoms": {
+      "en": [
+        "Whiteheads, blackheads, papules, pustules.",
+        "Oily skin.",
+        "Most commonly on the face, chest, and back."
+      ],
+      "ar": [
+        "رؤوس ﺑﻴﻀﺎء وﺳﻮداء، ﺣﺒﻮب ﺣﻤﺮاء، ﺑﺜﻮر ﻣﻠﻴﺌﺔ ﺑﺎﻟﺼﺪﻳﺪ.",
+        "ﺑﺸﺮة دﻫﻨﻴﺔ.",
+        "ﺗﻈﻬﺮ ﻏﺎﻟﺒﺎ ً ﻋﻠﻰ اﻟﻮﺟﻪ واﻟﺼﺪر واﻟﻈﻬﺮ."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Differin® Gel (Adapalene).",
+          "generic": "",
+          "dosage": "Apply a thin layer to clean, dry skin once daily (usually at night). Start every other night to reduce irritation, then gradually increase to nightly use.",
+          "duration": ""
+        },
+        {
+          "medicine": "Benzac® Gel (Benzoyl Peroxide).",
+          "generic": "",
+          "dosage": "Apply a thin layer to clean, dry skin once daily (usually at night). Start every other night to reduce irritation, then gradually increase to nightly use.",
+          "duration": ""
+        },
+        {
+          "medicine": "Neutrogena Acne Wash (Salicylic Acid cleanser).",
+          "generic": "",
+          "dosage": "Apply a thin layer to clean, dry skin once daily (usually at night). Start every other night to reduce irritation, then gradually increase to nightly use.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "دﻳﻔﺮﻳﻦ ﺟﻞ (أداﺑﺎﻟﻴﻦ).",
+          "generic": "",
+          "dosage": "ﺗ ُﺪﻫﻦ ﻃﺒﻘﺔ رﻗﻴﻘﺔ ﻋﻠﻰ ﺟﻠﺪ ﻧﻈﻴﻒ وﺟﺎف ﻣﺮة واﺣﺪة ﻳﻮﻣﻴﺎ ً (ﻏﺎﻟﺒﺎ ً ﻟﻴلا ً).",
+          "duration": ""
+        },
+        {
+          "medicine": "ﺑﻨﺰاك ﺟﻞ (ﺑﻨﺰوﻳﻞ ﺑﻴﺮوﻛﺴﺎﻳﺪ).",
+          "generic": "",
+          "dosage": "ﺗ ُﺪﻫﻦ ﻃﺒﻘﺔ رﻗﻴﻘﺔ ﻋﻠﻰ ﺟﻠﺪ ﻧﻈﻴﻒ وﺟﺎف ﻣﺮة واﺣﺪة ﻳﻮﻣﻴﺎ ً (ﻏﺎﻟﺒﺎ ً ﻟﻴلا ً).",
+          "duration": ""
+        },
+        {
+          "medicine": "ﻧﻴﺘﺮوﺟﻴﻨﺎ ﻏﺴﻮل (ﺣﻤﺾ اﻟﺴﺎﻟﻴﺴﻴﻠﻴﻚ).",
+          "generic": "",
+          "dosage": "ﺗ ُﺪﻫﻦ ﻃﺒﻘﺔ رﻗﻴﻘﺔ ﻋﻠﻰ ﺟﻠﺪ ﻧﻈﻴﻒ وﺟﺎف ﻣﺮة واﺣﺪة ﻳﻮﻣﻴﺎ ً (ﻏﺎﻟﺒﺎ ً ﻟﻴلا ً).",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Use non-comedogenic (oil-free) products and be patient - results typically appear after 8-12 weeks.",
+        "Avoid picking or squeezing lesions to prevent scarring.",
+        "Use sunscreen daily, as topical acne treatments increase sun sensitivity."
+      ],
+      "ar": [
+        "اﺳﺘﺨﺪم ﻣﺴﺘﺤﻀﺮات لا ﺗﺴﺪ اﻟﻤﺴﺎم وﻛﻦ ﺻﺒﻮرا ً — ﺗﻈﻬﺮ اﻟﻨﺘﺎﺋﺞ ﻋﺎدة ً ﺑﻌﺪ 8-12 أﺳﺒﻮﻋﺎ ً.",
+        "ﺗﺠﻨﺐ اﻟﻀﻐﻂ أو اﻟﻌﺒﺚ ﺑﺎﻟﺤﺒﻮب ﻟﻤﻨﻊ ﺗﻜﻮن اﻟﻨﺪﺑﺎت.",
+        "اﺳﺘﺨﺪم واﻗﻲ اﻟﺸﻤﺲ ﻳﻮﻣﻴﺎً حيث تزيد علاجات حب الشباب من حساسية الجلد للشمس."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Severe nodulocystic acne, scarring, or hyperpigmentation forming.",
+        "Sudden onset of severe acne in adults.",
+        "No improvement after 12 weeks of consistent OTC treatment."
+      ],
+      "ar": [
+        "ﺣﺐ ﺷﺒﺎب ﻋﻘﻴﺪي أو ﻛﻴﺴﻲ ﺷﺪﻳﺪ، ﺗﻜﻮن ﻧﺪﺑﺎت، أو ﻇﻬﻮر ﺗﺼﺒﻐﺎت داﻛﻨﺔ.",
+        "ﻇﻬﻮر ﻣﻔﺎﺟﺊ ﻟﺤﺐ ﺷﺒﺎب ﺷﺪﻳﺪ ﻋﻨﺪ اﻟﺒﺎﻟﻐﻴﻦ.",
+        "ﻋﺪم اﻟﺘﺤﺴﻦ ﺑﻌﺪ 12 أﺳﺒﻮﻋﺎ ً."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Pregnancy: avoid topical retinoids (adapalene); consult physician.",
+        "Known hypersensitivity to benzoyl peroxide, adapalene, or salicylic acid.",
+        "Avoid using multiple strong actives at once."
+      ],
+      "ar": [
+        "اﻟﺤﻤﻞ: ﻳُﺘﺠﻨﺐ اﺳﺘﺨﺪام ﻣﺸﺘﻘﺎت اﻟﺮﻳﺘﻴﻨﻮﻳﺪ اﻟﻤﻮﺿﻌﻴﺔ(أدبالين) استشر الطبيب.",
+        "الحساسية المفرطة المعروفة لبيروكسيد البنزويل أو الأدابالين أو حمض الساليسيليك.",
+        "ﺗﺠﻨﺐ اﺳﺘﺨﺪام ﻋﺪة ﻣﻮاد ﻓﻌﺎﻟﺔ ﻗﻮﻳﺔ ﻓﻲ وﻗﺖ واﺣﺪ."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Psoriasis",
+      "ar": "اﻟﺼﺪﻓﻴﺔ"
+    },
+    "complaint": {
+      "en": "Raised, red patches covered with silvery scales.",
+      "ar": "ﺑﻘﻊ ﺣﻤﺮاء ﻣﺮﺗﻔﻌﺔ ﻣﻐﻄﺎة ﺑﻘﺸﻮر ﻓﻀﻴﺔ."
+    },
+    "symptoms": {
+      "en": [
+        "Raised, red patches covered with silvery scales.",
+        "Dry, cracked skin that may bleed.",
+        "Itching, burning, or soreness."
+      ],
+      "ar": [
+        "ﺑﻘﻊ ﺣﻤﺮاء ﻣﺮﺗﻔﻌﺔ ﻣﻐﻄﺎة ﺑﻘﺸﻮر ﻓﻀﻴﺔ.",
+        "ﺟﻠﺪ ﺟﺎف وﻣﺘﻘﻖ ﻗﺪ ﻳﻨﺰف.",
+        "ﺣﻜﺔ، ﺣﺮﻗﺎن، أو أﻟﻢ ﻓﻲ اﻟﻤﻨﻄﻘﺔ اﻟﻤﺼﺎﺑﺔ."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Clobetasol - Dermovate® Ointment",
+          "generic": "",
+          "dosage": "Apply topical ointments once or twice daily to affected areas.",
+          "duration": ""
+        },
+        {
+          "medicine": "Urea-based moisturizers - Eucerin UreaRepair®.",
+          "generic": "",
+          "dosage": "Use moisturizers liberally and frequently throughout the day.",
+          "duration": ""
+        },
+        {
+          "medicine": "Salicylic acid shampoos - T/Sal®.",
+          "generic": "",
+          "dosage": "Use topical ointments once or twice daily to affected areas.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كلوبيتاﺳول - ديرموفيت® مرهم",
+          "generic": "",
+          "dosage": "يُدهن المرهم الموضعي مرة أو مرتين يوميًا على المناطق المصابة.",
+          "duration": ""
+        },
+        {
+          "medicine": "مرطبات تحتوي على اليوريا - يوسيرين يوريا ريبير.",
+          "generic": "",
+          "dosage": "تُستخدم المرطبات بكثرة وبشكل متكرر طوال اليوم.",
+          "duration": ""
+        },
+        {
+          "medicine": "شامبوهات حمض الساليسيليك - T/Sal®.",
+          "generic": "",
+          "dosage": "يُستخدم المرهم الموضعي مرة أو مرتين يوميًا على المناطق المصابة.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Identify and manage flare triggers: stress, infection, alcohol, certain medications.",
+        "Daily moisturizing is the foundation of long-term control.",
+        "Short, controlled sun exposure may help, but avoid sunburn."
+      ],
+      "ar": [
+        "حدد وأدر مسببات النوبات: التوتر، العدوى، الكحول، بعض الأدوية.",
+        "الترطيب اليومي هو الأساس في السيطرة طويلة المدى.",
+        "التعرض القصير والمتحكم فيه للشمس قد يساعد، لكن يجب تجنب حروق الشمس."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Coverage of more than 10% of body surface, or rapid spread.",
+        "Joint pain, stiffness, or swelling.",
+        "Pustular or erythrodermic flare - emergency referral needed."
+      ],
+      "ar": [
+        "تغطية أكثر من 10% من سطح الجسم، أو انتشار سريع.",
+        "ألم أو تيبس أو تورم في المفاصل.",
+        "نوبة بثورية أو احمرارية شاملة - تتطلب إحالة طارئة."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Long-term unsupervised use of potent topical steroids (causes skin thinning, rebound flares).",
+        "Avoid potent steroids on face, groin, and skin folds unless prescribed.",
+        "Salicylic acid: avoid on large body areas, in children, and in pregnancy without medical advice."
+      ],
+      "ar": [
+        "الاﺳﺘﺨﺪام اﻟﻤﻄﻮل دون إﺷﺮاف ﻟﻠﻜﻮرﺗﻴﻜﻮﺳﺘﻴﺮوﻳﺪات اﻟﻘﻮﻳﺔ (ﻳﺴﺒﺐ ﺗﺮﻗﻖ اﻟﺠﻠﺪ وﻧﻮﺑﺎت ارﺗﺪادﻳﺔ).",
+        "ﺗﺠﻨﺐ اﻟﻜﻮرﺗﻴﻜﻮﺳﺘﻴﺮوﻳﺪات اﻟﻘﻮﻳﺔ ﻋﻠﻰ اﻟﻮﺟﻪ واﻟﻤﻨﻄﻘﺔ اﻟﺘﻨﺎﺳﻠﻴﺔ وﺛﻨﺎﻳﺎ اﻟﺠﻠﺪ إلا ﺑﻮﺻﻔﺔ ﻃﺒﻴﺔ.",
+        "ﺣﻤﺾ اﻟﺴﺎﻟﻴﺴﻴﻠﻴﻚ: ﻳُﺘﺠﻨﺐ ﻋﻠﻰ ﻣﺴﺎﺣﺎت ﻛﺒﻴﺮة ﻣﻦ اﻟﺠﺴﻢ وﻋﻨﺪ الأﻃﻔﺎل وأﺛﻨﺎء اﻟﺤﻤﻞ اﺑﺪاً اﺳﺘﺸﺎرة ﻃﺒﻴﺔ."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Tinea Pedis (Athlete's Foot)",
+      "ar": "(اﻟﻘﺪم اﻟﺮﻳﺎﺿﻲ) ﺗﻨﻴﺔ اﻟﻘﺪم"
+    },
+    "complaint": {
+      "en": "Itchy, scaly, or cracked skin between the toes.",
+      "ar": "ﺣﻜﺔ، ﺗﻘﺸﺮ، أو ﺗﺸﻘﻖ اﻟﺠﻠﺪ ﺑﻴﻦ أﺻﺎﺑﻊ اﻟﻘﺪم."
+    },
+    "symptoms": {
+      "en": [
+        "Itchy, scaly, or cracked skin between the toes.",
+        "Burning or stinging sensation; sometimes blisters.",
+        "Foot odor."
+      ],
+      "ar": [
+        "ﺣﻜﺔ، ﺗﻘﺸﺮ، أو ﺗﺸﻘﻖ اﻟﺠﻠﺪ ﺑﻴﻦ أﺻﺎﺑﻊ اﻟﻘﺪم.",
+        "ﺷﻌﻮر ﺑﺎﻟﺤﺮﻗﺎن أو اﻟﻮﺧﺰ؛ وأﺣﻴﺎﻧﺎ ً ﺑﺜﻮر.",
+        "راﺋﺤﺔ ﻛﺮﻳﻬﺔ ﻟﻠﻘﺪم."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Terbinafine - Lamifen® Cream/Spray.",
+          "generic": "",
+          "dosage": "Apply the cream or spray to the affected area and surrounding skin 1-2 times daily for 2-4 weeks.",
+          "duration": ""
+        },
+        {
+          "medicine": "Clotrimazole - Candistan® Cream/Solution.",
+          "generic": "",
+          "dosage": "Apply the cream or spray to the affected area and surrounding skin 1-2 times daily for 2-4 weeks.",
+          "duration": ""
+        },
+        {
+          "medicine": "Sertaconazole - Dermofix® Cream/Spray.",
+          "generic": "",
+          "dosage": "Apply the cream or spray to the affected area and surrounding skin 1-2 times daily for 2-4 weeks.",
+          "duration": ""
+        },
+        {
+          "medicine": "Miconazole - Daktacort® Cream.",
+          "generic": "",
+          "dosage": "Apply the cream or spray to the affected area and surrounding skin 1-2 times daily for 2-4 weeks.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ﺗﻴﺮﺑﻴﻨﺎﻓﻴﻦ - لاﻣﻴﻔﻴﻦ ﻛﺮﻳﻢ/ﺑﺨﺎخ.",
+          "generic": "",
+          "dosage": "ﻳُﺪﻫﻦ اﻟﻜﺮﻳﻢ أو ﻳُﺮش اﻟﺒﺨﺎخ ﻋﻠﻰ اﻟﻤﻨﻄﻘﺔ اﻟﻤﺼﺎﺑﺔ واﻟﺠﻠﺪ اﻟﻤﺤﻴﻂ ﺑﻬﺎ ﻣﺮة إﻟﻰ ﻣﺮﺗﻴﻦ ﻳﻮﻣﻴﺎ ً ﻟﻤﺪة 2-4 أﺳﺎﺑﻴﻊ.",
+          "duration": ""
+        },
+        {
+          "medicine": "ﻛﻠﻮﺗﺮﻳﻤﺎزول — ﻛﺎﻧﺪﻳﺴﺘﺎن ﻛﺮﻳﻢ/ﻣﺤﻠﻮل.",
+          "generic": "",
+          "dosage": "ﻳُﺪﻫﻦ اﻟﻜﺮﻳﻢ أو ﻳُﺮش اﻟﺒﺨﺎخ ﻋﻠﻰ اﻟﻤﻨﻄﻘﺔ اﻟﻤﺼﺎﺑﺔ واﻟﺠﻠﺪ اﻟﻤﺤﻴﻂ ﺑﻬﺎ ﻣﺮة إﻟﻰ ﻣﺮﺗﻴﻦ ﻳﻮﻣﻴﺎ ً ﻟﻤﺪة 2-4 أﺳﺎﺑﻴﻊ.",
+          "duration": ""
+        },
+        {
+          "medicine": "ﺳﻴﺮﺗﺎﻛﻮﻧﺎزول - دﻳﺮﻣﻮﻓﻴﻜﺲ ﻛﺮﻳﻢ/ﺑﺨﺎخ.",
+          "generic": "",
+          "dosage": "ﻳُﺪﻫﻦ اﻟﻜﺮﻳﻢ أو ﻳُﺮش اﻟﺒﺨﺎخ ﻋﻠﻰ اﻟﻤﻨﻄﻘﺔ اﻟﻤﺼﺎﺑﺔ واﻟﺠﻠﺪ اﻟﻤﺤﻴﻂ ﺑﻬﺎ ﻣﺮة إﻟﻰ ﻣﺮﺗﻴﻦ ﻳﻮﻣﻴﺎ ً ﻟﻤﺪة 2-4 أﺳﺎﺑﻴﻊ.",
+          "duration": ""
+        },
+        {
+          "medicine": "ﻣﻴﻜﻮﻧﺎزول - دﻛﺘﺎﻛﻮرت ﻛﺮﻳﻢ.",
+          "generic": "",
+          "dosage": "ﻳُﺪﻫﻦ اﻟﻜﺮﻳﻢ أو ﻳُﺮش اﻟﺒﺨﺎخ ﻋﻠﻰ اﻟﻤﻨﻄﻘﺔ اﻟﻤﺼﺎﺑﺔ واﻟﺠﻠﺪ اﻟﻤﺤﻴﻂ ﺑﻬﺎ ﻣﺮة إﻟﻰ ﻣﺮﺗﻴﻦ ﻳﻮﻣﻴﺎ ً ﻟﻤﺪة 2-4 أﺳﺎﺑﻴﻊ.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Keep feet dry - dry thoroughly between toes after bathing.",
+        "Change socks daily (cotton or moisture wicking); rotate shoes to let them dry fully between wears.",
+        "Don't share towels, socks, or footwear; wear sandals in public showers and pools."
+      ],
+      "ar": [
+        "ﺣﺎﻓﻆ ﻋﻠﻰ ﺟﻔﺎف اﻟﻘﺪﻣﻴﻦ - ﺟﻔﻒ ﻣﺎ ﺑﻴﻦ الأﺻﺎﺑﻊ ﺟﻴﺪا ً ﺑﻌﺪ الاﺳﺘﺤﻤﺎم.",
+        "ﻏﻴﺮ اﻟﺠﻮارب ﻳﻮﻣﻴﺎ ً (ﻗﻄﻦ أو ﺧﺎﻣﺔ ﻣﺎﺻﺔ ﻟﻠﺮﻃﻮﺑﺔ); ﺑﺪّل الأﺣﺬﻳﺔ ﻟﺘﺠﻒ ﺗﻤﺎﻣﺎ ً ﺑﻴﻦ الاﺳﺘﺨﺪاﻣﺎت.",
+        "لا ﺗﺸﺎرك اﻟﻤﻨﺎﺷﻒ أو اﻟﺠﻮارب أو الأﺣﺬﻳﺔ; ارﺗﺪِ ﺷﺒﺸﺐ ﻓﻲ اﻟﺤﻤﺎﻣﺎت اﻟﻌﺎﻣﺔ وأﺣﻮاض اﻟﺴﺒﺎﺣﺔ."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Spread to toenails (thickened, discolored nails - onychomycosis).",
+        "Diabetic patient, immunocompromised, or signs of bacterial superinfection (pus, redness, swelling, fever).",
+        "No improvement after 4 weeks of consistent treatment, or rapid recurrence."
+      ],
+      "ar": [
+        "انتشار العدوى إلى أظافر القدم (أظافر سميكة ومتغيرة اللون - فطريات الأظافر).",
+        "مريض السكري، ضعيف المناعة، أو وجود علامات عدوى بكتيرية ثانوية (صديد، احمرار، تورم، حمى).",
+        "عدم التحسن بعد 4 أسابيع من العلاج المنتظم، أو تكرار سريع للعدوى."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Known hypersensitivity to azole antifungals or terbinafine.",
+        "Avoid combination products with corticosteroids (e.g., Daktacort) on extensive areas or for prolonged periods.",
+        "Pregnancy and breastfeeding: prefer topical clotrimazole; avoid terbinafine without medical advice."
+      ],
+      "ar": [
+        "اﻟﺤﺴﺎﺳﻴﺔ اﻟﻤﻌﺮوﻓﺔ ﻟﻤﻀﺎدات اﻟﻔﻄﺮﻳﺎت ﻣﻦ ﻧﻮع الآزول أو ﺗﻴﺮﺑﻴﻨﺎﻓﻴﻦ.",
+        "ﺗﺠﻨﺐ اﻟﻤﻨﺘﺠﺎت اﻟﻤﺮﻛﺒﺔ ﻣﻊ اﻟﻜﻮرﺗﻴﻜﻮﺳﺘﻴﺮوﻳﺪات (ﻣﺜﻞ دﻛﺘﺎﻛﻮرت) ﻋﻠﻰ ﻣﺴﺎﺣﺎت واﺳﻌﺔ أو ﻟﻔﺘﺮات ﻃﻮﻳﻠﺔ.",
+        "اﻟﺤﻤﻞ واﻟﺮﺿﺎﻋﺔ: ﻳُﻔﻀﻞ ﻛﻠﻮﺗﺮﻳﻤﺎزول اﻟﻤﻮﺿﻌﻲ؛ ﻳُﺘﺠﻨﺐ ﺗﻴﺮﺑﻴﻨﺎﻓﻴﻦ دون اﺳﺘﺸﺎرة ﻃﺒﻴﺔ."
+      ]
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Allergic Contact Dermatitis",
+      "ar": "(اﻟﺘﻬﺎب اﻟﺠﻠﺪ اﻟﺘﻤﺎﺳﻲ) ﺣﺴﺎﺳﻴﺔ اﻟﺠﻠﺪ"
+    },
+    "complaint": {
+      "en": "Red rash, itching, and swelling in the contact area.",
+      "ar": "ﻃﻔﺢ ﺟﻠﺪي أﺣﻤﺮ، ﺣﻜﺔ، وﺗﻮرم ﻓﻲ ﻣﻨﻄﻘﺔ اﻟﺘلاﻣﺲ."
+    },
+    "symptoms": {
+      "en": [
+        "Red rash, itching, and swelling in the contact area.",
+        "Burning sensation.",
+        "Sometimes blisters or weeping lesions."
+      ],
+      "ar": [
+        "ﻃﻔﺢ ﺟﻠﺪي أﺣﻤﺮ، ﺣﻜﺔ، وﺗﻮرم ﻓﻲ ﻣﻨﻄﻘﺔ اﻟﺘلاﻣﺲ.",
+        "ﺷﻌﻮر ﺑﺎﻟﺤﺮﻗﺎن.",
+        "أﺣﻴﺎﻧﺎ ً ﻇﻬﻮر ﺑﺜﻮر أو إﻓﺮازات."
+      ]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Hydrocortisone Cream - Cortiderm® or Locoid® (mild-moderate topical steroid).",
+          "generic": "",
+          "dosage": "Apply a thin layer to the affected area 1-2 times daily for up to 7 days.",
+          "duration": ""
+        },
+        {
+          "medicine": "Oral antihistamines - Zyrtec® (Cetirizine) or Telfast® (Fexofenadine).",
+          "generic": "",
+          "dosage": "1 tablet once daily as needed for itching.",
+          "duration": ""
+        },
+        {
+          "medicine": "Soothing lotions - Calamine Lotion.",
+          "generic": "",
+          "dosage": "Apply as needed.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ﻛﺮﻳﻢ ﻫﻴﺪروﻛﻮرﺗﻴﺰون — ﻛﻮرﺗﻴﺪﻳﺮم أو ﻟﻮﻛﻮﻳﺪ (ﻛﻮرﺗﻴﻜﻮﺳﺘﻴﺮوﻳﺪ ﻣﻮﺿﻌﻲ ﺧﻔﻴﻒ إﻟﻰ ﻣﺘﻮﺳﻂ).",
+          "generic": "",
+          "dosage": "ﻳُﺪﻫﻦ ﻃﺒﻘﺔ رﻗﻴﻘﺔ ﻋﻠﻰ اﻟﻤﻨﻄﻘﺔ اﻟﻤﺼﺎﺑﺔ ﻣﺮة إﻟﻰ ﻣﺮﺗﻴﻦ ﻳﻮﻣﻴﺎ ً ﻟﻤﺪة ﺗﺼﻞ إﻟﻰ 7 أﻳﺎم.",
+          "duration": ""
+        },
+        {
+          "medicine": "ﻣﻀﺎدات اﻟﻬﻴﺴﺘﺎﻣﻴﻦ اﻟﻔﻤﻮﻳﺔ — زﻳﺮﺗﻚ (ﺳﻴﺘﺮﻳﺰﻳﻦ) أو ﺗﻴﻠﻔﺎﺳﺖ (ﻓﻴﻜﺴﻮﻓﻴﻨﺎدﻳﻦ).",
+          "generic": "",
+          "dosage": "ﻗﺮص واﺣﺪ ﻣﺮة ﻳﻮﻣﻴﺎ ً ﻋﻨﺪ اﻟﺤﺎﺟﺔ ﻟﺘﺴﻜﻴﻦ اﻟﺤﻜﺔ.",
+          "duration": ""
+        },
+        {
+          "medicine": "ﻏﺴﻮﻻت ﻣﻬﺪﺋﺔ - ﻛﺎﻻﻣﻴﻦ ﻟﻮﺳﻴﻮن.",
+          "generic": "",
+          "dosage": "اﺳﺘﺨﺪم ﻋﻨﺪ اﻟﺤﺎﺟﺔ.",
+          "duration": ""
+        }
+      ]
+    },
+
+    "severity": "safe",
+    "advice": {
+      "en": [
+        "Identify and strictly avoid the triggering substance (jewelry/nickel, fragrances, cleaning products, plants, latex).",
+        "Cool wet compresses 15-20 minutes several times daily can dramatically reduce itching.",
+        "Wear protective gloves for known triggers; consider patch testing if reactions recur."
+      ],
+      "ar": [
+        "ﺣﺪد وﺗﺠﻨﺐ اﻟﻤﺎدة اﻟﻤﺴﺒﺒﺔ ﺑﺪﻗﺔ (اﻟﻤﺠﻮﻫﺮات/اﻟﻨﻴﻜﻞ، اﻟﻌﻄﻮر، ﻣﻨﺘﺠﺎت اﻟﺘﻨﻈﻴﻒ، اﻟﻨﺒﺎﺗﺎت، اﻟﻼﺗﻜﺲ).",
+        "اﻟﻜﻤﺎدات اﻟﺒﺎردة اﻟﺮﻃﺒﺔ 15-20 دﻗﻴﻘﺔ ﻋﺪة ﻣﺮات ﻳﻮﻣﻴﺎ ً ﺗﻘﻠﻞ اﻟﺤﻜﺔ ﺑﺸﻜﻞ ﻛﺒﻴﺮ.",
+        "ارﺗﺪ ِ اﻟﻘﻔﺎزات اﻟﻮاﻗﻴﺔ ﻣﻊ اﻟﻤﺴﺒﺒﺎت اﻟﻤﻌﺮوﻓﺔ؛ ﻳﻤﻜﻦ إﺟﺮاء اﺧﺘﺒﺎر اﻟﺤﺴﺎﺳﻴﺔ اﻟﺠﻠﺪي ﻋﻨﺪ ﺗﻜﺮر اﻟﻨﻮﺑﺎت."
+      ]
+    },
+    "contraindications": {
+      "en": [
+        "Avoid potent topical steroids on the face, eyelids, and genital area without medical supervision.",
+        "Do not apply corticosteroids on broken or infected skin.",
+        "Sedating antihistamines: caution with driving, operating machinery, and in elderly patients."
+      ],
+      "ar": [
+        "ﺗﺠﻨﺐ اﻟﻜﻮرﺗﻴﻜﻮﺳﺘﻴﺮوﻳﺪات اﻟﻘﻮﻳﺔ ﻋﻠﻰ اﻟﻮﺟﻪ واﻟﺠﻔﻮن واﻟﻤﻨﻄﻘﺔ اﻟﺘﻨﺎﺳﻠﻴﺔ دون إﺷﺮاف ﻃﺒﻲ.",
+        "لا ﺗﺴﺘﺨﺪم اﻟﻜﻮرﺗﻴﻜﻮﺳﺘﻴﺮوﻳﺪات ﻋﻠﻰ اﻟﺠﻠﺪ اﻟﻤﺠﺮوح أو اﻟﻤﻠﺘﻬﺐ ﺑﻌﺪوى.",
+        "ﻣﻀﺎدات اﻟﻬﻴﺴﺘﺎﻣﻴﻦ اﻟﻤﺴﺒﺒﺔ ﻟﻠﻨﻌﺎس: اﻟﺤﺬر ﻋﻨﺪ اﻟﻘﻴﺎدة وﺗﺸﻐﻴﻞ الآلات وﻋﻨﺪ ﻛﺒﺎر اﻟﺴﻦ."
+      ]
+    },
+    "red_flags": {
+      "en": [
+        "Facial swelling, eye involvement, or difficulty breathing - emergency.",
+        "Widespread blistering, weeping, or signs of secondary bacterial infection (pus, fever).",
+        "No improvement after 7 days of OTC treatment, or repeated unexplained reactions."
+      ],
+      "ar": [
+        "ﺗﻮرم اﻟﻮﺟﻪ، إﺻﺎﺑﺔ اﻟﻌﻴﻦ، أو ﺻﻌﻮﺑﺔ ﻓﻲ اﻟﺘﻨﻔﺲ - ﺣﺎﻟﺔ ﻃﺎرﺋﺔ.",
+        "ﺑﺜﻮر ﻣﻨﺘﺸﺮة، إﻓﺮازات، أو ﻋﻼﻣﺎت ﻋﺪوى ﺑﻜﺘﻴﺮﻳﺔ ﺛﺎﻧﻮﻳﺔ (ﺻﺪﻳﺪ، ﺣﻤﻰ).",
+        "ﻋﺪم اﻟﺘﺤﺴﻦ ﺑﻌﺪ 7 أﻳﺎم ﻣﻦ اﻟﻌﻼج ﺑﺪون وﺻﻔﺔ ﻃﺒﻴﺔ، أو ﺗﻜﺮار ﻏﻴﺮ ﻣﻔﺴﺮ ﻟﻠﻨﻮﺑﺎت."
+      ]
+    }
+  }
+]

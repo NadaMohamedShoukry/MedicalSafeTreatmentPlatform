@@ -1,0 +1,1060 @@
+[
+  {
+    "disease_name": {
+      "en": "Dysmenorrhea",
+      "ar": "عسر الطمث"
+    },
+    "complaint": {
+      "en": "Severe menstrual cramps during menstruation.",
+      "ar": "ألم شديد أثناء الدورة الشهرية."
+    },
+    "symptoms": {
+      "en": ["Lower abdominal pain", "Back pain", "Nausea", "Fatigue "],
+      "ar": ["ألم أسفل البطن", "ألم أسفل الظهر", "غثيان", "إرهاق"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Ibuprofen",
+          "generic": "",
+          "dosage": "400 mg every 8 hours after meals.",
+          "duration": ""
+        },
+        {
+          "medicine": "Ponstan®",
+          "generic": "Mefenamic Acid",
+          "dosage": "500 mg every 8 hours.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "إيبوبروفين",
+          "generic": "",
+          "dosage": "تركيز 500 مجم كل 8 ساعات بعد الأكل.",
+          "duration": ""
+        },
+        {
+          "medicine": "بوستان",
+          "generic": "ميفيناميك أسيد",
+          "dosage": "تركيز 500 مجم كل 8 ساعات.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": { "en": "", "ar": "" },
+    "severity": "safe",
+    "advice": {
+      "en": ["Warm compresses.", "Hydration.", "Light exercise."],
+      "ar": [".كمادات دافئة", ".شرب السوائل", ".رياضة خفيفة"]
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Menorrhagia",
+      "ar": "غزارة الدورة الشهرية"
+    },
+    "complaint": {
+      "en": "Heavy menstrual bleeding lasting more than 7 days.",
+      "ar": ".نزيف شديد أثناء الدورة يستمر أكثر من 7 أيام"
+    },
+    "symptoms": {
+      "en": ["Heavy bleeding", "Dizziness", "Fatigue", "Blood clots"],
+      "ar": ["نزيف غزير", "دوخة", "إرهاق", "جلطات دموية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Kapron®",
+          "generic": "Tranexamic Acid",
+          "dosage": "500-1000 mg three times daily.",
+          "duration": ""
+        },
+        {
+          "medicine": "Ferrous sulfate",
+          "generic": "Iron Supplementation",
+          "dosage": "once daily.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "كابـرون®",
+          "generic": "حمض الترانيكساميك",
+          "dosage": "تركيز 500-1000 مجم ثلاث مرات يومياً.",
+          "duration": ""
+        },
+        {
+          "medicine": "سلفات الحديد",
+          "generic": "مكمل الحديد",
+          "dosage": "مرة واحدة يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Irregular Menstruation",
+      "ar": "عدم انتظام الدورة الشهرية"
+    },
+    "complaint": {
+      "en": "Irregular or missed periods.",
+      "ar": ".عدم إنتظام أو انقطاع الدورة الشهرية"
+    },
+    "symptoms": {
+      "en": ["Irregular periods", "Missed periods"],
+      "ar": ["عدم إنتظام الدورة الشهرية", "انقطاع الدورة الشهرية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Combined Oral Contraceptive Pills",
+          "generic": "",
+          "dosage": "One tablet daily.",
+          "duration": "For 21 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "حبوب منع الحمل المركبة",
+          "generic": "",
+          "dosage": "قرص واحد يومياً.",
+          "duration": "لمدة 21 يوماً."
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": ["Weight reduction", "Stress management"],
+      "ar": ["إنقاص الوزن", "تقليل التوتر"]
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Polycystic Ovary Syndrome - PCOS",
+      "ar": "تكيس المبايض"
+    },
+    "complaint": {
+      "en": "Irregular periods with weight gain and acne.",
+      "ar": ".عدم إنتظام الدورة الشهرية مع زيادة الوزن وحب الشباب"
+    },
+    "symptoms": {
+      "en": ["Acne", "Hirsutism", "Weight gain", "Irregular ovulation"],
+      "ar": ["حب الشباب", "زيادة الشعر", "زيادة الوزن", "ضعف التبويض"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Glucophage®",
+          "generic": "Metformin",
+          "dosage": "500 mg once or twice daily after meals.",
+          "duration": ""
+        },
+        {
+          "medicine": "Combined Oral Contraceptives",
+          "generic": "",
+          "dosage": "According to physician evaluation.",
+          "duration": "According to physician evaluation."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "جلوكوفاج®",
+          "generic": "ميتفورمين",
+          "dosage": "500 مجم مرة أو مرتين يومياً بعد الأكل.",
+          "duration": ""
+        },
+        {
+          "medicine": "حبوب منع الحمل المركبة (موانع الحمل الفموية المركبة)",
+          "generic": "",
+          "dosage": "حسب تقييم الطبيب.",
+          "duration": "حسب تقييم الطبيب."
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Vaginal Candidiasis",
+      "ar": "فطريات المهبل"
+    },
+    "complaint": {
+      "en": "Itching with thick white discharge.",
+      "ar": ".حكة مع إفرازات بيضاء سميكة"
+    },
+    "symptoms": {
+      "en": ["Itching", "thick white discharge"],
+      "ar": ["حكة", "إفرازات بيضاء سميكة"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Diflucan®",
+          "generic": "Fluconazole",
+          "dosage": "150 mg single oral dose.",
+          "duration": ""
+        },
+        {
+          "medicine": "Clotrimazole Vaginal Cream",
+          "generic": "",
+          "dosage": "Once nightly.",
+          "duration": "For 3-7 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "ديفلوكان®",
+          "generic": "فلوكونازول",
+          "dosage": "تركيز 150 مجم جرعة فموية واحدة.",
+          "duration": ""
+        },
+        {
+          "medicine": "كلوتريمازول كريم مهبلي",
+          "generic": "",
+          "dosage": "مرة واحدة ليلاً.",
+          "duration": "لمدة 3-7 أيام."
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Bacterial Vaginosis",
+      "ar": "الالتهاب البكتيري المهبلي"
+    },
+    "complaint": {
+      "en": "Gray vaginal discharge with fishy odor.",
+      "ar": ".إفرازات رمادية ذات رأئحة سمكية"
+    },
+    "symptoms": {
+      "en": ["Gray vaginal discharge with fishy odor"],
+      "ar": [".إفرازات رمادية ذات رائحة سمكية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Flagyl®",
+          "generic": "Metronidazole",
+          "dosage": "500 mg twice daily.",
+          "duration": "For 7 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "فلاجيل®",
+          "generic": "ميترونيدازول",
+          "dosage": ".500 مجم مرتين يومياً",
+          "duration": ".لمدة 7 أيام"
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Pelvic Inflammatory Disease - PID",
+      "ar": "التهاب الحوض"
+    },
+    "complaint": {
+      "en": "Pelvic pain with fever and discharge.",
+      "ar": ".ألم بالحوض مع حرارة وإفرازات "
+    },
+    "symptoms": {
+      "en": ["Pelvic pain", "Fever", "Discharge"],
+      "ar": ["ألم بالحوض", "حرارة", "إفرازات"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Ceftriaxone",
+          "generic": "Ceftriaxone",
+          "dosage": "500 mg IM single dose.",
+          "duration": ""
+        },
+        {
+          "medicine": "Doxycycline",
+          "generic": "Doxycycline",
+          "dosage": "100 mg twice daily.",
+          "duration": "For 14 days"
+        },
+        {
+          "medicine": "Flagyl®",
+          "generic": "Metronidazole",
+          "dosage": "500 mg twice daily.",
+          "duration": "For 14 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "سيفترياكسون",
+          "generic": "سيفترياكسون",
+          "dosage": "تركيز 500 مجم حقنة عضل جرعة واحدة",
+          "duration": ""
+        },
+        {
+          "medicine": "دوكسيسيكلين",
+          "generic": "دوكسيسيكلين",
+          "dosage": "100 مجم مرتين يومياً.",
+          "duration": "لمدة 14 يوماً."
+        },
+        {
+          "medicine": "فلاجيل®",
+          "generic": "ميترونيدازول",
+          "dosage": "تركيز 500 مجم مرتين يومياً",
+          "duration": ".لمدة 14 أيام"
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Endometriosis",
+      "ar": "بطانة الرحم المهاجرة"
+    },
+    "complaint": {
+      "en": "Severe pelvic pain worsening during menstruation.",
+      "ar": ".ألم شديد بالحوض يزداد مع الدورة الشهرية"
+    },
+    "symptoms": {
+      "en": ["Severe pelvic pain worsening during menstruation."],
+      "ar": [".ألم شديد بالحوض يزداد مع الدورة الشهرية"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Ibuprofen",
+          "generic": "NSAIDs",
+          "dosage": "400-600 mg every 8 hours.",
+          "duration": ""
+        },
+        {
+          "medicine": "Hormonal Therapy",
+          "generic": "",
+          "dosage": "According to gynecology assessment.",
+          "duration": "According to gynecology assessment."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "إيبوبروفين",
+          "generic": "مضادات الالتهاب غير الستيرويدية",
+          "dosage": ".تركيز 400-600 مجم كل 8 ساعات",
+          "duration": ""
+        },
+        {
+          "medicine": "العلاج الهرموني",
+          "generic": "",
+          "dosage": "حسب تقييم طبيب النساء والتوليد.",
+          "duration": "حسب تقييم طبيب النساء والتوليد."
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Ovarian Cysts",
+      "ar": "أكياس المبيض"
+    },
+    "complaint": {
+      "en": "Pelvic heaviness or sudden pain.",
+      "ar": ".ثقل بالحوض أو ألم مفاجئ"
+    },
+    "symptoms": {
+      "en": ["Pelvic heaviness", " Sudden pain"],
+      "ar": ["ثقل بالحوض", "ألم مفاجئ"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Observation for simple cysts",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Ultrasound follow-up",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Surgical referral if indicated",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "المتابعة في حالات الأكياس البسيطة",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "متابعة بالسونار",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "تحويل إلى الجراحة إذا لزم الأمر",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Menopause Symptoms",
+      "ar": "أعراض سن اليأس"
+    },
+    "complaint": {
+      "en": "Hot flashes and sleep disturbance.",
+      "ar": ".هبات ساخنه واضطراب النوم"
+    },
+    "symptoms": {
+      "en": ["Hot flashes", " Sleep disturbance"],
+      "ar": ["هبات ساخنه", "اضطراب النوم"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Calcium",
+          "generic": "Supplementation",
+          "dosage": "Daily supplementation",
+          "duration": ""
+        },
+        {
+          "medicine": "Vitamin D",
+          "generic": "Supplementation",
+          "dosage": "Daily supplementation",
+          "duration": ""
+        },
+        {
+          "medicine": "Hormone Replacement Therapy",
+          "generic": "",
+          "dosage": "If appropriate and prescribed",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "الكالسيوم",
+          "generic": "مكمل غذائي",
+          "dosage": "مكمل يومي",
+          "duration": ""
+        },
+        {
+          "medicine": "فيتامين د",
+          "generic": "مكمل غذائي",
+          "dosage": "مكمل يومي",
+          "duration": ""
+        },
+        {
+          "medicine": "العلاج بالهرمونات التعويضية",
+          "generic": "",
+          "dosage": "حسب الحالة الطبية ووصفة الطبيب",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Hyperemesis Gravidarum",
+      "ar": "القئ الحملي الشديد"
+    },
+    "complaint": {
+      "en": "Persistent vomiting during pregnancy.",
+      "ar": ".قئ مستمر أثناء الحمل"
+    },
+    "symptoms": {
+      "en": ["Persistent vomiting during pregnancy"],
+      "ar": ["قئ مستمر أثناء الحمل"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Ondansetron",
+          "generic": "",
+          "dosage": "4-8 mg every 8 hours",
+          "duration": ""
+        },
+        {
+          "medicine": "IV Fluids ",
+          "generic": "",
+          "dosage": "According to hydration status.",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "أوندانسيترون",
+          "generic": "",
+          "dosage": "تركيز 4-8 مجم كل 8 ساعات.",
+          "duration": ""
+        },
+        {
+          "medicine": "سوائل وريدية",
+          "generic": "",
+          "dosage": "حسب حالة الجفاف.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Urinary Tract Infection in Pregnancy",
+      "ar": "التهاب البول أثناء الحمل"
+    },
+    "complaint": {
+      "en": "Burning sensation during urination with increased urinary frequency.",
+      "ar": ".حرقان أثناء التبول مع كثرة التبول"
+    },
+    "symptoms": {
+      "en": [
+        "Burning sensation during urination",
+        "Increased urinary frequency"
+      ],
+      "ar": ["حرقان أثناء التبول", "كثرة التبول"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Nitrofurantoin",
+          "generic": "",
+          "dosage": "100 mg twice daily",
+          "duration": "For 5-7 days."
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "نيتروفورانتوين",
+          "generic": "",
+          "dosage": "تركيز 100 مجم مرتين يومياً.",
+          "duration": "لمدة5-7 أيام."
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "safe",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Vaginal Bleeding in Pregnancy",
+      "ar": "النزيف أثناء الحمل"
+    },
+    "complaint": {
+      "en": "Vaginal bleeding during pregnancy.",
+      "ar": ".نزيف أثناء الحمل"
+    },
+    "symptoms": {
+      "en": ["Vaginal bleeding during pregnancy"],
+      "ar": ["نزيف أثناء الحمل"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Requires urgent obstetric evaluation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "يحتاج تقييم عاجل",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Gestational Hypertension",
+      "ar": "ارتفاع ضغط الحمل"
+    },
+    "complaint": {
+      "en": "High blood pressure during pregnancy.",
+      "ar": ".اتقاع ضغط الدم أثناء الحمل"
+    },
+    "symptoms": {
+      "en": ["High blood pressure during pregnancy"],
+      "ar": ["اتقاع ضغط الدم أثناء الحمل"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Labetalol",
+          "generic": "",
+          "dosage": "100-200 mg twice daily",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "لابيتالول",
+          "generic": "",
+          "dosage": "تركيز 100-200 مجم مرتين يومياً.",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Ectopic Pregnancy",
+      "ar": "الحمل خارج الرحم"
+    },
+    "complaint": {
+      "en": "Severe unilateral pelvic pain with bleeding.",
+      "ar": ".ألم شديد ناحيه واحدة مع نزيف"
+    },
+    "symptoms": {
+      "en": ["Severe unilateral pelvic pain with bleeding"],
+      "ar": ["ألم شديد ناحيه واحدة مع نزيف"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Immediate emergency referral.",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "تحويل فوري للطوائ",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": ["Syncope", "Severe dizziness", "Shoulder pain"],
+      "ar": ["إغماء", "دوخة شديدة", "ألم بالكتف"]
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Ovarian Torsion",
+      "ar": "التواء المبيض"
+    },
+    "complaint": {
+      "en": "Sudden severe pelvic pain with nausea.",
+      "ar": ".ألم حاد مفاجئ بالحوض مع غثيان"
+    },
+    "symptoms": {
+      "en": ["Sudden severe pelvic pain", "Nausea"],
+      "ar": ["ألم حاد مفاجئ بالحوض", "غثيان"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Urgent surgical evaluation.",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "تقييم جراحي عاجل",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Severe Vaginal Hemorrhage",
+      "ar": "النزيف الحاد"
+    },
+    "complaint": {
+      "en": "I have a severe Vaginal Hemorrhage",
+      "ar": "أنا عندي نزيف حاد"
+    },
+    "symptoms": {
+      "en": ["Severe Bleeding"],
+      "ar": ["نزيف حاد"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "IV fluids",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Vital signs monitoring",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "Urgent gynecology consultation",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "محاليل وريدية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "متابعة العلامات الحيوية",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        },
+        {
+          "medicine": "استشارة عاجلة",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Preeclampsia",
+      "ar": "تسمم الحمل"
+    },
+    "complaint": {
+      "en": "I have a severe headache with blurred vision, high blood pressure, and swelling.",
+      "ar": "أعاني من صداع شديد مع زغللة وارتفاع في ضغط الدم وتورم."
+    },
+    "symptoms": {
+      "en": [
+        "Severe headache",
+        "Blurred vision",
+        "High blood pressure",
+        "Edema"
+      ],
+      "ar": ["صداع شديد", "زغلله", "ارتفاع الضغط", "تورم"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Immediate obstetric management in the hospital",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "التعامل الفوري مع الحاله في المستشفى",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [
+        "Controlling blood pressure",
+        "Preventing seizures",
+        "Closely monitoring both maternal and fetal health until it is safe to give birth"
+      ],
+      "ar": [
+        "ضبط ضغط الدم",
+        "منع النوبات",
+        "المراقبة الدقيقة لصحة الأم والجنين حتى يصبح الوضع آمناً للولادة"
+      ]
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  },
+  {
+    "disease_name": {
+      "en": "Septic Miscarriage",
+      "ar": "الإجهاض الإنتاني"
+    },
+    "complaint": {
+      "en": "I have fever, offensive vaginal discharge, pelvic pain, and bleeding.",
+      "ar": "أعاني من حرارة وإفرازات مهبلية كريهة مع ألم بالحوض ونزيف."
+    },
+    "symptoms": {
+      "en": ["Fever", "Offensive discharge", "Pelvic pain", "Bleeding"],
+      "ar": ["حرارة", "إفرازات كريهة", "ألم بالحوض", "نزيف"]
+    },
+    "treatment": {
+      "en": [
+        {
+          "medicine": "Broad-spectrum IV antibiotics and urgent hospital admission.",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ],
+      "ar": [
+        {
+          "medicine": "مضادات حيوية وريدية مع دخول المستشفى فوراً",
+          "generic": "",
+          "dosage": "",
+          "duration": ""
+        }
+      ]
+    },
+    "key_clue": {},
+    "severity": "serious",
+    "advice": {
+      "en": [],
+      "ar": []
+    },
+    "red_flags": {
+      "en": [],
+      "ar": []
+    },
+    "contraindications": {
+      "en": [],
+      "ar": []
+    }
+  }
+]
