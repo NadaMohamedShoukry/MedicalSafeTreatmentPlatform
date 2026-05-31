@@ -5,7 +5,8 @@ export async function getFieldDiseases(field_id: number): Promise<Disease[]> {
   const { data: diseases, error } = await supabase
     .from("diseases")
     .select("*")
-    .eq("medical_field_id", field_id);
+    .eq("medical_field_id", field_id)
+    .order("id", { ascending: true });
 
   if (error) {
     console.error(error);
