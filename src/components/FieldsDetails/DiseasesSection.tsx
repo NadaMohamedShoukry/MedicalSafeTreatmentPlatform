@@ -5,6 +5,8 @@ import DiseasesCard from "./DiseasesCard";
 import EmptyField from "./EmptyField";
 import useFieldDiseases from "../../hooks/useFieldDiseases";
 import useMedicalFieldById from "../../hooks/useMedicalFieldById";
+import Error from "../Error";
+import Spinner from "../Spinner";
 function DiseasesSection() {
   const navigate = useNavigate();
   const { fieldId } = useParams();
@@ -20,8 +22,10 @@ function DiseasesSection() {
     Number(fieldId),
   );
   console.log(isPending, isPendingDiseases);
-  console.log(error, errorDiseases);
-  console.log(fieldDiseases);
+
+  if (error) return <Error error={error} />;
+  if (errorDiseases) return <Error error={errorDiseases} />;
+  if (isPending || isPendingDiseases) return <Spinner />;
   return (
     <>
       {medicalFieldById?.map((field) => (
@@ -41,7 +45,7 @@ function DiseasesSection() {
           <div>
             <button
               onClick={() => navigate(`/clinical-references/${field.id}`)}
-              className="text-lg text-gray-900 dark:text-white border border-blue-700 dark:border-blue-200 px-2 py-1 rounded-2xl"
+              className="text-lg bg-white/50 dark:bg-slate-800/50 backdrop-blur-sm border border-white/60 dark:border-slate-700/60 shadow-lg px-2 py-1 rounded-2xl"
             >
               {language === "en" ? "For your safety" : "من أجل سلامتك"}
             </button>
@@ -53,7 +57,7 @@ function DiseasesSection() {
           <DiseasesCard disease={disease} index={index} />
         ))}
       </div>
-      {fieldDiseases.length === 0 && <EmptyField />};
+      {fieldDiseases.length === 0 && <EmptyField />}
     </>
   );
 }
