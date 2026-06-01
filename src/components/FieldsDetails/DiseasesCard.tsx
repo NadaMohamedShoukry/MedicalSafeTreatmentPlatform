@@ -148,7 +148,7 @@ function DiseasesCard({ disease, index }: DiseaseCardProps) {
       {disease.key_clue?.[language]?.trim() && (
         <div className="mt-4 p-4 rounded-2xl bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800">
           <div className="flex items-center gap-3">
-            <Lightbulb className="w-8 h-8 text-amber-400" />
+            <Lightbulb className="w-8 h-8 text-amber-400 shrink-0" />
             <div>
               <h4 className="text-sm font-bold text-amber-700 dark:text-amber-400 mb-1 uppercase tracking-wide">
                 {t.keyClue}
@@ -190,7 +190,7 @@ function DiseasesCard({ disease, index }: DiseaseCardProps) {
                 key={index}
                 className="flex items-start gap-2 text-sm text-red-700 dark:text-red-300 "
               >
-                <TriangleAlert className="w-5 h-5 text-red-500" />
+                <TriangleAlert className="w-5 h-5 text-red-500 shrink-0" />
                 <span>{item}</span>
               </li>
             ))}
@@ -208,7 +208,7 @@ function DiseasesCard({ disease, index }: DiseaseCardProps) {
                 key={index}
                 className="flex items-start gap-2 text-sm text-orange-700 dark:text-orange-300 "
               >
-                <X className="w-5 h-5 text-orange-500" />
+                <X className="w-5 h-5 text-orange-500 shrink-0" />
                 <span>{item}</span>
               </li>
             ))}
