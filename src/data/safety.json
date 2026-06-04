@@ -1,0 +1,735 @@
+[
+  {
+    "name": {
+      "en": "Dietary Supplement Safety",
+      "ar": "سلامة المكملات الغذائية"
+    },
+    "description": {
+      "en": "Safety guidelines and risks when misused",
+      "ar": "إرشادات السلامة والمخاطر عند إساءة الاستخدام"
+    }
+  },
+  {
+    "name": {
+      "en": "Natural Products Safety",
+      "ar": "سلامة المنتجات الطبيعية"
+    },
+    "description": {
+      "en": "Safety guidelines for common herbs and spices",
+      "ar": "إرشادات السلامة للأعشاب والتوابل الشائعة"
+    }
+  },
+  {
+    "title": {
+      "en": "Vitamin D Drops and Calcium Deficiency",
+      "ar": "نقط فيتامين د ونقص الكالسيوم"
+    },
+    "content": {
+      "mechanism": {
+        "en": "Vitamin D functions as a primary biological gatekeeper, facilitating the active transport and absorption of dietary calcium from the gastrointestinal tract into the bloodstream. ",
+        "ar": "يعمل فيتامين د كحارس بيولوجي أساسي، حيث يُسهِّل النقل النشط وامتصاص الكالسيوم الغذائي من الجهاز الهضمي إلى مجرى الدم."
+      },
+      "risks": {
+        "en": "When massive doses of Vitamin D are administered to an individual with an uncorrected calcium deficiency, the vitamin finds insufficient calcium in the gut. To normalize serum calcium levels, Vitamin D stimulates osteoclast activity, actively leaching calcium directly from bone matrices and teeth. This demineralization leads to severe, deep bone pain and markedly elevates the risk of osteoporosis. ",
+        "ar": "عند إعطاء جرعات كبيرة من فيتامين د لشخص يعاني من نقص كالسيوم غير مُصحَّح، لا يجد الفيتامين كمية كافية من الكالسيوم في الأمعاء. وللحفاظ على مستوى الكالسيوم في الدم، يحفِّز فيتامين د نشاط الخلايا الآكلة للعظم، مما يؤدي إلى سحب الكالسيوم مباشرةً من العظام والأسنان. وينتج عن هذا النزع للمعادن آلام عظمية شديدة وعميقة، كما يزيد بشكل ملحوظ من خطر الإصابة بهشاشة العظام."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "",
+      "ar": ""
+    },
+    "content": {
+      "mechanism": {
+        "en": "",
+        "ar": ""
+      },
+      "risks": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  },
+
+  {
+    "title": {
+      "en": "Daily High-Dose Vitamin C and Kidney Stones",
+      "ar": "الجرعات الضخمة اليومية من فيتامين ج وحصوات الكلى"
+    },
+    "content": {
+      "overview": {
+        "en": "Individuals frequently consume high-dose Vitamin C effervescent formulations (1,000 mg or greater) daily for consecutive months under the assumption that it safely prevents upper respiratory infections.",
+        "ar": "يلجأ الكثير من الأشخاص إلى تناول أقراص فيتامين ج الفوارة بجرعات مرتفعة (1000 مجم أو أكثر) يومياً لعدة أشهر متتالية اعتقاداً منهم أنها وسيلة آمنة للوقاية من نزلات البرد والتهابات الجهاز التنفسي العلوي."
+      },
+      "risks": {
+        "en": "The human body enforces a strict physiological threshold for Vitamin C absorption (approximately 90 mg daily), with renal clearance filtering out the excess. Prolonged exposure to megadoses forces the metabolic conversion of excess ascorbic acid into oxalate. This waste product binds with calcium in the renal tubules, precipitating into highly painful calcium oxalate nephrolithiasis (kidney stones).",
+        "ar": "يمتلك الجسم قدرة محدودة على امتصاص فيتامين ج (حوالي 90 مجم يومياً)، بينما يتم التخلص من الكميات الزائدة عن طريق الكلى. وعند الاستمرار في تناول الجرعات الضخمة لفترات طويلة، يتحول فائض حمض الأسكوربيك إلى مادة الأوكسالات التي ترتبط بالكالسيوم داخل الكلى، مما يؤدي إلى تكوّن حصوات أوكسالات الكالسيوم المؤلمة."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Unnecessary Calcium Supplements and Cardiovascular Risks",
+      "ar": "مكملات الكالسيوم العشوائية ومخاطر القلب"
+    },
+    "content": {
+      "overview": {
+        "en": "Individuals frequently self-prescribe heavy calcium supplements at the earliest onset of osteoarticular discomfort or joint stiffness.   ",
+        "ar": "يقوم بعض الأشخاص بتناول مكملات الكالسيوم بجرعات مرتفعة من تلقاء أنفسهم بمجرد الشعور بآلام العظام أو تيبس المفاصل."
+      },
+      "risks": {
+        "en": "Clinical data indicates that high-dose calcium supplementation causes a rapid, transient spike in serum calcium concentrations that bone tissues cannot immediately sequester. This excess circulating calcium deposits within the endothelial walls of coronary arteries and cardiac valves, accelerating arterial calcification and substantially increasing the risk of myocardial infarction and stroke. Dietary calcium intake does not exhibit this hazard.",
+        "ar": "تشير الدراسات إلى أن الجرعات العالية من مكملات الكالسيوم ترفع مستوى الكالسيوم في الدم بسرعة وبشكل مؤقت، وهو ما لا تستطيع العظام الاستفادة منه فوراً. وقد يترسب هذا الكالسيوم الزائد داخل جدران الشرايين التاجية وصمامات القلب، مما يسرّع تكلس الشرايين ويزيد من خطر الإصابة بالجلطات القلبية والسكتات الدماغية. أما الكالسيوم القادم من الغذاء فلا يرتبط بهذا الخطر."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Iron Supplements and Their Interaction with Tea and Coffee",
+      "ar": "مكملات الحديد وتفاعلها مع الشاى والقهوة"
+    },
+    "content": {
+      "overview": {
+        "en": "Iron absorption from supplements is significantly inhibited by polyphenolic compounds found in tea, coffee, and calcium-rich foods when consumed simultaneously. ",
+        "ar": "ينخفض امتصاص الحديد من المكملات الغذائية بشكل ملحوظ عند تناوله مع الشاي أو القهوة أو الأطعمة الغنية بالكالسيوم بسبب احتوائها على مركبات تقلل امتصاص الحديد."
+      },
+      "risks": {
+        "en": "This interaction reduces iron bioavailability by up to 60%, leading to persistent anemia despite supplementation and causing unnecessary gastrointestinal side effects.",
+        "ar": "قد يؤدي هذا التفاعل إلى تقليل امتصاص الحديد بنسبة تصل إلى 60٪، مما يسبب استمرار فقر الدم رغم تناول المكملات، بالإضافة إلى التعرض لآثار جانبية هضمية دون تحقيق الفائدة المرجوة."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Beta-Carotene (Vitamin A) and Smokers",
+      "ar": "فيتامين أ بيتا كاروتين والمدخنين"
+    },
+    "content": {
+      "overview": {
+        "en": "Beta-carotene supplementation in smokers increases the risk of lung cancer instead of preventing it, as shown in the CARET and ATBC trials.",
+        "ar": "أظهرت دراسات CARET وATBC أن تناول مكملات البيتا كاروتين لدى المدخنين يزيد من خطر الإصابة بسرطان الرئة بدلاً من الوقاية منه."
+      },
+      "risks": {
+        "en": "The mechanism involves pro-oxidant effects at high doses in the lungs of individuals exposed to tobacco smoke, promoting carcinogenesis.",
+        "ar": "يُعتقد أن السبب يعود إلى تحول البيتا كاروتين إلى عامل مؤكسد عند الجرعات العالية داخل الرئتين المعرضتين لدخان التبغ، مما قد يعزز تطور الخلايا السرطانية."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Vitamin E and Bleeding Risk",
+      "ar": "فيتامين هـ والنزيف"
+    },
+    "content": {
+      "overview": {
+        "en": "High-dose Vitamin E acts as an anticoagulant by inhibiting platelet aggregation and interfering with Vitamin K metabolism. ",
+        "ar": "تعمل الجرعات المرتفعة من فيتامين هـ كمضاد للتجلط من خلال تقليل تجمع الصفائح الدموية والتأثير على أيض فيتامين ك."
+      },
+      "risks": {
+        "en": "This elevates bleeding risk, especially in patients on warfarin, aspirin, or before surgery, potentially causing hemorrhagic stroke. ",
+        "ar": "يزيد ذلك من خطر النزيف، خاصة لدى المرضى الذين يتناولون الوارفارين أو الأسبرين أو قبل العمليات الجراحية، وقد يؤدي في بعض الحالات إلى نزيف بالمخ."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Zinc Supplements and Immune Function",
+      "ar": "مكملات الزنك والمناعة"
+    },
+    "content": {
+      "overview": {
+        "en": "Excessive zinc intake above 40 mg daily impairs copper absorption and suppresses immune function over time.",
+        "ar": "يؤدي تناول الزنك بجرعات تتجاوز 40 مجم يومياً إلى تقليل امتصاص النحاس في الجسم، مما قد يضعف كفاءة الجهاز المناعي مع مرور الوقت."
+      },
+      "risks": {
+        "en": "This paradoxical effect leads to increased susceptibility to infections and causes copper deficiency anemia and neuropathy.",
+        "ar": "يؤدي هذا التأثير العكسي إلى زيادة القابلية للإصابة بالعدوى، كما قد يسبب فقر الدم الناتج عن نقص النحاس واعتلال الأعصاب الطرفية."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Vitamin B6 and Neuropathy",
+      "ar": "فيتامين ب6 والاعتلال العصبي"
+    },
+    "content": {
+      "overview": {
+        "en": "Chronic intake of pyridoxine above 200 mg daily causes sensory peripheral neuropathy with numbness and tingling.",
+        "ar": "قد يؤدي تناول البيريدوكسين (فيتامين ب6) بجرعات تزيد عن 200 مجم يومياً لفترات طويلة إلى اعتلال الأعصاب الطرفية الحسية، مما يسبب التنميل والوخز بالأطراف."
+      },
+      "risks": {
+        "en": "Symptoms can persist for months after discontinuation due to dorsal root ganglion damage. ",
+        "ar": "قد تستمر الأعراض لعدة أشهر حتى بعد إيقاف المكمل نتيجة حدوث تلف في العقد العصبية الحسية."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Creatine and Kidney Health",
+      "ar": "الكرياتين و الكلى"
+    },
+    "content": {
+      "overview": {
+        "en": "Creatine supplementation increases serum creatinine levels, which can be misinterpreted as kidney dysfunction in lab tests.  ",
+        "ar": "يؤدي تناول مكملات الكرياتين إلى ارتفاع مستوى الكرياتينين في الدم، مما قد يُفسَّر خطأً على أنه ضعف في وظائف الكلى عند قراءة نتائج التحاليل."
+      },
+      "risks": {
+        "en": "In individuals with pre-existing renal disease, high doses may accelerate decline in glomerular filtration rate. ",
+        "ar": "أما لدى الأشخاص المصابين بأمراض كلوية مسبقاً، فقد تؤدي الجرعات المرتفعة إلى تسريع تدهور معدل الترشيح الكبيبي ووظائف الكلى."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Omega-3 Supplements and Bleeding Risk",
+      "ar": "مكملات أوميجا3 والنزيف"
+    },
+    "content": {
+      "overview": {
+        "en": "Omega-3 fatty acids at doses above 3 grams daily prolong bleeding time by reducing platelet aggregation.",
+        "ar": "قد تؤدي أحماض أوميجا 3 الدهنية عند تناولها بجرعات تتجاوز 3 جرامات يومياً إلى إطالة زمن النزيف نتيجة تقليل تجمع الصفائح الدموية."
+      },
+      "risks": {
+        "en": "This poses risks for surgical patients and those on anticoagulants, increasing bruising and bleeding.",
+        "ar": "يزيد ذلك من خطر الكدمات والنزيف، خاصة لدى المرضى الذين يتناولون أدوية مميعة للدم أو المقبلين على العمليات الجراحية."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Turmeric Supplements and Gallbladder Disease",
+      "ar": "مكملات الكركم والمرارة"
+    },
+    "content": {
+      "overview": {
+        "en": "High-dose curcumin stimulates gallbladder contraction and bile release, which can trigger colic in patients with gallstones.",
+        "ar": "يحفز الكركمين بجرعات مرتفعة انقباض المرارة وزيادة إفراز العصارة الصفراوية، مما قد يثير نوبات المغص لدى مرضى حصوات المرارة."
+      },
+      "risks": {
+        "en": "It also interferes with anticoagulant and diabetic medications due to its antiplatelet and hypoglycemic effects.",
+        "ar": "كما قد يتداخل مع أدوية السيولة وأدوية السكري بسبب تأثيره المضاد لتجمع الصفائح الدموية والمخفض لمستويات السكر في الدم."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Ginseng and High Blood Pressure",
+      "ar": "الجنسنج وارتفاع الضغط"
+    },
+    "content": {
+      "overview": {
+        "en": "Ginseng can cause hypertension, insomnia, and headaches when taken in high doses or for prolonged periods.",
+        "ar": "قد يسبب الجنسنج ارتفاع ضغط الدم والأرق والصداع عند تناوله بجرعات مرتفعة أو لفترات زمنية طويلة."
+      },
+      "risks": {
+        "en": "It interacts with blood thinners and diabetic drugs, altering their effectiveness.",
+        "ar": "كما قد يتفاعل مع أدوية السيولة وأدوية السكري، مما قد يؤثر على فعاليتها العلاجية ويغير من استجابة الجسم لها."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Melatonin and Circadian Rhythm Disruption",
+      "ar": "الميلاتونين واضطراب الساعه البيولوجية"
+    },
+    "content": {
+      "overview": {
+        "en": "Long-term melatonin use at high doses can disrupt the body’s natural circadian rhythm and reduce endogenous melatonin production.",
+        "ar": "قد يؤدي استخدام الميلاتونين بجرعات مرتفعة لفترات طويلة إلى اضطراب الساعة البيولوجية الطبيعية للجسم وتقليل إنتاج الميلاتونين الطبيعي."
+      },
+      "risks": {
+        "en": "This leads to dependence for sleep and worsens sleep quality when stopped abruptly.",
+        "ar": "قد ينتج عن ذلك الاعتماد على الميلاتونين للمساعدة على النوم، كما قد تتدهور جودة النوم عند التوقف المفاجئ عن استخدامه."
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "",
+      "ar": ""
+    },
+    "content": {
+      "mechanism": {
+        "en": "",
+        "ar": ""
+      },
+      "risks": {
+        "en": "",
+        "ar": ""
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Nutmeg (Myristica fragrans)",
+      "ar": "جوزة الطيب"
+    },
+    "content": {
+      "common_uses": {
+        "en": [
+          "Flavoring desserts",
+          "Baked goods",
+          "Milk-based beverages",
+          "Savory dishes"
+        ],
+        "ar": [
+          "إضافة النكهة إلى الحلويات",
+          "المخبوزات",
+          "المشروبات المعتمدة على الحليب",
+          "الأطعمة المالحة"
+        ]
+      },
+
+      "active_compound": {
+        "en": "Myristicin",
+        "ar": "الميريستيسين"
+      },
+
+      "potential_benefits": {
+        "en": ["Antioxidant properties", "Enhances flavor in food products"],
+        "ar": [
+          "تمتلك خصائص مضادة للأكسدة",
+          "تساهم في تحسين النكهة في المنتجات الغذائية"
+        ]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Excessive consumption may cause nutmeg intoxication",
+          "Symptoms include hallucinations, dizziness, nausea, agitation, tachycardia, and confusion",
+          "Toxic effects have been reported after ingestion of approximately 5 g or more of nutmeg powder"
+        ],
+        "ar": [
+          "قد يؤدي الإفراط في تناول جوزة الطيب إلى التسمم",
+          "تشمل الأعراض الهلاوس والدوخة والغثيان والهيجان وتسارع ضربات القلب والتشوش الذهني",
+          "تم تسجيل حالات سمية بعد تناول حوالي 5 جرامات أو أكثر من مسحوق جوزة الطيب"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": [
+          "Children",
+          "Pregnant women",
+          "Individuals with psychiatric disorders"
+        ],
+        "ar": ["الأطفال", "النساء الحوامل", "الأشخاص المصابون باضطرابات نفسية"]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Cinnamon (Cinnamomum cassia)",
+      "ar": "القرفة"
+    },
+    "content": {
+      "common_uses": {
+        "en": [
+          "Tea",
+          "Coffee",
+          "Desserts",
+          "Bakery products",
+          "Traditional remedies"
+        ],
+        "ar": ["الشاي", "القهوة", "الحلويات", "المخبوزات", "العلاجات التقليدية"]
+      },
+
+      "active_compound": {
+        "en": "Coumarin",
+        "ar": "الكومارين"
+      },
+
+      "potential_benefits": {
+        "en": [
+          "Antioxidant activity",
+          "May contribute to blood glucose regulation"
+        ],
+        "ar": [
+          "تمتلك نشاطًا مضادًا للأكسدة",
+          "قد تساعد في تنظيم مستويات السكر في الدم"
+        ]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Long-term excessive intake may lead to liver toxicity",
+          "Coumarin may increase the risk of liver damage in susceptible individuals"
+        ],
+        "ar": [
+          "قد يؤدي الإفراط في تناولها لفترات طويلة إلى تسمم الكبد",
+          "قد يزيد الكومارين من خطر تلف الكبد لدى الأشخاص الأكثر عرضة لذلك"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": [
+          "Patients with liver disease",
+          "Individuals taking hepatotoxic medications"
+        ],
+        "ar": [
+          "مرضى الكبد",
+          "الأشخاص الذين يتناولون أدوية قد تؤثر سلبًا على الكبد"
+        ]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Licorice Root (Glycyrrhiza glabra)",
+      "ar": "عرق السوس"
+    },
+    "content": {
+      "common_uses": {
+        "en": [
+          "Herbal tea",
+          "Traditional treatment for cough",
+          "Traditional treatment for sore throat"
+        ],
+        "ar": ["شاي عشبي", "علاج تقليدي للسعال", "علاج تقليدي لالتهاب الحلق"]
+      },
+
+      "active_compound": {
+        "en": "Glycyrrhizin",
+        "ar": "الجليسريزين"
+      },
+
+      "potential_benefits": {
+        "en": [
+          "Anti-inflammatory properties",
+          "May help soothe the respiratory tract"
+        ],
+        "ar": ["له خصائص مضادة للالتهابات", "قد يساعد على تهدئة الجهاز التنفسي"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "May increase blood pressure",
+          "Can cause hypokalemia (low potassium levels)",
+          "May lead to cardiac arrhythmias",
+          "May cause fluid retention"
+        ],
+        "ar": [
+          "قد يرفع ضغط الدم",
+          "قد يسبب انخفاض مستوى البوتاسيوم في الدم",
+          "قد يؤدي إلى اضطرابات في نظم القلب",
+          "قد يسبب احتباس السوائل"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": [
+          "Patients with hypertension",
+          "Patients with cardiovascular diseases",
+          "Pregnant women"
+        ],
+        "ar": [
+          "مرضى ارتفاع ضغط الدم",
+          "مرضى القلب والأوعية الدموية",
+          "النساء الحوامل"
+        ]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Sage (Salvia officinalis)",
+      "ar": "الميرمية"
+    },
+    "content": {
+      "common_uses": {
+        "en": ["Culinary seasoning", "Herbal infusions"],
+        "ar": ["تُستخدم كتوابل في الطهي", "تُستخدم في المشروبات العشبية"]
+      },
+
+      "active_compound": {
+        "en": "Thujone",
+        "ar": "الثوجون"
+      },
+
+      "potential_benefits": {
+        "en": ["Antioxidant effects", "Antimicrobial effects"],
+        "ar": ["تمتلك تأثيرات مضادة للأكسدة", "تمتلك تأثيرات مضادة للميكروبات"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "High intake may cause seizures",
+          "High intake may cause neurotoxicity",
+          "Essential oils pose a greater risk than culinary amounts"
+        ],
+        "ar": [
+          "قد يؤدي الإفراط في تناولها إلى التشنجات",
+          "قد يؤدي الإفراط في تناولها سمية للجهاز العصبي",
+          "تكون الزيوت العطرية أكثر خطورة من الكميات المستخدمة في الطهي"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": ["Patients with epilepsy", "Children"],
+        "ar": ["مرضى الصرع", "الأطفال"]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Clove (Syzygium aromaticum)",
+      "ar": "القرنفل"
+    },
+    "content": {
+      "common_uses": {
+        "en": [
+          "Spice in food preparation",
+          "Traditional remedy for dental pain"
+        ],
+        "ar": [
+          "يُستخدم كأحد التوابل في إعداد الطعام",
+          "يُستخدم تقليدياً لتخفيف ألم الأسنان"
+        ]
+      },
+
+      "active_compound": {
+        "en": "Eugenol",
+        "ar": "الأوجينول"
+      },
+
+      "potential_benefits": {
+        "en": ["Analgesic properties", "Antimicrobial activity"],
+        "ar": ["له خصائص مسكنة للألم", "يمتلك نشاطاً مضاداً للميكروبات"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Excessive use of clove oil may cause liver toxicity",
+          "May increase the risk of bleeding"
+        ],
+        "ar": [
+          "قد يؤدي الإفراط في استخدام زيت القرنفل إلى تسمم الكبد",
+          "قد يزيد من خطر النزيف"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": ["Patients receiving anticoagulant therapy", "Children"],
+        "ar": ["المرضى الذين يتناولون مميعات الدم", "الأطفال"]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Ginger (Zingiber officinale)",
+      "ar": "الزنجبيل"
+    },
+    "content": {
+      "common_uses": {
+        "en": ["Herbal tea", "Cooking spice", "Management of nausea"],
+        "ar": [
+          "يُستخدم كشاي عشبي",
+          "يُستخدم كأحد توابل الطهي",
+          "يساعد في التخفيف من الغثيان"
+        ]
+      },
+
+      "active_compound": {
+        "en": "Gingerols and Shogaols",
+        "ar": "الجينجيرولات والشوجاولات"
+      },
+
+      "potential_benefits": {
+        "en": ["Antiemetic effects", "Anti-inflammatory properties"],
+        "ar": ["يساعد في تقليل الغثيان والقيء", "يمتلك خصائص مضادة للالتهابات"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "High doses may increase bleeding tendency",
+          "May interact with anticoagulant medications"
+        ],
+        "ar": [
+          "قد تؤدي الجرعات العالية إلى زيادة قابلية النزيف",
+          "قد يتفاعل مع الأدوية المانعة لتجلط الدم"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": [
+          "Patients taking warfarin",
+          "Patients taking antiplatelet medications"
+        ],
+        "ar": [
+          "المرضى الذين يتناولون الوارفارين",
+          "المرضى الذين يتناولون الأدوية المضادة لتجمع الصفائح الدموية"
+        ]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Turmeric (Curcuma longa)",
+      "ar": "الكركم"
+    },
+    "content": {
+      "common_uses": {
+        "en": ["Curry seasoning", "Traditional medicinal preparations"],
+        "ar": [
+          "يُستخدم في تتبيل أطباق الكاري",
+          "يُستخدم في المستحضرات العلاجية التقليدية"
+        ]
+      },
+
+      "active_compound": {
+        "en": "Curcumin",
+        "ar": "الكركمين"
+      },
+
+      "potential_benefits": {
+        "en": ["Anti-inflammatory activity", "Antioxidant effects"],
+        "ar": [
+          "يمتلك نشاطًا مضادًا للالتهابات",
+          "يحتوي على خصائص مضادة للأكسدة"
+        ]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Excessive intake may increase oxalate levels",
+          "May contribute to kidney stone formation in susceptible individuals"
+        ],
+        "ar": [
+          "الإفراط في تناوله قد يؤدي إلى زيادة مستويات الأوكسالات",
+          "قد يساهم في تكوين حصوات الكلى لدى الأشخاص المعرضين لذلك"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": ["Individuals with a history of nephrolithiasis (kidney stones)"],
+        "ar": ["الأشخاص الذين لديهم تاريخ مرضي مع حصوات الكلى"]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Fennel (Foeniculum vulgare)",
+      "ar": "الشمر"
+    },
+    "content": {
+      "common_uses": {
+        "en": ["Herbal tea", "Digestive aid"],
+        "ar": ["يُستخدم كشاي عشبي", "يساعد في تحسين عملية الهضم"]
+      },
+
+      "active_compound": {
+        "en": "Anethole",
+        "ar": "الأنيثول"
+      },
+
+      "potential_benefits": {
+        "en": [
+          "Relief of bloating",
+          "Reduction of gastrointestinal discomfort"
+        ],
+        "ar": ["يساعد في تخفيف الانتفاخ", "يخفف اضطرابات الجهاز الهضمي"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Excessive use of concentrated fennel oil may cause neurological symptoms",
+          "Potential allergic reactions have been reported"
+        ],
+        "ar": [
+          "الإفراط في استخدام زيت الشمر المركز قد يسبب أعراضًا عصبية",
+          "تم الإبلاغ عن حدوث تفاعلات تحسسية لدى بعض الأشخاص"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": [
+          "Infants",
+          "Individuals with allergies to Apiaceae family plants"
+        ],
+        "ar": [
+          "الرضع",
+          "الأشخاص الذين لديهم حساسية تجاه نباتات الفصيلة الخيمية"
+        ]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Star Anise (Illicium verum)",
+      "ar": "اليانسون النجمي"
+    },
+    "content": {
+      "common_uses": {
+        "en": ["Herbal beverages", "Culinary spice"],
+        "ar": ["يُستخدم في المشروبات العشبية", "يُستخدم كتوابل في الطهي"]
+      },
+
+      "active_compound": {
+        "en": "Anethole",
+        "ar": "الأنيثول"
+      },
+
+      "potential_benefits": {
+        "en": ["Digestive support"],
+        "ar": ["يساعد في دعم وتحسين وظائف الجهاز الهضمي"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Contamination or substitution with Japanese star anise (Illicium anisatum) may cause severe neurotoxicity",
+          "Symptoms may include seizures and neurological impairment"
+        ],
+        "ar": [
+          "قد يؤدي التلوث أو الاستبدال باليانسون النجمي الياباني (اليانسون) إلى سمية عصبية شديدة",
+          "تشمل الأعراض التشنجات واضطرابات الجهاز العصبي"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": ["Infants", "Young children"],
+        "ar": ["الرضع", "الأطفال الصغار"]
+      }
+    }
+  },
+  {
+    "title": {
+      "en": "Camphor (Cinnamomum camphora)",
+      "ar": "الكافور"
+    },
+    "content": {
+      "common_uses": {
+        "en": ["Traditional medicinal preparations", "Topical products"],
+        "ar": [
+          "يُستخدم في المستحضرات الطبية التقليدية",
+          "يدخل في المنتجات الموضعية المستخدمة على الجلد"
+        ]
+      },
+
+      "active_compound": {
+        "en": "Camphor",
+        "ar": "الكافور"
+      },
+
+      "potential_benefits": {
+        "en": ["Mild topical analgesic effects"],
+        "ar": ["له تأثيرات موضعية خفيفة لتخفيف الألم"]
+      },
+
+      "risks_and_toxicity": {
+        "en": [
+          "Oral ingestion may cause severe poisoning",
+          "Can lead to seizures, respiratory depression, and coma"
+        ],
+        "ar": [
+          "تناوله عن طريق الفم قد يسبب تسممًا شديدًا",
+          "قد يؤدي إلى التشنجات، تثبيط التنفس، والغيبوبة"
+        ]
+      },
+
+      "vulnerable_groups": {
+        "en": ["Children", "Elderly individuals"],
+        "ar": ["الأطفال", "كبار السن"]
+      }
+    }
+  }
+]

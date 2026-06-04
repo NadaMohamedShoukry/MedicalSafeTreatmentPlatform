@@ -2,11 +2,12 @@ import { useNavigate, useParams } from "react-router";
 import { motion } from "motion/react";
 import { useTheme } from "../../context/ThemeContext";
 import DiseasesCard from "./DiseasesCard";
-import EmptyField from "./EmptyField";
+
 import useFieldDiseases from "../../hooks/useFieldDiseases";
 import useMedicalFieldById from "../../hooks/useMedicalFieldById";
 import Error from "../Error";
 import Spinner from "../Spinner";
+import Empty from "../Empty";
 function DiseasesSection() {
   const navigate = useNavigate();
   const { fieldId } = useParams();
@@ -57,7 +58,13 @@ function DiseasesSection() {
           <DiseasesCard disease={disease} index={index} />
         ))}
       </div>
-      {fieldDiseases.length === 0 && <EmptyField />}
+      {fieldDiseases.length === 0 && (
+        <Empty>
+          {language === "en"
+            ? "More conditions coming soon..."
+            : "المزيد من الحالات قريباً..."}
+        </Empty>
+      )}
     </>
   );
 }

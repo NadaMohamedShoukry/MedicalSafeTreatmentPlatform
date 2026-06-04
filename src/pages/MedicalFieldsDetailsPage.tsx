@@ -1,4 +1,4 @@
-import BackButton from "../components/FieldsDetails/BackButton";
+import BackButton from "../components/BackButton";
 import DiseasesSection from "../components/FieldsDetails/DiseasesSection";
 
 function MedicalFieldsDetailsPage() {

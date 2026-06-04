@@ -8,6 +8,7 @@ import MedicalFieldsDetailsPage from "./pages/MedicalFieldsDetailsPage";
 import SearchPage from "./pages/SearchPage";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import ClinicalReferencesPage from "./pages/ClinicalReferencesPage";
+import SafetyGuidelinesDetailsPage from "./pages/SafetyGuidelinesDetailsPage";
 
 function App() {
   const queryClient = new QueryClient();
@@ -27,6 +28,10 @@ function App() {
               <Route
                 path="/clinical-references/:fieldId"
                 element={<ClinicalReferencesPage />}
+              />
+              <Route
+                path="/safety-guideline/:guidelineId"
+                element={<SafetyGuidelinesDetailsPage />}
               />
             </Route>
           </Routes>

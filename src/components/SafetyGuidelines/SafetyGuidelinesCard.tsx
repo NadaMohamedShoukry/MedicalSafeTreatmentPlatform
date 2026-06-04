@@ -1,11 +1,9 @@
-import { useNavigate } from "react-router";
-
-import { useTheme } from "../../context/ThemeContext";
-import { motion } from "motion/react";
 import { ArrowLeft, ArrowRight } from "lucide-react";
-
-interface MedicalFieldCardProps {
-  field: {
+import { motion } from "motion/react";
+import { useNavigate } from "react-router";
+import { useTheme } from "../../context/ThemeContext";
+interface SafetyGuidelinesCardProps {
+  guideline: {
     id: number;
     name: string;
     description: string;
@@ -13,14 +11,13 @@ interface MedicalFieldCardProps {
   };
   index: number;
 }
-function MedicalFieldCard({ field, index }: MedicalFieldCardProps) {
-  const { language } = useTheme();
 
+function SafetyGuidelinesCard({ guideline, index }: SafetyGuidelinesCardProps) {
   const navigate = useNavigate();
-
+  const { language } = useTheme();
   return (
     <motion.button
-      onClick={() => navigate(`/field/${field.id}`)}
+      onClick={() => navigate(`/safety-guideline/${guideline.id}`)}
       className="group relative p-6 rounded-3xl bg-white/40 dark:bg-slate-800/40 backdrop-blur-md border border-white/60
        dark:border-slate-700/60 shadow-lg hover:shadow-2xl transition-all 
        duration-500 overflow-hidden text-left w-full hover:border-slate-800/40 hover:dark:border-cyan-300/40"
@@ -34,19 +31,19 @@ function MedicalFieldCard({ field, index }: MedicalFieldCardProps) {
       <div
         className={`absolute inset-0 bg-linear-to-br from-blue-200 to-cyan-100 opacity-0 group-hover:opacity-10 transition-opacity duration-500`}
       />
-      <div className="flex gap-4 items-center">
+      <div className="flex items-center justify-between">
         {/* Icon */}
         <div className="relative ">
-          <img className="w-42 h-25" src={field.images} />
+          <img className="w-42 h-33" src={guideline.images} />
         </div>
 
         {/* Content */}
         <div className="relative space-y-2">
           <h3 className="text-lg font-bold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors duration-300">
-            {field.name}
+            {guideline.name}
           </h3>
-          <p className="text-sm text-gray-600 dark:text-gray-300 line-clamp-2">
-            {field.description}
+          <p className="text-sm text-gray-600 dark:text-gray-300 line-clamp-2 ">
+            {guideline.description}
           </p>
         </div>
       </div>
@@ -69,4 +66,4 @@ function MedicalFieldCard({ field, index }: MedicalFieldCardProps) {
   );
 }
 
-export default MedicalFieldCard;
+export default SafetyGuidelinesCard;
