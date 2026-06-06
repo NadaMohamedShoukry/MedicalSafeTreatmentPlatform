@@ -36,7 +36,7 @@ function MemberCard({ member, index }: MemberProps) {
               {role}
             </li>
           ))}
-          <p className="text-gray-700 dark:text-gray-400">
+          <p className="text-sm text-gray-700 dark:text-gray-400">
             {member.bio[language]}
           </p>
         </div>
