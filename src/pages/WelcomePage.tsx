@@ -17,7 +17,7 @@ function WelcomePage() {
         {/* Floating Medical Icons */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <motion.div
-            className="absolute top-1/6 left-[9%]"
+            className="absolute top-1/8 left-[9%]"
             animate={{
               y: [0, -20, 0],
               rotate: [0, 5, 0],
@@ -34,7 +34,7 @@ function WelcomePage() {
           </motion.div>
 
           <motion.div
-            className="absolute top-1/3 right-[15%]"
+            className="absolute top-1/12 right-[15%]"
             animate={{
               y: [0, 20, 0],
               rotate: [0, -5, 0],
@@ -46,13 +46,13 @@ function WelcomePage() {
               delay: 1,
             }}
           >
-            <div className="w-20 h-20 rounded-2xl bg-white/20 dark:bg-white/10 backdrop-blur-sm border border-white/30 flex items-center justify-center shadow-2xl">
-              <Activity className="w-10 h-10 text-blue-400" />
+            <div className="w-16 h-16 rounded-2xl bg-white/20 dark:bg-white/10 backdrop-blur-sm border border-white/30 flex items-center justify-center shadow-2xl">
+              <Activity className="w-8 h-8 text-blue-400" />
             </div>
           </motion.div>
 
           <motion.div
-            className="absolute bottom-1/5 left-[20%]"
+            className="absolute bottom-1/4 left-[20%]"
             animate={{
               y: [0, -15, 0],
               rotate: [0, 3, 0],
@@ -70,7 +70,7 @@ function WelcomePage() {
           </motion.div>
 
           <motion.div
-            className="absolute bottom-1/5 right-[25%]"
+            className="absolute bottom-1/4 right-[25%]"
             animate={{
               y: [0, 25, 0],
               rotate: [0, -3, 0],
