@@ -24,6 +24,7 @@ export const translations = {
     redFlags: "Red Flags",
     contraindications: "Contraindications",
     warning: "Warning",
+    aim: "TheraPocket provides information across all medical specialties, including safe medication dosages, common treatments, and simplified explanations to help users better understand medical conditions in an easy and accessible way.",
     severity: {
       safe: "Common Condition",
       serious: "Emergency - Consult Doctor Immediately",
@@ -53,6 +54,7 @@ export const translations = {
     redFlags: "علامات خطر",
     contraindications: "موانع الاستعمال",
     warning: "تحذير",
+    aim: "كما يوفر ثيرابوكيت معلومات شاملة في جميع التخصصات الطبية، مع توضيح الجرعات الآمنة للأدوية، وأشهر العلاجات المستخدمة، وشرح مبسط للحالات الطبية لمساعدة المستخدم على فهم حالته بطريقة سهلة وواضحة",
     severity: {
       safe: "حالة شائعة",
       serious: "حاله طارئه - استشر الطبيب فوراً",

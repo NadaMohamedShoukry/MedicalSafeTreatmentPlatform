@@ -1,7 +1,9 @@
 import { useTheme } from "../../context/ThemeContext";
 import { motion } from "motion/react";
+import { translations } from "../../data/translations";
 function HeroTextContent() {
   const { language } = useTheme();
+  const t = translations[language];
   return (
     <>
       <motion.div
@@ -36,9 +38,7 @@ function HeroTextContent() {
       </h1>
 
       <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
-        {language === "en"
-          ? "TheraPocket provides information across all medical specialties, including safe medication dosages, common treatments, and simplified explanations to help users better understand medical conditions in an easy and accessible way."
-          : "كما يوفر ثيرابوكيت معلومات شاملة في جميع التخصصات الطبية، مع توضيح الجرعات الآمنة للأدوية، وأشهر العلاجات المستخدمة، وشرح مبسط للحالات الطبية لمساعدة المستخدم على فهم حالته بطريقة سهلة وواضحة"}
+        {t.aim}
       </p>
     </>
   );

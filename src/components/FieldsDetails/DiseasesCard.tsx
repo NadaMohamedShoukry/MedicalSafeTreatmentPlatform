@@ -10,10 +10,10 @@ import { translations } from "../../data/translations";
 import { motion } from "motion/react";
 import type { Disease } from "../../types/Diseases";
 
-interface DiseaseCardProps {
+type DiseaseCardProps = {
   disease: Disease;
   index: number;
-}
+};
 function DiseasesCard({ disease, index }: DiseaseCardProps) {
   const { language } = useTheme();
   const t = translations[language];

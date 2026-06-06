@@ -9,6 +9,7 @@ import SearchPage from "./pages/SearchPage";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import ClinicalReferencesPage from "./pages/ClinicalReferencesPage";
 import SafetyGuidelinesDetailsPage from "./pages/SafetyGuidelinesDetailsPage";
+import AboutUsPage from "./pages/AboutUsPage";
 
 function App() {
   const queryClient = new QueryClient();
@@ -21,6 +22,7 @@ function App() {
             <Route element={<Layout />}>
               <Route path="/home" element={<HomePage />} />
               <Route path="/search" element={<SearchPage />} />
+              <Route path="/about-us" element={<AboutUsPage />} />
               <Route
                 path="/field/:fieldId"
                 element={<MedicalFieldsDetailsPage />}
