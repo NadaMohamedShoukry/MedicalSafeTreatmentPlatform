@@ -19,7 +19,7 @@ function Navbar() {
           <div className="flex items-center gap-2 sm:gap-4">
             <Button
               onClick={() => navigate("/about-us")}
-              className="p-2 rounded-lg bg-white/50 dark:bg-slate-800/50 backdrop-blur-sm border border-white/30 dark:border-slate-700/30 hover:border-blue-400/50 transition-all duration-300"
+              className=" text-[12px] px-1 py-0.5 rounded-lg bg-white/50 dark:bg-slate-800/50 backdrop-blur-sm border border-white/30 dark:border-slate-700/30 hover:border-blue-400/50 transition-all duration-300"
             >
               {language === "en" ? "Who are we?" : "من نحن؟"}
             </Button>

@@ -9,7 +9,7 @@ function ThemeToggleButton() {
   return (
     <button
       onClick={toggleTheme}
-      className="p-2 rounded-lg bg-white/50 dark:bg-slate-800/50 backdrop-blur-sm border border-white/30 dark:border-slate-700/30 hover:border-blue-400/50 transition-all duration-300 hover:scale-105"
+      className=" p-2 rounded-lg bg-white/50 dark:bg-slate-800/50 backdrop-blur-sm border border-white/30 dark:border-slate-700/30 hover:border-blue-400/50 transition-all duration-300 hover:scale-105"
       aria-label={theme === "light" ? t.darkMode : t.lightMode}
     >
       {theme === "light" ? (
