@@ -50,6 +50,7 @@ function SafetyGuidelinesDetailsSection() {
             key={index}
             guideline={guideline}
             index={index}
+            isModal={false}
           />
         ))}
       </div>

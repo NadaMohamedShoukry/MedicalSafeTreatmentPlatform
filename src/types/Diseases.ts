@@ -41,4 +41,6 @@ export type Disease = {
     ar: string[];
   };
   contraindications: { en: string[]; ar: string[] };
+  search_text_ar: string;
+  search_text_en: string;
 };

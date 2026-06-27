@@ -13,8 +13,9 @@ import type { Disease } from "../../types/Diseases";
 type DiseaseCardProps = {
   disease: Disease;
   index: number;
+  isModal: boolean;
 };
-function DiseasesCard({ disease, index }: DiseaseCardProps) {
+function DiseasesCard({ disease, index, isModal }: DiseaseCardProps) {
   const { language } = useTheme();
   const t = translations[language];
 
@@ -31,7 +32,7 @@ function DiseasesCard({ disease, index }: DiseaseCardProps) {
   return (
     <motion.div
       key={disease.id}
-      className="p-6 sm:p-8 rounded-3xl bg-white/50 dark:bg-slate-800/50 backdrop-blur-md border border-white/60 dark:border-slate-700/60 shadow-xl hover:shadow-2xl transition-all duration-300"
+      className={`${isModal ? "" : "p-6 sm:p-8 rounded-3xl bg-white/50 dark:bg-slate-800/50 backdrop-blur-md border border-white/60 dark:border-slate-700/60 shadow-xl hover:shadow-2xl transition-all duration-300"}`}
       initial={{ opacity: 0, y: 30 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.1 }}

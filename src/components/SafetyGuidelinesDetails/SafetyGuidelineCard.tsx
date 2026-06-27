@@ -17,6 +17,7 @@ import {
 interface GuidelineCardProps {
   guideline: Guidelines;
   index: number;
+  isModal: boolean;
 }
 const SECTION_CONFIG: Record<
   string,
@@ -219,7 +220,11 @@ function SectionBlock({
   );
 }
 
-function SafetyGuidelineCard({ guideline, index }: GuidelineCardProps) {
+function SafetyGuidelineCard({
+  guideline,
+  index,
+  isModal,
+}: GuidelineCardProps) {
   const { language } = useTheme();
   console.log(guideline);
   // Determine card type badge based on content keys present
@@ -247,7 +252,7 @@ function SafetyGuidelineCard({ guideline, index }: GuidelineCardProps) {
   return (
     <motion.div
       key={guideline.id}
-      className="p-6 sm:p-8 rounded-3xl bg-white/50 dark:bg-slate-800/50 backdrop-blur-md border border-white/60 dark:border-slate-700/60 shadow-xl hover:shadow-2xl transition-all duration-300"
+      className={`${isModal ? "" : "p-6 sm:p-8 rounded-3xl bg-white/50 dark:bg-slate-800/50 backdrop-blur-md border border-white/60 dark:border-slate-700/60 shadow-xl hover:shadow-2xl transition-all duration-300"}`}
       initial={{ opacity: 0, y: 30 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.1 }}
