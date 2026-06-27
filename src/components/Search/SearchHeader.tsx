@@ -22,8 +22,8 @@ function SearchHeader() {
       </h1>
       <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
         {language === "en"
-          ? "Search for diseases, symptoms, and treatments"
-          : "ابحث عن الأمراض والأعراض والعلاجات"}
+          ? "Search for diseases, symptoms, treatments, supplements, and herbs"
+          : "ابحث عن الأمراض والأعراض والعلاجات والمكملات والأعشاب"}
       </p>
     </motion.div>
   );

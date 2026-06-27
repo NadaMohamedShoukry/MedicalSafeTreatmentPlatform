@@ -30,7 +30,7 @@ function SearchInput({ searchQuery, setSearchQuery }: SearchInputProps) {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder={t.searchPlaceholder}
-            className="flex-1 bg-transparent border-none outline-none text-lg text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500"
+            className="min-w-0 flex-1 bg-transparent border-none outline-none text-sm text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500"
             autoFocus
           />
           {searchQuery && (
@@ -38,7 +38,7 @@ function SearchInput({ searchQuery, setSearchQuery }: SearchInputProps) {
               onClick={() => setSearchQuery("")}
               className="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-slate-700 transition-colors"
             >
-              <X className="w-5 h-5 text-gray-500" />
+              <X className="shrink-0 w-5 h-5 text-gray-500" />
             </button>
           )}
           <Sparkles className="w-6 h-6 text-cyan-400 animate-pulse" />

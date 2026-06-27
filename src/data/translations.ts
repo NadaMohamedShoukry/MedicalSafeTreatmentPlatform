@@ -4,7 +4,8 @@ export const translations = {
     welcomeTitle:
       "Empowering Public Health Awareness in Alignment with Egypt Vision 2030",
     enterPlatform: "Enter Platform",
-    searchPlaceholder: "Search diseases, symptoms, treatments...",
+    searchPlaceholder:
+      "Search diseases, symptoms, treatments, supplements, herbs",
     medicalFields: "Medical Fields",
     safetyGuidelines: "Safety Guidelines",
     aboutUs: "About Us",
@@ -34,7 +35,7 @@ export const translations = {
     platformName: "ثيرابوكيت",
     welcomeTitle: "تمكين الوعي الصحي العام بما يتماشى مع رؤية مصر 2030",
     enterPlatform: "ادخل المنصة",
-    searchPlaceholder: "ابحث عن الأمراض، الأعراض، العلاجات...",
+    searchPlaceholder: "ابحث عن الأمراض، الأعراض، العلاجات، المكملات، الأعشاب",
     medicalFields: "المجالات الطبية",
     safetyGuidelines: "إرشادات السلامة",
     aboutUs: "من نحن",
